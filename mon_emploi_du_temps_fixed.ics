@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: Ruvoen Nathalie\nSalle: Amphi Pierre Cuq\nType: CM\nCode: 064\nGroupes: VET3
+DTEND:20260120T170000Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:Amphi Pierre Cuq
+DTSTART:20260120T160000Z
+SUMMARY:Réglementation sanitaire générale et maladies réglementées - Loi Santé Animale (LSA) - Catégorisation des dangers zoo-sanitaires et conséquence en termes de surveillance/prévention/lutte
+UID:372e5302-b6bf-4be2-90e3-de9d6dd94613@372e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: Chauvin Alain\nSalle: Amphi Pierre Cuq\nType: CM\nCode: 061\nGroupes: VET3
+DTEND:20260120T150000Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:Amphi Pierre Cuq
+DTSTART:20260120T140000Z
+SUMMARY:Maladie des ruminants 1 - Helminthoses digestives de pâturages 2
+UID:9cfbaa49-4eda-4b8e-b62c-8b29d7f32a2e@9cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: Chauvin Alain\nSalle: Amphi Pierre Cuq\nType: CM\nCode: 061\nGroupes: VET3
+DTEND:20260120T160000Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:Amphi Pierre Cuq
+DTSTART:20260120T150000Z
+SUMMARY:Maladie des ruminants 1 - Helminthoses digestives de pâturages 3
+UID:d9fe74dd-e2e3-4742-877c-6fe742071087@d9fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: Mallem Yassine\nSalle: Amphi G5\nType: CM\nCode: 066\nGroupes: VET3
+DTEND:20260120T103000Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:Amphi G5
+DTSTART:20260120T093000Z
+SUMMARY:Pharmacologie et toxicologie clinique - 1-Médicaments des fonctions cardiovasculaire et urinaire
+UID:aeca8c7d-c3e6-4cbd-88e0-163f981af8fd@aeca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: \nSalle: e-learning\nType: \nCode: 064\nGroupes: 
+DTEND:20260120T190500Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:e-learning
+DTSTART:20260120T180500Z
+SUMMARY:Réglementation sanitaire générale et maladies réglementées - Virtuellose
+UID:ee8d8875-8d33-49e0-8678-de0564cfe782@ee8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: Mallem Yassine\nSalle: Amphi G5\nType: CM\nCode: 066\nGroupes: VET3
+DTEND:20260120T093000Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:Amphi G5
+DTSTART:20260120T083000Z
+SUMMARY:Pharmacologie et toxicologie clinique - 1-Médicaments anti-inflammatoires stéroidienset non stéroidiens
+UID:bd1d1e47-edcc-4272-a746-4695e8e9e21b@bd1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: Hervé Julie\nSalle: Amphi G5\nType: CM\nCode: 062\nGroupes: VET3
+DTEND:20260120T113000Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:Amphi G5
+DTSTART:20260120T103000Z
+SUMMARY:Sémiologie physiopathologie intégrée - Présentation de l'UE 062
+UID:931d979a-278a-46fb-ba96-6f2fb38b4b37@931d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: \nSalle: e-learning\nType: \nCode: 061\nGroupes: 
+DTEND:20260120T180000Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:e-learning
+DTSTART:20260120T170000Z
+SUMMARY:Maladie des ruminants 1 - préparation du TD épidémio SGI et principes de prévention
+UID:0313da2d-baee-446c-82fd-20667931d0f7@0313.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: Sénécat Odile\nSalle: Amphi G5\nType: CM\nCode: 062\nGroupes: VET3
+DTEND:20260120T115000Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:Amphi G5
+DTSTART:20260120T105000Z
+SUMMARY:Sémiologie physiopathologie intégrée - Sémiologie cardiaque 1
+UID:11f0e874-5b0c-4776-b8bd-47e2a6142de8@11f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260126T200021Z
+DESCRIPTION:Prof: Sénécat Odile\nSalle: Amphi G5\nType: CM\nCode: 062\nGroupes: VET3
+DTEND:20260120T124500Z
+LAST-MODIFIED:20260126T200021Z
+LOCATION:Amphi G5
+DTSTART:20260120T114500Z
+SUMMARY:Sémiologie physiopathologie intégrée - Sémiologie cardiaque 2
+UID:40ec92e6-e1c8-4484-a11f-f9f063de91b3@40ec.org
+END:VEVENT
+METHOD:PUBLISH
+END:VCALENDAR
