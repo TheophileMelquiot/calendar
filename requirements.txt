@@ -1,5 +1,0 @@
-selenium==4.15.2
-beautifulsoup4==4.12.2
-ics==0.7.2
-python-dateutil==2.8.2
-webdriver-manager==4.0.1
