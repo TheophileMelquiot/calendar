@@ -1,0 +1,98 @@
+name: 🎓 Scrape Emploi du Temps Semestriel
+
+# Déclenchement automatique
+on:
+  schedule:
+    # 1er janvier à 2h du matin (UTC)
+    - cron: '0 2 1 1 *'
+    # 1er août à 2h du matin (UTC)
+    - cron: '0 2 1 8 *'
+  
+  # Déclenchement manuel (pour tester)
+  workflow_dispatch:
+
+jobs:
+  scrape-and-generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. Récupérer le code
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+      
+      # 2. Installer Python
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      # 3. Installer Chrome et ChromeDriver
+      - name: 🌐 Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+      
+      # 4. Installer les dépendances Python
+      - name: 📦 Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      # 5. Créer le fichier de config (reponse.json)
+      - name: 🔧 Create config file
+        run: |
+          echo '{
+            "login_url": "${{ secrets.CELCAT_URL }}",
+            "username": "${{ secrets.CELCAT_USERNAME }}",
+            "password": "${{ secrets.CELCAT_PASSWORD }}"
+          }' > reponse.json
+      
+      # 6. Exécuter le scraper
+      - name: 🕷️ Run scraper (26 weeks)
+        run: python src/scraper_complet.py
+        timeout-minutes: 60
+      
+      # 7. Convertir HTML → JSON
+      - name: 🔄 Convert HTML to JSON
+        run: python src/finaljson.py
+      
+      # 8. Convertir JSON → ICS
+      - name: 📅 Generate ICS file
+        run: python src/json_to_ics.py
+      
+      # 9. Obtenir la date pour le nom du fichier
+      - name: 📆 Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+      
+      # 10. Upload le fichier .ics comme artifact
+      - name: 📤 Upload ICS file
+        uses: actions/upload-artifact@v4
+        with:
+          name: emploi-du-temps-${{ steps.date.outputs.date }}
+          path: emploi_du_temps_complet_v2.ics
+          retention-days: 180
+      
+      # 11. Créer une release GitHub avec le fichier .ics
+      - name: 🚀 Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: semester-${{ steps.date.outputs.date }}
+          name: Emploi du Temps - ${{ steps.date.outputs.date }}
+          body: |
+            📅 Emploi du temps semestriel généré automatiquement
+            
+            🗓️ Date de génération : ${{ steps.date.outputs.date }}
+            📊 Période couverte : 6 mois (26 semaines)
+            
+            ### 📱 Installation sur iPhone
+            1. Téléchargez le fichier .ics ci-dessous
+            2. Ouvrez-le avec l'app Calendrier
+            3. Importez dans votre calendrier préféré
+          files: emploi_du_temps_complet_v2.ics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
