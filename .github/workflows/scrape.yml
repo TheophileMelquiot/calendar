@@ -26,6 +26,7 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           pip install -r requirements.txt
+          
       - name: 🔎 Trouver scrape_celcat.py
         run: |
           echo "Working dir: $(pwd)"
@@ -35,14 +36,16 @@ jobs:
           find . -maxdepth 6 -type f -name 'scrape_celcat.py' -print || true
           echo "Recherche par nom dans git (si présent dans l'index):"
           git ls-files | grep -n 'scrape_celcat.py' || true
-          
+
       - name: 🚀 Run scraper
         env:
           CELCAT_LOGIN_URL: ${{ secrets.CELCAT_LOGIN_URL }}
           CELCAT_USERNAME: ${{ secrets.CELCAT_USERNAME }}
           CELCAT_PASSWORD: ${{ secrets.CELCAT_PASSWORD }}
         run: |
-          python calendar/scraper/scrape_celcat.py
+          python --version
+          ls -la scraper || true
+          python scraper/scrape_celcat.py
 
       - name: 💾 Commit generated files
         run: |
