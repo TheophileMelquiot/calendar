@@ -33,7 +33,7 @@ jobs:
           CELCAT_USERNAME: ${{ secrets.CELCAT_USERNAME }}
           CELCAT_PASSWORD: ${{ secrets.CELCAT_PASSWORD }}
         run: |
-          python scraper/scrape_celcat.py
+          python calendar/scraper/scrape_celcat.py
 
       - name: 💾 Commit generated files
         run: |
