@@ -429,9 +429,11 @@ def main():
         print("❌ Erreur : Le fichier 'reponse.json' est introuvable.")
         return
     
-    LOGIN_URL = config.get("login_url", "").strip()
-    USERNAME = config.get("username", "").strip()
-    PASSWORD = config.get("password", "").strip()
+
+    LOGIN_URL = os.environ["CELCAT_LOGIN_URL"]
+    USERNAME = os.environ["CELCAT_USERNAME"]
+    PASSWORD = os.environ["CELCAT_PASSWORD"]
+
     
     NB_WEEKS = 26
     
