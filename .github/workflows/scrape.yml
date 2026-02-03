@@ -26,7 +26,16 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           pip install -r requirements.txt
-
+      - name: 🔎 Trouver scrape_celcat.py
+        run: |
+          echo "Working dir: $(pwd)"
+          echo "Fichiers à la racine:"
+          ls -la
+          echo "Recherche exhaustive du fichier scrape_celcat.py (max 5s):"
+          find . -maxdepth 6 -type f -name 'scrape_celcat.py' -print || true
+          echo "Recherche par nom dans git (si présent dans l'index):"
+          git ls-files | grep -n 'scrape_celcat.py' || true
+          
       - name: 🚀 Run scraper
         env:
           CELCAT_LOGIN_URL: ${{ secrets.CELCAT_LOGIN_URL }}
