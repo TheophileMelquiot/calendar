@@ -1,0 +1,3325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: agents de myiases / Poux\nType: Guillot Jacques\nIntervenant: Amphi Pierre Cuq\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: Diptères\nGroupes: CM\n\n \n\nVET3
+DTEND:20260317T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi Pierre Cuq
+DTSTART:20260317T140000Z
+SUMMARY:Diptères Guillot Jacques - agents de myiases / Poux - 3:00 PM - 3:50 PM
+UID:945c0b98-cd4f-4523-9db0-e663e4210dd0@945c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des fonctions du système nerveux\nType: Desfontis Jean-Claude\nIntervenant: Amphi G2N\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: Médicaments\nGroupes: CM\n\n \n\nVET3
+DTEND:20260127T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - Amphi G2N
+DTSTART:20260127T140000Z
+SUMMARY:Médicaments Desfontis Jean-Claude - des fonctions du système nerveux - 3:00 PM - 3:50 PM
+UID:1cac39b7-21f0-40ce-955f-7fed3d33722a@1cac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1 UE 064\nType: Ruvoen Nathalie\nIntervenant: Amphi Pierre Cuq\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: Session\nGroupes: Examen session 1 - VET3\n\n \n\nVET3
+DTEND:20260526T130000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi Pierre Cuq
+DTSTART:20260526T113000Z
+SUMMARY:Session Ruvoen Nathalie - 1 UE 064 - 1:30 PM - 3:00 PM
+UID:b5a76f0e-c0f1-4a3d-85dd-d9046973019f@b5a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: ophalmologique  1 - Foire Aux Questions 1\nType: e-learning\nIntervenant: Deschamps Jack-Yves\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Sémiologie\nGroupes: VET3
+DTEND:20260320T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - Deschamps Jack-Yves
+DTSTART:20260320T160000Z
+SUMMARY:Sémiologie e-learning - ophalmologique  1 - Foire Aux Questions 1 - 5:00 PM - 6:00 PM
+UID:6dad3303-6aeb-4951-acbf-e309f0978e23@6dad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: urinaire 2\nType: Maitre Pierre\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Chirurgie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260206T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260206T150000Z
+SUMMARY:Chirurgie Maitre Pierre - urinaire 2 - 4:00 PM - 4:50 PM
+UID:96441679-1c1a-4410-bdcd-6ee1361e1148@9644.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: d'amputations. Membres pelvien et thoracique\nType: Gauthier Olivier\nIntervenant: Amphi G2N\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Techniques\nGroupes: CM\n\n \n\nVET3
+DTEND:20260325T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi G2N
+DTSTART:20260325T140000Z
+SUMMARY:Techniques Gauthier Olivier - d'amputations. Membres pelvien et thoracique - 3:00 PM - 3:50 PM
+UID:d906f85c-729d-473e-bdfc-4ed1d5da9f38@d906.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Techniques chirurgicales toutes espèces\nType: CM\nIntervenant: Maitre Pierre\nSalle: Amphi G2N\nCode: 0610\nGroupes: VET3
+DTEND:20260127T092000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Maitre Pierre
+DTSTART:20260127T083000Z
+SUMMARY:0610 CM - Techniques chirurgicales toutes espèces - Laparotomies 2/2
+UID:d58325ec-1bb4-49a2-bffd-a8ca97f3cfab@d583.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Mallem Yassine\nSalle: 502 TD - Porte 502\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260206T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:502 TD - Porte 502 - Mallem Yassine
+DTSTART:20260206T093500Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - TD3 Méd. fonctions digestive et respiratoire
+UID:6934546d-989f-47de-a9e8-2201fce3f0c6@6934.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD 1:2 promo\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2N\nCode: 067\nGroupes: VET3-classe 1 VET3-classe 2 VET3-classe 3 VET3-classe 4 VET3-classe 5
+DTEND:20260409T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Jaillardon Laëtitia
+DTSTART:20260409T063000Z
+SUMMARY:067 TD 1:2 promo - Anatomie pathologique cancérologie et pathologie générales - TD14 Le choc
+UID:1ba4cfc0-40e5-4f0d-9853-decf9c9cfbd8@1ba4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: du chien en situation physiologique 1\nType: Debruille Agathe\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Alimentation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260209T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260209T130000Z
+SUMMARY:Alimentation Debruille Agathe - du chien en situation physiologique 1 - 2:00 PM - 2:50 PM
+UID:6cfb1ad3-d7ed-4f2f-863c-e68c1adb5376@6cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 8\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260217T165500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260217T160500Z
+SUMMARY: VET3 - 8 - 5:05 PM - 5:55 PM
+UID:1785ba4f-d20a-4a06-9ed1-3baf741d2476@1785.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Sémiologie physiopathologie intégrée\nType: TD\nIntervenant: Mignot Grégoire\nSalle: 220 TD - Porte n° 220\nCode: 062\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260126T093000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - Mignot Grégoire
+DTSTART:20260126T073500Z
+SUMMARY:062 TD - Sémiologie physiopathologie intégrée - TD1 Physiopath RESPIRATOIRE
+UID:bee5813a-a7fa-4389-aa13-0fade9f9917d@bee5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Sémiologie physiopathologie intégrée\nType: TP\nIntervenant: Assié Sébastien\nSalle: Hôpitaux MAE\nCode: 062\nGroupes: VET3-classe 5
+DTEND:20260505T102900Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Hôpitaux MAE - Assié Sébastien
+DTSTART:20260505T063000Z
+SUMMARY:062 TP - Sémiologie physiopathologie intégrée - TP SEMIOLOGIE DES BOVINS
+UID:8088db5c-e2a4-4fdb-bcd8-6447d9fabcfe@8088.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: TD\nIntervenant: Ruvoen Nathalie\nSalle: 511 TD - Porte 511\nCode: 064\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260402T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Ruvoen Nathalie
+DTSTART:20260402T083500Z
+SUMMARY:064 TD - Réglementation sanitaire générale et maladies réglementées - ESST Encéphalopathies Subaigues Transmissibles
+UID:a8dc1e4a-21f2-41eb-905f-1a5dc862719a@a8dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 10\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260220T165500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260220T155500Z
+SUMMARY: VET3 - 10 - 4:55 PM - 5:55 PM
+UID:72f1ebfd-7502-4531-86bb-d0dfc2057dca@72f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 4\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260130T174500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260130T165500Z
+SUMMARY: VET3 - 4 - 5:55 PM - 6:45 PM
+UID:758bc949-71bd-4b57-a754-194cc601b220@758b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 11\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260305T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260305T160000Z
+SUMMARY: VET3 - 11 - 5:00 PM - 5:50 PM
+UID:10a4ae3c-2492-4944-bf78-d0a6744ce9ce@10a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Mallem Yassine\nSalle: 222 TD - Porte n° 222\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260130T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:222 TD - Porte n° 222 - Mallem Yassine
+DTSTART:20260130T093500Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - Anti-Inflam. Stéroïdiens et non stéroïdiens
+UID:e858225c-ff11-481e-a61c-04b6bd6aec7a@e858.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: hépathique et urinaire\nType: Relun Anne\nIntervenant: Amphi Pierre Cuq\nSalle: 061 Maladie des ruminants 1\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260206T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi Pierre Cuq
+DTSTART:20260206T130000Z
+SUMMARY:Pathologie Relun Anne - hépathique et urinaire - 2:00 PM - 2:50 PM
+UID:e6a5c405-308f-42cb-940a-98af92cc1bef@e6a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1/2\nType: Loisel Léa\nIntervenant: Amphi G2N\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: TUBERCULOSE\nGroupes: Ruvoen Nathalie\n\n \n\nCM\n\n \n\nVET3
+DTEND:20260211T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi G2N
+DTSTART:20260211T130000Z
+SUMMARY:TUBERCULOSE Loisel Léa - 1/2 - 2:00 PM - 2:50 PM
+UID:b32bf8a5-2823-4d61-b302-44656cf65b2a@b32b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: réglementées des ruminants 3 + Maladies d'intérêt national\nType: Ruvoen Nathalie\nIntervenant: Amphi Pierre Cuq\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: Maladies\nGroupes: CM\n\n \n\nVET3
+DTEND:20260429T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi Pierre Cuq
+DTSTART:20260429T130000Z
+SUMMARY:Maladies Ruvoen Nathalie - réglementées des ruminants 3 + Maladies d'intérêt national - 3:00 PM - 3:50 PM
+UID:90561bff-410b-45b7-ad07-cedd5e499a59@9056.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Maisonnasse Pauline\nSalle: 511 TD - Porte 511\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260513T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Maisonnasse Pauline
+DTSTART:20260513T083500Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD15 session_2 Hypersensibilités
+UID:cec52bb7-edca-4d51-b35b-e056770c269e@cec5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: TP\nIntervenant: Guillot Jacques\nSalle: 402 TP - Porte n° 402\nCode: 063\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260506T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:402 TP - Porte n° 402 - Guillot Jacques
+DTSTART:20260506T083500Z
+SUMMARY:063 TP - Dermatologie et mycologie clinique toutes espèces - TP3 : Diagnose des principaux insectes d'intérêt vétérinaire
+UID:089293aa-cc0c-42ea-a058-452453c431fc@0892.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des carnivores / vices rédhibitoires\nType: e-learning\nIntervenant: Ruvoen Nathalie\nSalle: 069 Médecine préventive des carnivores\nCode: Cessions\nGroupes: VET3
+DTEND:20260128T174500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Ruvoen Nathalie
+DTSTART:20260128T165500Z
+SUMMARY:Cessions e-learning - des carnivores / vices rédhibitoires - 5:55 PM - 6:45 PM
+UID:257dfaf9-10bc-4135-8daf-549c84e08c92@257d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: Ruvoen Nathalie\nIntervenant: Gilbert Caroline\nSalle: 202 TD - Porte n° 202\nCode: 069\nGroupes: TD\n\n \n\nVET3-classe 5 VET3-classe 6
+DTEND:20260317T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:202 TD - Porte n° 202 - Gilbert Caroline
+DTSTART:20260317T073000Z
+SUMMARY:069 Ruvoen Nathalie - Médecine préventive des carnivores - Animaux dangereux (surveillance mordeur et évalutaion comportementale)
+UID:47a439f8-920b-4cec-859c-0471cc62b6d8@47a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2- Pathologie locomotrice\nType: e-learning\nIntervenant: Guatteo Raphaël\nSalle: 061 Maladie des ruminants 1\nCode: \nGroupes: apport supplémentaire sur poly + vidéo + quizz - avant le CM Pathologie locomotrice\n\n \n\nVET3
+DTEND:20260310T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Guatteo Raphaël
+DTSTART:20260310T160000Z
+SUMMARY: e-learning - 2- Pathologie locomotrice - 5:00 PM - 5:50 PM
+UID:29aeceda-b674-4424-9ad3-23083758774a@29ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Reproduction\nType: CM\nIntervenant: Briand-Amirat Lamia\nSalle: Amphi G2N\nCode: 068\nGroupes: VET3
+DTEND:20260330T103500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Briand-Amirat Lamia
+DTSTART:20260330T094500Z
+SUMMARY:068 CM - Reproduction - PATHOLOGIE MAMMAIRE 11
+UID:8acd99c5-2ab1-480c-8e60-03d28736c0be@8acd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: TD\nIntervenant: Loisel Léa\nSalle: 206 Espace modulaire 206\nCode: 064\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260310T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:206 Espace modulaire 206 - Loisel Léa
+DTSTART:20260310T073000Z
+SUMMARY:064 TD - Réglementation sanitaire générale et maladies réglementées - TUBERCULOSE
+UID:d560ecb7-52ea-4e74-b2c4-6c7f9f8afbdc@d560.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Reproduction\nType: CM\nIntervenant: Briand-Amirat Lamia\nSalle: Amphi G2N\nCode: 068\nGroupes: VET3
+DTEND:20260330T094000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Briand-Amirat Lamia
+DTSTART:20260330T085000Z
+SUMMARY:068 CM - Reproduction - PATHOLOGIE MAMMAIRE 10
+UID:26bac2f7-db17-4887-aac1-37cf5bd33508@26ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 20\nType: initialement positionné le 20 avril à 17h - remplacé par partiel à la demande de JC Desfontis\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: VET3
+DTEND:20260410T145500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260410T140500Z
+SUMMARY: initialement positionné le 20 avril à 17h - remplacé par partiel à la demande de JC Desfontis - 20 - 4:05 PM - 4:55 PM
+UID:29f0a717-6e6f-44b2-a6a0-dc7b822f15f8@29f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: du chiot (3)\nType: Debruille Agathe\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Alimentation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260313T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260313T140000Z
+SUMMARY:Alimentation Debruille Agathe - du chiot (3) - 3:00 PM - 3:50 PM
+UID:6c996a96-801a-4200-b776-3e58c6dd3f3f@6c99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Nguyen Frédérique\nSalle: 221 TD - Porte n° 221\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260408T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:221 TD - Porte n° 221 - Nguyen Frédérique
+DTSTART:20260408T083500Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD12 Inflammations Bactériennes et parasitaires
+UID:32fa347b-4a98-4eb3-8126-156d089ca335@32fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 5\nType: Bencharif Djemil\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260309T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260309T130000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 5 - 2:00 PM - 2:50 PM
+UID:7dea7528-f6b0-42a4-a416-f3170cfecc41@7dea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: du chien en situation physiologique 2\nType: Debruille Agathe\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Alimentation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260306T082000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260306T073000Z
+SUMMARY:Alimentation Debruille Agathe - du chien en situation physiologique 2 - 8:30 AM - 9:20 AM
+UID:d07846e6-5afd-432d-b20b-879c4f18e3fa@d078.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 19\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260401T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260401T160000Z
+SUMMARY: VET3 - 19 - 6:00 PM - 6:50 PM
+UID:c0bce039-89a8-4b0e-a690-43e458c9f466@c0bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 14\nType: Briand-Amirat Lamia\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260403T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260403T130000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 14 - 3:00 PM - 3:50 PM
+UID:53a7ba38-f809-44c0-a5d8-f4bf2b7adb49@53a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: urinaire 1\nType: Maitre Pierre\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Chirurgie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260206T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260206T140000Z
+SUMMARY:Chirurgie Maitre Pierre - urinaire 1 - 3:00 PM - 3:50 PM
+UID:a32a8999-1102-48fe-80bf-02b2fe56ff20@a32a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Colle Marie-Anne\nSalle: 511 TD - Porte 511\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260324T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Colle Marie-Anne
+DTSTART:20260324T073000Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD10 Granulomes et infiltrats
+UID:d74c5e08-d59b-4de7-b5c6-7bb1da1978e5@d74c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Sémiologie physiopathologie intégrée\nType: CM\nIntervenant: Hernandez-Rodriguez Juan\nSalle: Amphi G2N\nCode: 062\nGroupes: VET3
+DTEND:20260127T112000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Hernandez-Rodriguez Juan
+DTSTART:20260127T103000Z
+SUMMARY:062 CM - Sémiologie physiopathologie intégrée - Sémiologie digestive 2
+UID:27cda257-864a-4398-a1fd-a458c57ec2da@27cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: VET2\nType: \nIntervenant: VET4\nSalle: VET3\nCode: \nGroupes: 
+DTEND:20260414T200000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3 - VET4
+DTSTART:20260414T050000Z
+SUMMARY:  - VET2 - Congés OU stage
+UID:c42ec569-056c-47df-9804-bbbc7ab90a36@c42e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 4- Pathologie locomotrice\nType: e-learning\nIntervenant: Guatteo Raphaël\nSalle: 061 Maladie des ruminants 1\nCode: \nGroupes: apport supplémentaire sur poly + vidéo + quizz - après le le CM Pathologie locomotrice  mais avant le TD Pathologie locomotrice\n\n \n\nVET3
+DTEND:20260325T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Guatteo Raphaël
+DTSTART:20260325T160000Z
+SUMMARY: e-learning - 4- Pathologie locomotrice - 5:00 PM - 6:00 PM
+UID:65ab76e9-a5c0-479a-aba4-f8f91ad20ec7@65ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: DS BRUCELLOSE\nType: e-learning\nIntervenant: Ruvoen Nathalie\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: Form\nGroupes: VET3
+DTEND:20260220T150000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Ruvoen Nathalie
+DTSTART:20260220T140000Z
+SUMMARY:Form e-learning - DS BRUCELLOSE - 3:00 PM - 4:00 PM
+UID:7ffc4290-83e1-4fc4-9d61-1b55719f7bda@7ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale mâle/ biotechnologies 10\nType: Bruyas Jean-François\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260216T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260216T150000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale mâle/ biotechnologies 10 - 4:00 PM - 4:50 PM
+UID:71b19e79-c30c-4b98-be56-adca629e6a67@71b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: générale 1\nType: Colle Marie-Anne\nIntervenant: Amphi G2N\nSalle: 067 Anatomie pathologique cancérologie et pathologie générales\nCode: Cancérologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260217T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:067 Anatomie pathologique cancérologie et pathologie générales - Amphi G2N
+DTSTART:20260217T140000Z
+SUMMARY:Cancérologie Colle Marie-Anne - générale 1 - 3:00 PM - 3:50 PM
+UID:5dcd35ab-8b87-4a46-8015-e12a455913bc@5dcd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 8\nType: Briand-Amirat Lamia\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260313T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260313T150000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 8 - 4:00 PM - 4:50 PM
+UID:3a2bb8e3-f816-44ab-90a2-a55b73352e92@3a2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie des antiparasitaires antibiotiques et antifongiques\nType: Examen session 2\nIntervenant: Rostang Antoine\nSalle: 220 TD - Porte n° 220\nCode: 058\nGroupes: VET3
+DTEND:20260623T080000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - Rostang Antoine
+DTSTART:20260623T063000Z
+SUMMARY:058 Examen session 2 - Pharmacologie des antiparasitaires antibiotiques et antifongiques - UE 058
+UID:9ea9b281-995e-4c0b-a64a-147cb9ea0167@9ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: TD\nIntervenant: Debruille Agathe\nSalle: 501 TD - Porte 501\nCode: 069\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260331T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:501 TD - Porte 501 - Debruille Agathe
+DTSTART:20260331T083500Z
+SUMMARY:069 TD - Médecine préventive des carnivores - ALIMENTATION
+UID:02c21221-6f2a-441d-b750-acc6cef0d841@02c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anglais comm scientifique\nType: TD\nIntervenant: Nicholson Ian\nSalle: 703 TD - Porte n° 703\nCode: 065\nGroupes: VET3-classe 5
+DTEND:20260209T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:703 TD - Porte n° 703 - Nicholson Ian
+DTSTART:20260209T093500Z
+SUMMARY:065 TD - Anglais comm scientifique - IN_TD2
+UID:8d5ccf08-ac43-4c7a-9b22-892e454628d4@8d5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 8-DAPP\, Dermatite/Allergie de contact - Allergie/Intolérance alimentaire\nType: Bruet vincent\nIntervenant: Amphi Pierre Cuq\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: \nGroupes: CM\n\n \n\nVET3
+DTEND:20260204T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi Pierre Cuq
+DTSTART:20260204T140000Z
+SUMMARY: Bruet vincent - 8-DAPP\, Dermatite/Allergie de contact - Allergie/Intolérance alimentaire - 3:00 PM - 3:50 PM
+UID:ef4c05cc-ee63-47eb-a44a-72ff628b28b4@ef4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 4\nType: Bencharif Djemil\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260306T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260306T150000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 4 - 4:00 PM - 4:50 PM
+UID:ae764971-3d0a-4217-a322-9d196f248943@ae76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: TD CAT face à troubles digestifs collectif 1\nType: e-learning\nIntervenant: Relun Anne\nSalle: 061 Maladie des ruminants 1\nCode: Préparation\nGroupes: vos supports d'enseignement (CM\, poly\, vidéosâ€¦) avant TD CAT bovin face à troubles digestifs collectif 1\n\n \n\nVET3
+DTEND:20260427T155500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Relun Anne
+DTSTART:20260427T150000Z
+SUMMARY:Préparation e-learning - TD CAT face à troubles digestifs collectif 1 - 5:00 PM - 5:55 PM
+UID:359d3f52-649b-4fb6-94e8-8900fd706df8@359d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 046 session 1\nType: Hervé Julie\nIntervenant: Amphi G2N\nSalle: 046  Physiologie intégrée des grandes fonctions\nCode: UE\nGroupes: Mignot Grégoire\n\n \n\nExamen session 1 - VET2\n\n \n\nVET2-classe 1 VET2-classe 2
+DTEND:20260602T120000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:046  Physiologie intégrée des grandes fonctions - Amphi G2N
+DTSTART:20260602T060000Z
+SUMMARY:UE Hervé Julie - 046 session 1 - 8:00 AM - 2:00 PM
+UID:601b5cd3-ffb9-4937-8750-4ba7f3f6f624@601b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: généraux et applications de la chirurgie vidéo-assistée\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Principes\nGroupes: CM\n\n \n\nVET3
+DTEND:20260506T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260506T120000Z
+SUMMARY:Principes Gauthier Olivier - généraux et applications de la chirurgie vidéo-assistée - 2:00 PM - 2:50 PM
+UID:b4990510-bc9c-4536-b58f-95459a20b61f@b499.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1- UE 61 1ere 1/2 promo (liste à venir sur connect)\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 061 Maladie des ruminants 1\nCode: Session\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nRavinet Nadine\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260601T150000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - 220 TD - Porte n° 220
+DTSTART:20260601T133000Z
+SUMMARY:Session 221 TD - Porte n° 221 - 1- UE 61 1ere 1/2 promo (liste à venir sur connect) - 3:30 PM - 5:00 PM
+UID:059bd92c-6411-4f6e-8730-885c77cfd6e4@059b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Reproduction\nType: CM\nIntervenant: Bruyas Jean-François\nSalle: Amphi G2N\nCode: 068\nGroupes: VET3
+DTEND:20260212T092000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Bruyas Jean-François
+DTSTART:20260212T083000Z
+SUMMARY:068 CM - Reproduction - pathologie génitale mâle/ biotechnologies 9
+UID:8673ac58-ceaf-410f-a855-170b55bb5818@8673.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Tiques\nType: Guillot Jacques\nIntervenant: Amphi G2N\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: \nGroupes: CM\n\n \n\nVET3
+DTEND:20260318T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi G2N
+DTSTART:20260318T140000Z
+SUMMARY: Guillot Jacques - Tiques - 3:00 PM - 3:50 PM
+UID:aa34e6b9-8833-4581-96f6-036db8b8b586@aa34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 9\nType: Briand-Amirat Lamia\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260313T164500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260313T155500Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 9 - 4:55 PM - 5:45 PM
+UID:34d710d1-519a-4e72-8435-7de8f0f9d270@34d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Colle Marie-Anne\nSalle: 221 TD - Porte n° 221\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260317T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:221 TD - Porte n° 221 - Colle Marie-Anne
+DTSTART:20260317T093500Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD9 Inflammations suppurées
+UID:b218700d-1219-4b0f-a7bb-fbbce95157dc@b218.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Abadie Jérôme\nSalle: 220 TD - Porte n° 220\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260331T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - Abadie Jérôme
+DTSTART:20260331T063000Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD11 Inflammations sclérosantes et cicatrisation
+UID:e29e4445-09a4-4b22-a8e7-a144ee033d6c@e29e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: VET2\nType: \nIntervenant: VET4\nSalle: VET3\nCode: \nGroupes: 
+DTEND:20260415T200000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3 - VET4
+DTSTART:20260415T050000Z
+SUMMARY:  - VET2 - Congés OU stage
+UID:f470639e-2f92-494d-8dd6-cea4b5364b19@f470.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 1\nType: Bencharif Djemil\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260218T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260218T130000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 1 - 2:00 PM - 2:50 PM
+UID:60de8a36-8d59-4835-b885-358963790bbf@60de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anglais comm scientifique\nType: TD\nIntervenant: Bridou Marc\nSalle: 704 INFO - Porte n° 704\nCode: 065\nGroupes: VET3-classe 5
+DTEND:20260309T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:704 INFO - Porte n° 704 - Bridou Marc
+DTSTART:20260309T093500Z
+SUMMARY:065 TD - Anglais comm scientifique - TD1_MB
+UID:14e5ba0d-1bc9-490c-962b-089be5a96648@14e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: OU stage\nType: \nIntervenant: \nSalle: VET3\nCode: Congés\nGroupes: 
+DTEND:20260421T190000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3
+DTSTART:20260421T050000Z
+SUMMARY:Congés  - OU stage - 7:00 AM - 9:00 PM
+UID:3c04c559-2822-4673-b4f0-e27fb570964d@3c04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: générale 2\nType: Colle Marie-Anne\nIntervenant: Amphi G2N\nSalle: 067 Anatomie pathologique cancérologie et pathologie générales\nCode: Cancérologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260217T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:067 Anatomie pathologique cancérologie et pathologie générales - Amphi G2N
+DTSTART:20260217T150000Z
+SUMMARY:Cancérologie Colle Marie-Anne - générale 2 - 4:00 PM - 4:50 PM
+UID:206f182c-7de6-4d0a-8104-7468a2cdd5db@206f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 7\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260410T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260410T130000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 7 - 3:00 PM - 3:50 PM
+UID:5ea2f282-70f4-40c9-b747-955bbd87001c@5ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Urinaire 2 et particularités sémiologique des BV1\nType: Drut Amandine\nIntervenant: Amphi G2N\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Sémiologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260210T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - Amphi G2N
+DTSTART:20260210T140000Z
+SUMMARY:Sémiologie Drut Amandine - Urinaire 2 et particularités sémiologique des BV1 - 3:00 PM - 3:50 PM
+UID:bdf6e99f-7b22-4443-ae11-5b4d7cf54894@bdf6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: infectieuses des chiens\nType: Sénécat Odile\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Maladies\nGroupes: CM\n\n \n\nVET3
+DTEND:20260213T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260213T130000Z
+SUMMARY:Maladies Sénécat Odile - infectieuses des chiens - 2:00 PM - 2:50 PM
+UID:144731f8-07a8-4bc9-b23c-dcb9ac964c51@1447.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: TD\nIntervenant: Guatteo Raphaël\nSalle: 205 Espace modulaire 205\nCode: 061\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260310T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:205 Espace modulaire 205 - Guatteo Raphaël
+DTSTART:20260310T093500Z
+SUMMARY:061 TD - Maladie des ruminants 1 - Diarrhées néonatales
+UID:40c49c11-e44e-4ae7-9fe8-d21e816abcdd@40c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: généraux de la chirurgie musculo-tendineuse\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Principes\nGroupes: CM\n\n \n\nVET3
+DTEND:20260428T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260428T140000Z
+SUMMARY:Principes Gauthier Olivier - généraux de la chirurgie musculo-tendineuse - 4:00 PM - 4:50 PM
+UID:71d38b39-fd20-466d-8f5b-b96a0520dde5@71d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: infectieuse digestive\nType: e-learning\nIntervenant: Guatteo Raphaël\nSalle: 061 Maladie des ruminants 1\nCode: Pathologie\nGroupes: apport supplémentaire sur poly + quizz - après CM Pathologie intestinale infectieuse et avant TD CAT face à un trouble digestif individuel\n\n \n\nVET3
+DTEND:20260318T173000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Guatteo Raphaël
+DTSTART:20260318T150000Z
+SUMMARY:Pathologie e-learning - infectieuse digestive - 4:00 PM - 6:30 PM
+UID:8041382c-9e50-4cc1-a5e4-ab55819f27cd@8041.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: néonatales 2\nType: aurore.boishardy\nIntervenant: Amphi G2N\nSalle: 061 Maladie des ruminants 1\nCode: Diarrhées\nGroupes: CM\n\n \n\nVET3
+DTEND:20260304T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi G2N
+DTSTART:20260304T140000Z
+SUMMARY:Diarrhées aurore.boishardy - néonatales 2 - 3:00 PM - 3:50 PM
+UID:7f666670-f11d-4b76-a6f4-745cd288f816@7f66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des maladies vectorielles des Carnivores\nType: Guillot Jacques\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Prévention\nGroupes: CM\n\n \n\nVET3
+DTEND:20260323T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260323T150000Z
+SUMMARY:Prévention Guillot Jacques - des maladies vectorielles des Carnivores - 4:00 PM - 4:50 PM
+UID:66267e64-7f64-473e-8b5f-2483910afae6@6626.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: - Fièvre Aphteuse 2/2\nType: Ruvoen Nathalie\nIntervenant: Amphi G2N\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: FA\nGroupes: CM\n\n \n\nVET3
+DTEND:20260127T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi G2N
+DTSTART:20260127T150000Z
+SUMMARY:FA Ruvoen Nathalie - - Fièvre Aphteuse 2/2 - 4:00 PM - 4:50 PM
+UID:642eaddf-198c-4b66-8d4f-cf6c69835f91@642e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 7\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260211T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260211T160000Z
+SUMMARY: VET3 - 7 - 5:00 PM - 5:50 PM
+UID:fd8b6b4c-5b77-49f3-a94a-1401e792d37c@fd8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: patho digestive des petits ruminants 1\nType: Guatteo Raphaël\nIntervenant: Amphi G2N\nSalle: 061 Maladie des ruminants 1\nCode: Dominantes\nGroupes: CM\n\n \n\nVET3
+DTEND:20260323T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi G2N
+DTSTART:20260323T130000Z
+SUMMARY:Dominantes Guatteo Raphaël - patho digestive des petits ruminants 1 - 2:00 PM - 2:50 PM
+UID:3b31f0f3-227b-4489-9b7d-534e152dc4ef@3b31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: 222 TD - Porte n° 222\nIntervenant: 221 TD - Porte n° 221\nSalle: 220 TD - Porte n° 220\nCode: 066\nGroupes: 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nDesfontis Jean-Claude\n\n \n\nContrôle intermédiaire/partiel\n\n \n\nVET3
+DTEND:20260319T093000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - 221 TD - Porte n° 221
+DTSTART:20260319T083000Z
+SUMMARY:066 222 TD - Porte n° 222 - Pharmacologie et toxicologie clinique - intermédiaire 1/2 promo
+UID:5c083c88-7d5c-4e27-bec6-9581ae260b44@5c08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: du chat (2)\nType: Debruille Agathe\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Alimentation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260327T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260327T130000Z
+SUMMARY:Alimentation Debruille Agathe - du chat (2) - 2:00 PM - 2:50 PM
+UID:02063541-51a3-43b3-9577-52d82099ce98@0206.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: néonatales\nType: e-learning\nIntervenant: Assié Sébastien\nSalle: 061 Maladie des ruminants 1\nCode: Diarrhées\nGroupes: VET3
+DTEND:20260302T173000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Assié Sébastien
+DTSTART:20260302T160000Z
+SUMMARY:Diarrhées e-learning - néonatales - 5:00 PM - 6:30 PM
+UID:96336918-89d3-4ff3-9256-cda6fbdd43bd@9633.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1/2\nType: Maitre Pierre\nIntervenant: Amphi G2N\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Laparotomies\nGroupes: CM\n\n \n\nVET3
+DTEND:20260127T082000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi G2N
+DTSTART:20260127T073000Z
+SUMMARY:Laparotomies Maitre Pierre - 1/2 - 8:30 AM - 9:20 AM
+UID:34e4754e-caf8-420a-bbef-a29623c5e0dd@34e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anglais comm scientifique\nType: TD\nIntervenant: Nicholson Ian\nSalle: Amphi Godfrain\nCode: 065\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260511T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Godfrain - Nicholson Ian
+DTSTART:20260511T083500Z
+SUMMARY:065 TD - Anglais comm scientifique - FINAL pour congrès scientifique
+UID:dc0be987-0ac2-40af-8af3-3ad5b743ff28@dc0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 3- Intoxications par les engrais\, les gaz et les métaux\nType: Moriceau Meg-Anne\nIntervenant: Amphi G2N\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: CM\n\n \n\nVET3
+DTEND:20260320T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - Amphi G2N
+DTSTART:20260320T130000Z
+SUMMARY: Moriceau Meg-Anne - 3- Intoxications par les engrais\, les gaz et les métaux - 2:00 PM - 2:50 PM
+UID:9d475f79-322d-4602-a13d-691acd711f5f@9d47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2 Examen\nType: 222 TD - Porte n° 222\nIntervenant: 221 TD - Porte n° 221\nSalle: 220 TD - Porte n° 220\nCode: Session\nGroupes: 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704 Amphi G4 Amphi G5 Amphi Pierre Cuq \n\n \n\nRolland Karine\n\n \n\nExamen session 2\n\n \n\nVET2 VET3 VET4
+DTEND:20260624T150000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - 221 TD - Porte n° 221
+DTSTART:20260624T063000Z
+SUMMARY:Session 222 TD - Porte n° 222 - 2 Examen - 8:30 AM - 5:00 PM
+UID:533b5767-a2ae-4cb0-ad98-17553e063e55@533b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: TD\nIntervenant: Relun Anne\nSalle: 202 TD - Porte n° 202\nCode: 061\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260324T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:202 TD - Porte n° 202 - Relun Anne
+DTSTART:20260324T093500Z
+SUMMARY:061 TD - Maladie des ruminants 1 - CAT face à un trouble digestif individuel
+UID:a31b2d0c-e75c-4a0c-a2e4-7c0aada7a55d@a31b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: réglementées des ruminants 1 (risque d'introduction et éradication immédiate (catégorie ADE))\nType: Bastian Suzanne\nIntervenant: Amphi Pierre Cuq\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: Maladies\nGroupes: CM\n\n \n\nVET3
+DTEND:20260331T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi Pierre Cuq
+DTSTART:20260331T130000Z
+SUMMARY:Maladies Bastian Suzanne - réglementées des ruminants 1 (risque d'introduction et éradication immédiate (catégorie ADE)) - 3:00 PM - 3:50 PM
+UID:61640bd5-79be-46ab-ab49-47c7b4bb6e31@6164.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: TP\nIntervenant: Guillot Jacques\nSalle: 402 TP - Porte n° 402\nCode: 063\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260506T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:402 TP - Porte n° 402 - Guillot Jacques
+DTSTART:20260506T063000Z
+SUMMARY:063 TP - Dermatologie et mycologie clinique toutes espèces - TP2 : Diagnose des principaux acariens d'intérêt vétérinaire (2/2)
+UID:ad95f236-307a-4310-a2ad-9f705238931b@ad95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale mâle/ biotechnologies 8\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260212T082000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260212T073000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale mâle/ biotechnologies 8 - 8:30 AM - 9:20 AM
+UID:cb50da14-07c8-4292-aa19-3a256a509a7f@cb50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 2\nType: Briand-Amirat Lamia\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260130T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260130T150000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 2 - 4:00 PM - 4:50 PM
+UID:89b637ea-9475-4a07-a18e-9c9b22a587f0@89b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 9-Modalités réactionnelles cutanées et conséquences pratiques\nType: Bruet vincent\nIntervenant: Amphi Pierre Cuq\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: \nGroupes: CM\n\n \n\nVET3
+DTEND:20260204T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi Pierre Cuq
+DTSTART:20260204T150000Z
+SUMMARY: Bruet vincent - 9-Modalités réactionnelles cutanées et conséquences pratiques - 4:00 PM - 4:50 PM
+UID:e441b1bc-6a5a-45f5-a8cd-080de0bc51a6@e441.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 12\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260306T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260306T160000Z
+SUMMARY: VET3 - 12 - 5:00 PM - 5:50 PM
+UID:c448c00c-b389-4cac-a120-72cb0b1aee92@c448.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: et traitement chirurgical des hernies 2/2\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260407T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260407T130000Z
+SUMMARY:Pathologie Gauthier Olivier - et traitement chirurgical des hernies 2/2 - 3:00 PM - 3:50 PM
+UID:617c3da3-5c60-42c4-9d6e-f7702b41dd39@617c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: cutanées\nType: Guillot Jacques\nIntervenant: Amphi Pierre Cuq\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: Mycoses\nGroupes: CM\n\n \n\nVET3
+DTEND:20260218T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi Pierre Cuq
+DTSTART:20260218T150000Z
+SUMMARY:Mycoses Guillot Jacques - cutanées - 4:00 PM - 4:50 PM
+UID:96b417eb-b7a6-402b-84fa-7abdf12de120@96b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: de gales\nType: Guillot Jacques\nIntervenant: Amphi Pierre Cuq\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: Agents\nGroupes: CM\n\n \n\nVET3
+DTEND:20260401T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi Pierre Cuq
+DTSTART:20260401T120000Z
+SUMMARY:Agents Guillot Jacques - de gales - 2:00 PM - 2:50 PM
+UID:f093681d-060e-4daa-8f3e-f1962b8befac@f093.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1- Auto-apprentissage actions sanitaires (biosécurité\, VSO\, mouvements...)\nType: VET3\nIntervenant: e-learning\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: \nGroupes: 
+DTEND:20260206T165500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - e-learning
+DTSTART:20260206T160000Z
+SUMMARY: VET3 - 1- Auto-apprentissage actions sanitaires (biosécurité\, VSO\, mouvements...) - 5:00 PM - 5:55 PM
+UID:4d577f01-649a-45a5-8edf-04719d299e6b@4d57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Reproduction\nType: CM\nIntervenant: Bruyas Jean-François\nSalle: Amphi Pierre Cuq\nCode: 068\nGroupes: VET3
+DTEND:20260327T102000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Bruyas Jean-François
+DTSTART:20260327T093000Z
+SUMMARY:068 CM - Reproduction - pathologie génitale femelle 2
+UID:1f9b6822-8b88-4b88-a553-3afef43b2380@1f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: de gales\nType: Guillot Jacques\nIntervenant: Amphi Pierre Cuq\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: Agents\nGroupes: CM\n\n \n\nVET3
+DTEND:20260401T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi Pierre Cuq
+DTSTART:20260401T130000Z
+SUMMARY:Agents Guillot Jacques - de gales - 3:00 PM - 3:50 PM
+UID:e957e879-b809-4579-ab4e-1d789e0f38eb@e957.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: du chiot (1)\nType: Debruille Agathe\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Alimentation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260309T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260309T150000Z
+SUMMARY:Alimentation Debruille Agathe - du chiot (1) - 4:00 PM - 4:50 PM
+UID:9f30ef9e-13a9-41fc-82e3-ed6aa0917e23@9f30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: et traitement chirurgical des hernies 1/2\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260407T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260407T120000Z
+SUMMARY:Pathologie Gauthier Olivier - et traitement chirurgical des hernies 1/2 - 2:00 PM - 2:50 PM
+UID:7a32fb4b-21d3-4b94-b047-b0eed49de61c@7a32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale mâle/ biotechnologies 7\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260211T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260211T150000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale mâle/ biotechnologies 7 - 4:00 PM - 4:50 PM
+UID:07eb94a8-84b8-4edd-abb8-9f96057561ad@07eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 10\nType: Bruyas Jean-François\nIntervenant: Amphi G4\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260511T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G4
+DTSTART:20260511T120000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 10 - 2:00 PM - 2:50 PM
+UID:1959eef0-7c22-4a26-a49a-8f27c846d9db@1959.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Colle Marie-Anne\nSalle: 222 TD - Porte n° 222\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260219T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:222 TD - Porte n° 222 - Colle Marie-Anne
+DTSTART:20260219T073000Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD3 Subst. intercellulaires
+UID:d2579f75-38e3-47ac-8a55-089364c6d5c2@d257.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: TD\nIntervenant: sanchez maria-dolores\nSalle: 204 Espace modulaire 204\nCode: 063\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260511T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:204 Espace modulaire 204 - sanchez maria-dolores
+DTSTART:20260511T063000Z
+SUMMARY:063 TD - Dermatologie et mycologie clinique toutes espèces - TD4 : Nodules
+UID:31a8da05-e08a-4827-b991-b5aefdd61317@31a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 3- Pathologie locomotrice\nType: e-learning\nIntervenant: Guatteo Raphaël\nSalle: 061 Maladie des ruminants 1\nCode: \nGroupes: apport supplémentaire sur poly + vidéo + quizz - après le le CM Pathologie locomotrice mais avant le TD Pathologie locomotrice\n\n \n\nVET3
+DTEND:20260324T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Guatteo Raphaël
+DTSTART:20260324T160000Z
+SUMMARY: e-learning - 3- Pathologie locomotrice - 5:00 PM - 6:00 PM
+UID:0f29e3bd-35f4-4c82-ae66-000950e8b004@0f29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: TD\nIntervenant: Bastian Suzanne\nSalle: 511 TD - Porte 511\nCode: 064\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260220T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Bastian Suzanne
+DTSTART:20260220T093500Z
+SUMMARY:064 TD - Réglementation sanitaire générale et maladies réglementées - BRUCELLOSE
+UID:b61e6665-9da1-4c49-8c55-30bbd0739316@b61e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: néonatales\nType: e-learning\nIntervenant: Assié Sébastien\nSalle: 061 Maladie des ruminants 1\nCode: Diarrhées\nGroupes: VET3
+DTEND:20260304T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Assié Sébastien
+DTSTART:20260304T160000Z
+SUMMARY:Diarrhées e-learning - néonatales - 5:00 PM - 6:00 PM
+UID:90d48ae7-755c-44d7-a562-a47550ed44e9@90d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Moriceau Meg-Anne\nSalle: 202 TD - Porte n° 202\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260325T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:202 TD - Porte n° 202 - Moriceau Meg-Anne
+DTSTART:20260325T093500Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - TD3 -Diagnostic et traitement des intoxications animales par les produits domestiques et les aliments
+UID:770e3164-87b0-4987-8df2-264c601d24fb@770e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 069- 1ère 1/2 promo  (liste à venir sur connect)\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 069 Médecine préventive des carnivores\nCode: UE\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nRuvoen Nathalie\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260526T073000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - 220 TD - Porte n° 220
+DTSTART:20260526T060000Z
+SUMMARY:UE 221 TD - Porte n° 221 - 069- 1ère 1/2 promo  (liste à venir sur connect) - 8:00 AM - 9:30 AM
+UID:a2c9f284-91ac-42a6-ad2b-00bdef9698f4@a2c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: d'amputations. Doigts\, phalanges et queue\nType: Gauthier Olivier\nIntervenant: Amphi G2N\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Techniques\nGroupes: CM\n\n \n\nVET3
+DTEND:20260325T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi G2N
+DTSTART:20260325T130000Z
+SUMMARY:Techniques Gauthier Olivier - d'amputations. Doigts\, phalanges et queue - 2:00 PM - 2:50 PM
+UID:180a0873-d7fc-4786-a78f-f3bbbddbb0b3@180a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: VET2\nType: \nIntervenant: VET4\nSalle: VET3\nCode: \nGroupes: 
+DTEND:20260416T200000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3 - VET4
+DTSTART:20260416T050000Z
+SUMMARY:  - VET2 - Congés OU stage
+UID:56543bbd-dbcc-4095-9341-a59ab05b256c@5654.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: TD\nIntervenant: sanchez maria-dolores\nSalle: 207FC Espace modulaire 207\nCode: 063\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260126T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:207FC Espace modulaire 207 - sanchez maria-dolores
+DTSTART:20260126T093500Z
+SUMMARY:063 TD - Dermatologie et mycologie clinique toutes espèces - TD1 : Etats Kérato-Séborrhéiques (EKS)
+UID:f4bad051-4ff0-41f1-8b39-becfbf7716dc@f4ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anglais comm scientifique\nType: TD\nIntervenant: Nathalie Goodenough\nSalle: 410 TD - Porte n° 410\nCode: 065\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260219T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:410 TD - Porte n° 410 - Nathalie Goodenough
+DTSTART:20260219T093500Z
+SUMMARY:065 TD - Anglais comm scientifique - TD2_NG
+UID:bb6fefed-c014-4dc0-b060-e9f69077b45a@bb6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anglais comm scientifique\nType: Nicholson Ian\nIntervenant: Agoulon Albert\nSalle: 703 TD - Porte n° 703\nCode: 065\nGroupes: TD\n\n \n\nVET3-classe 5
+DTEND:20260410T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:703 TD - Porte n° 703 - Agoulon Albert
+DTSTART:20260410T063000Z
+SUMMARY:065 Nicholson Ian - Anglais comm scientifique - EXPOSÉ DE PARASITOLOGIE
+UID:6147613c-e095-45dd-ba0d-4cb9dce98ce6@6147.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Pouliquen Hervé\nSalle: 222 TD - Porte n° 222\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260401T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:222 TD - Porte n° 222 - Pouliquen Hervé
+DTSTART:20260401T063000Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - TD4 Diagnostic et traitement des intox. par les toxines naturelles : plantes\, champignons\, mycotoxines et animaux venimeux
+UID:7a90c384-d5d2-4682-ae6f-5abcd2c3001b@7a90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 2\nType: Bencharif Djemil\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260220T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260220T150000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 2 - 4:00 PM - 4:50 PM
+UID:93ad1ef7-b6f0-41c4-8471-0c4c5c1873ce@93ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2/2\nType: Ruvoen Nathalie\nIntervenant: Amphi Pierre Cuq\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: BRUCELLOSE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260203T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi Pierre Cuq
+DTSTART:20260203T140000Z
+SUMMARY:BRUCELLOSE Ruvoen Nathalie - 2/2 - 3:00 PM - 3:50 PM
+UID:d3cea729-83d2-4fb1-87aa-10528e6376be@d3ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Sémiologie physiopathologie intégrée\nType: Gauthier Olivier\nIntervenant: Betti Eric\nSalle: 404 TP-porte 404\nCode: 062\nGroupes: TP/TD\n\n \n\nVET3-classe 5 VET3-classe 6
+DTEND:20260407T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:404 TP-porte 404 - Betti Eric
+DTSTART:20260407T083500Z
+SUMMARY:062 Gauthier Olivier - Sémiologie physiopathologie intégrée - TP Anatomie PALPATOIRE
+UID:00ad6f1e-68ae-40eb-a13c-4866c3f86c7c@00ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: réglementées ruminants 2 (Maladies vectorielles : FVR et FCO)\nType: Bastian Suzanne\nIntervenant: Amphi Pierre Cuq\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: Maladies\nGroupes: CM\n\n \n\nVET3
+DTEND:20260403T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi Pierre Cuq
+DTSTART:20260403T140000Z
+SUMMARY:Maladies Bastian Suzanne - réglementées ruminants 2 (Maladies vectorielles : FVR et FCO) - 4:00 PM - 4:50 PM
+UID:628a6e3c-233e-4401-9e3b-be5e504eb6fb@628a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 1\nType: Briand-Amirat Lamia\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260130T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260130T140000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 1 - 3:00 PM - 3:50 PM
+UID:c7776699-8608-42c9-a4bb-3b36bb7b877b@c777.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: intestinales : occlusions\nType: Assié Sébastien\nIntervenant: Amphi G2N\nSalle: 061 Maladie des ruminants 1\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260310T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi G2N
+DTSTART:20260310T130000Z
+SUMMARY:Pathologie Assié Sébastien - intestinales : occlusions - 2:00 PM - 2:50 PM
+UID:65c37ad6-f9fd-47d8-b891-d28e15c18df1@65c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: OU stage\nType: \nIntervenant: \nSalle: VET3\nCode: Congés\nGroupes: 
+DTEND:20260423T190000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3
+DTSTART:20260423T050000Z
+SUMMARY:Congés  - OU stage - 7:00 AM - 9:00 PM
+UID:4706853b-86c9-44cf-ba54-9b94d4f4363d@4706.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Zoonose et contamination des chaînes alimentaires\nType: Examen session 2\nIntervenant: Delaunay Louis\nSalle: 700 INFO - Porte n° 700\nCode: 057\nGroupes: VET3
+DTEND:20260624T080000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:700 INFO - Porte n° 700 - Delaunay Louis
+DTSTART:20260624T070000Z
+SUMMARY:057 Examen session 2 - Zoonose et contamination des chaînes alimentaires - UE 057
+UID:ba048d8b-9567-46b0-85fe-194495f8da05@ba04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 4\nType: Briand-Amirat Lamia\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260217T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260217T130000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 4 - 2:00 PM - 2:50 PM
+UID:c52b5138-799a-4481-94df-3730bfb51983@c52b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: OU stage\nType: \nIntervenant: \nSalle: VET3\nCode: Congés\nGroupes: 
+DTEND:20260424T190000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3
+DTSTART:20260424T050000Z
+SUMMARY:Congés  - OU stage - 7:00 AM - 9:00 PM
+UID:4ddd79d4-70e3-4777-be18-ac66213d4976@4ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Abadie Jérôme\nSalle: 503 TD - Porte 503\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260210T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:503 TD - Porte 503 - Abadie Jérôme
+DTSTART:20260210T073000Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD2 Circulatoire 2
+UID:f17048ad-d880-4f45-9a2a-c885122b2d13@f170.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: DS TUBERCULOSE\nType: e-learning\nIntervenant: Ruvoen Nathalie\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: Form\nGroupes: VET3
+DTEND:20260316T180000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Ruvoen Nathalie
+DTSTART:20260316T170000Z
+SUMMARY:Form e-learning - DS TUBERCULOSE - 6:00 PM - 7:00 PM
+UID:2a88fa4e-87e3-4f0b-930b-f5d2bbf6f16c@2a88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Abadie Jérôme\nSalle: 511 TD - Porte 511\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260205T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Abadie Jérôme
+DTSTART:20260205T073000Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD1 Circulatoire 1
+UID:212d58d3-0f78-437d-8ab8-3a2c0f0e7927@212d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: digestive 1\nType: Aguado Eric\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Chirurgie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260317T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260317T130000Z
+SUMMARY:Chirurgie Aguado Eric - digestive 1 - 2:00 PM - 2:50 PM
+UID:cb16b7d6-48bf-4c82-978d-8f893610f18d@cb16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: PERSONNEL\nType: Travail personnel\nIntervenant: Ruvoen Nathalie\nSalle: 069 Médecine préventive des carnivores\nCode: TRAVAIL\nGroupes: VET3
+DTEND:20260511T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Ruvoen Nathalie
+DTSTART:20260511T150000Z
+SUMMARY:TRAVAIL Travail personnel - PERSONNEL - 5:00 PM - 5:50 PM
+UID:ef72ebff-8a86-43a9-b235-1d56f95c8fcf@ef72.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 21\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260504T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260504T150000Z
+SUMMARY: VET3 - 21 - 5:00 PM - 5:50 PM
+UID:0999d6bc-16c1-4096-a7b2-05c456ad8623@0999.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: VET2\nType: \nIntervenant: VET4\nSalle: VET3\nCode: \nGroupes: 
+DTEND:20260417T200000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3 - VET4
+DTSTART:20260417T050000Z
+SUMMARY:  - VET2 - Congés OU stage
+UID:0e7faec9-454f-4f94-a4ad-a045cf7a34a3@0e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 11\nType: Bruyas Jean-François\nIntervenant: Amphi G4\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260511T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G4
+DTSTART:20260511T130000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 11 - 3:00 PM - 3:50 PM
+UID:8a1426f1-cd35-45ef-b0d8-be3611aa5254@8a14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 3\nType: Bruyas Jean-François\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260401T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260401T140000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 3 - 4:00 PM - 4:50 PM
+UID:b965531b-b83f-40ea-b40d-6c000b1e7f9b@b965.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 5\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260408T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260408T140000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 5 - 4:00 PM - 4:50 PM
+UID:93dc6b09-b54b-4293-bb4f-e805966959b0@93dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: essentielles appliquées à des exemples de questions d'examen\nType: Colle Marie-Anne\nIntervenant: Amphi Pierre Cuq\nSalle: 067 Anatomie pathologique cancérologie et pathologie générales\nCode: Notions\nGroupes: CM\n\n \n\nVET3
+DTEND:20260511T150000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:067 Anatomie pathologique cancérologie et pathologie générales - Amphi Pierre Cuq
+DTSTART:20260511T140000Z
+SUMMARY:Notions Colle Marie-Anne - essentielles appliquées à des exemples de questions d'examen - 4:00 PM - 5:00 PM
+UID:76428bc5-6fbb-4472-9cef-ab2f49261681@7642.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: intermédiaire UE 046 - 45 mns (1h pour tiers temps )\nType: Amphi Pierre Cuq\nIntervenant: 202 TD - Porte n° 202\nSalle: 046  Physiologie intégrée des grandes fonctions\nCode: contrôle\nGroupes: Chantrerie-Salle des Conseils\n\n \n\nHervé Julie Mignot Grégoire\n\n \n\nContrôle intermédiaire/partiel\n\n \n\nVET2
+DTEND:20260407T070000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:046  Physiologie intégrée des grandes fonctions - 202 TD - Porte n° 202
+DTSTART:20260407T060000Z
+SUMMARY:contrôle Amphi Pierre Cuq - intermédiaire UE 046 - 45 mns (1h pour tiers temps ) - 8:00 AM - 9:00 AM
+UID:62a2fe1b-3400-41c1-8b3d-0c94f76dbaaa@62a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2 Examen\nType: 222 TD - Porte n° 222\nIntervenant: 221 TD - Porte n° 221\nSalle: 220 TD - Porte n° 220\nCode: Session\nGroupes: 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704 Amphi G4 Amphi G5\n\n \n\nRolland Karine\n\n \n\nExamen session 2\n\n \n\nVET2 VET3 VET4
+DTEND:20260622T150000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - 221 TD - Porte n° 221
+DTSTART:20260622T063000Z
+SUMMARY:Session 222 TD - Porte n° 222 - 2 Examen - 8:30 AM - 5:00 PM
+UID:84a9c06d-a4f4-40e2-86c2-1592fe3edabb@84a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: néonatales 1\nType: aurore.boishardy\nIntervenant: Amphi G2N\nSalle: 061 Maladie des ruminants 1\nCode: Diarrhées\nGroupes: CM\n\n \n\nVET3
+DTEND:20260304T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi G2N
+DTSTART:20260304T130000Z
+SUMMARY:Diarrhées aurore.boishardy - néonatales 1 - 2:00 PM - 2:50 PM
+UID:6c6a56e6-c55d-4360-abec-d48754cfcf36@6c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: TD\nIntervenant: Rostang Antoine\nSalle: 221 TD - Porte n° 221\nCode: 069\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260428T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:221 TD - Porte n° 221 - Rostang Antoine
+DTSTART:20260428T063000Z
+SUMMARY:069 TD - Médecine préventive des carnivores - TD2- Utilisation raisonnée des antiparasitaires
+UID:9b6aeb7b-ef11-4a05-9e2e-1e257dd8e896@9b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1 UE 066-1ère 1/2 promo  (liste à venir sur connect)\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: SESSION\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nDesfontis Jean-Claude\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260528T123000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - 220 TD - Porte n° 220
+DTSTART:20260528T113000Z
+SUMMARY:SESSION 221 TD - Porte n° 221 - 1 UE 066-1ère 1/2 promo  (liste à venir sur connect) - 1:30 PM - 2:30 PM
+UID:9bede749-c7cf-4568-9464-7b6d33815330@9bed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: de la trachée\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Chirurgie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260331T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260331T140000Z
+SUMMARY:Chirurgie Gauthier Olivier - de la trachée - 4:00 PM - 4:50 PM
+UID:4f91f928-8632-4171-9314-74c63250a3ab@4f91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: TD\nIntervenant: Guillot Jacques\nSalle: 402 TP - Porte n° 402\nCode: 063\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260507T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:402 TP - Porte n° 402 - Guillot Jacques
+DTSTART:20260507T083500Z
+SUMMARY:063 TD - Dermatologie et mycologie clinique toutes espèces - Evaluation intermédiaire : diagnose raisonnée de parasites
+UID:211108f3-a0cb-4f32-8d79-e9a2883c804e@2111.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1- UE 061 2ème 1/2 promo (liste à venir sur connect)\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 061 Maladie des ruminants 1\nCode: Session\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nRavinet Nadine\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260601T133000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - 220 TD - Porte n° 220
+DTSTART:20260601T120000Z
+SUMMARY:Session 221 TD - Porte n° 221 - 1- UE 061 2ème 1/2 promo (liste à venir sur connect) - 2:00 PM - 3:30 PM
+UID:7714c65a-ad34-4a02-a580-60efd4d59eb6@7714.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: TD\nIntervenant: Bastian Suzanne\nSalle: 218 TD\nCode: 064\nGroupes: VET3-classe 5
+DTEND:20260210T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:218 TD - Bastian Suzanne
+DTSTART:20260210T093500Z
+SUMMARY:064 TD - Réglementation sanitaire générale et maladies réglementées - FA -Fièvre Aphteuse
+UID:8e816673-b5ca-4aa2-958d-db9fd91bf7f2@8e81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Mallem Yassine\nSalle: 221 TD - Porte n° 221\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260211T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:221 TD - Porte n° 221 - Mallem Yassine
+DTSTART:20260211T093500Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - TD4 Fonctions de Reproduction
+UID:0fab7539-6765-4eaf-bfcc-1ed913433999@0fab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Moriceau Meg-Anne\nSalle: 222 TD - Porte n° 222\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260302T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:222 TD - Porte n° 222 - Moriceau Meg-Anne
+DTSTART:20260302T093500Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - TD1 Diagnostic et traitement des intoxications animales par les médicaments et « destructeurs des nuisibles »
+UID:56f4b8e1-1728-4306-a298-52ea9c2d7001@56f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Sémiologie physiopathologie intégrée\nType: TD\nIntervenant: Nguyen Frédérique\nSalle: 205 Espace modulaire 205\nCode: 062\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260206T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:205 Espace modulaire 205 - Nguyen Frédérique
+DTSTART:20260206T073000Z
+SUMMARY:062 TD - Sémiologie physiopathologie intégrée - TD3 Physiopath HÉPATIQUE
+UID:db3f2d88-9810-470f-9bf7-425f09f47c44@db3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: caillette\nType: Rouault Maud\nIntervenant: Amphi Pierre Cuq\nSalle: 061 Maladie des ruminants 1\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260302T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi Pierre Cuq
+DTSTART:20260302T150000Z
+SUMMARY:Pathologie Rouault Maud - caillette - 4:00 PM - 4:50 PM
+UID:867b283c-0ee9-4357-9f12-d029ae00bcc5@867b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: sémio. des Ruminants\nType: Rouault Maud\nIntervenant: Amphi G2N\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Particularités\nGroupes: CM\n\n \n\nVET3
+DTEND:20260320T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - Amphi G2N
+DTSTART:20260320T140000Z
+SUMMARY:Particularités Rouault Maud - sémio. des Ruminants - 3:00 PM - 3:50 PM
+UID:e1dfcb57-2ed9-46c3-b489-767e8ddc6804@e1df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: d'extractions dentaires\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Techniques\nGroupes: CM\n\n \n\nVET3
+DTEND:20260216T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260216T140000Z
+SUMMARY:Techniques Gauthier Olivier - d'extractions dentaires - 3:00 PM - 3:50 PM
+UID:dc4b45c8-5efb-4c3b-b4e3-8db93292f1a1@dc4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1- 2ème 1/2 promo (liste à venir sur connect)\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Session\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nHervé Julie\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260527T133000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - 220 TD - Porte n° 220
+DTSTART:20260527T123000Z
+SUMMARY:Session 221 TD - Porte n° 221 - 1- 2ème 1/2 promo (liste à venir sur connect) - 2:30 PM - 3:30 PM
+UID:7af65a31-a0c4-4472-a401-30bc2317bca4@7af6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Mallem Yassine\nSalle: 221 TD - Porte n° 221\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260129T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:221 TD - Porte n° 221 - Mallem Yassine
+DTSTART:20260129T073000Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - TD2 Fonctions cardiovasculaire et rénale
+UID:194601fc-0e27-4c3e-89f0-f9a5a1306b2b@1946.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: Ruvoen Nathalie\nIntervenant: Loisel Léa\nSalle: 501 TD - Porte 501\nCode: 064\nGroupes: TD\n\n \n\nVET3-classe 5 VET3-classe 6
+DTEND:20260427T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:501 TD - Porte 501 - Loisel Léa
+DTSTART:20260427T083500Z
+SUMMARY:064 Ruvoen Nathalie - Réglementation sanitaire générale et maladies réglementées - TD (jeu sérieux -Maladies ADE- Transmission vectorielles et autres)
+UID:3b1efe7a-cdf7-41b3-82a4-acbbd235a664@3b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 7\nType: Briand-Amirat Lamia\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260306T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260306T140000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 7 - 3:00 PM - 3:50 PM
+UID:f04699bb-ea25-40c7-bee0-9b13a25757a6@f046.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 5\nType: Briand-Amirat Lamia\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260302T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260302T140000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 5 - 3:00 PM - 3:50 PM
+UID:deba46f3-231b-462d-a716-4c21a910be25@deba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: piqueurs\nType: Guillot Jacques\nIntervenant: Amphi Pierre Cuq\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: Diptères\nGroupes: CM\n\n \n\nVET3
+DTEND:20260302T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi Pierre Cuq
+DTSTART:20260302T130000Z
+SUMMARY:Diptères Guillot Jacques - piqueurs - 2:00 PM - 2:50 PM
+UID:eb36e1f0-391f-4333-ad46-f4b0304792f7@eb36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: intestinale infectieuse\nType: aurore.boishardy\nIntervenant: Amphi Pierre Cuq\nSalle: 061 Maladie des ruminants 1\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260317T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi Pierre Cuq
+DTSTART:20260317T150000Z
+SUMMARY:Pathologie aurore.boishardy - intestinale infectieuse - 4:00 PM - 4:50 PM
+UID:c272fbac-4f22-4384-8555-df74c232d9f1@c272.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: TD\nIntervenant: Ravinet Nadine\nSalle: 220 TD - Porte n° 220\nCode: 061\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260512T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - Ravinet Nadine
+DTSTART:20260512T083500Z
+SUMMARY:061 TD - Maladie des ruminants 1 - CAT bovin face à troubles digestifs collectif 2
+UID:e7e78586-d276-4f09-8234-0c3a0071b514@e7e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: - Autres maladies régl. des ruminants (lecture poly)\nType: VET3\nIntervenant: e-learning\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: EL\nGroupes: 
+DTEND:20260429T160000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - e-learning
+DTSTART:20260429T150000Z
+SUMMARY:EL VET3 - - Autres maladies régl. des ruminants (lecture poly) - 5:00 PM - 6:00 PM
+UID:4efffa5e-0181-4def-84f0-8809ab35e0b5@4eff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 17\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260331T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260331T160000Z
+SUMMARY: VET3 - 17 - 6:00 PM - 6:50 PM
+UID:b54aabfe-9ac7-4525-9783-bf671f581d3d@b54a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 4- tests autoformation (infectieux\, éducation\, alimentation chiot\, chat) + poly alimentation\nType: Travail personnel\nIntervenant: Ruvoen Nathalie\nSalle: 069 Médecine préventive des carnivores\nCode: \nGroupes: VET3
+DTEND:20260401T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Ruvoen Nathalie
+DTSTART:20260401T150000Z
+SUMMARY: Travail personnel - 4- tests autoformation (infectieux\, éducation\, alimentation chiot\, chat) + poly alimentation - 5:00 PM - 5:50 PM
+UID:4b756a3a-1f94-4295-8372-14bbf63ff605@4b75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1/2\nType: Ruvoen Nathalie\nIntervenant: Amphi Pierre Cuq\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: BRUCELLOSE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260203T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi Pierre Cuq
+DTSTART:20260203T130000Z
+SUMMARY:BRUCELLOSE Ruvoen Nathalie - 1/2 - 2:00 PM - 2:50 PM
+UID:8fc5b040-5a72-455c-b712-8fbae0b30a29@8fc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: TD\nIntervenant: Debruille Agathe\nSalle: 511 TD - Porte 511\nCode: 069\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260428T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Debruille Agathe
+DTSTART:20260428T083500Z
+SUMMARY:069 TD - Médecine préventive des carnivores - Lecture d'une étiquette
+UID:310d4fee-ff92-4afa-8bf4-3a5ae511cc95@310d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 13\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260310T174500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260310T165500Z
+SUMMARY: VET3 - 13 - 5:55 PM - 6:45 PM
+UID:5ddd9ff2-296a-423a-ad7b-2df313af3934@5ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: physiologiques de la reproduction chez les CNV\nType: GAGNON Anne-Claire\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Données\nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260427T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260427T140000Z
+SUMMARY:Données GAGNON Anne-Claire - physiologiques de la reproduction chez les CNV - 4:00 PM - 4:50 PM
+UID:3e632328-b2b4-4f6c-88f7-a65435fdfffc@3e63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 8\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260504T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260504T130000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 8 - 3:00 PM - 3:50 PM
+UID:7b3315b8-e521-49b0-88ad-9bf9b4648c6e@7b33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 9\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260505T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260505T120000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 9 - 2:00 PM - 2:50 PM
+UID:3e3ace04-8e61-4f56-b8d0-f65b217cd977@3e3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: sémio. des Ruminants\nType: Rouault Maud\nIntervenant: Amphi G2N\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Particularités\nGroupes: CM\n\n \n\nVET3
+DTEND:20260320T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - Amphi G2N
+DTSTART:20260320T150000Z
+SUMMARY:Particularités Rouault Maud - sémio. des Ruminants - 4:00 PM - 4:50 PM
+UID:eb0b4c6e-5730-47a1-9395-195bde51152f@eb0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: de la Caillette\nType: e-learning\nIntervenant: Rouault Maud\nSalle: 061 Maladie des ruminants 1\nCode: Affections\nGroupes: vidéo + quizz - après CM Pathologie caillette\n\n \n\nVET3
+DTEND:20260309T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Rouault Maud
+DTSTART:20260309T160000Z
+SUMMARY:Affections e-learning - de la Caillette - 5:00 PM - 5:50 PM
+UID:a588061c-3ba8-40b3-a940-7ec9feef05ac@a588.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 5\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260203T175000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260203T170000Z
+SUMMARY: VET3 - 5 - 6:00 PM - 6:50 PM
+UID:f18c8345-959a-4b8b-a428-e3fe779b4201@f18c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: TD\nIntervenant: Bastian Suzanne\nSalle: 205 Espace modulaire 205\nCode: 064\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260129T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:205 Espace modulaire 205 - Bastian Suzanne
+DTSTART:20260129T093500Z
+SUMMARY:064 TD - Réglementation sanitaire générale et maladies réglementées - Actions sanitaires : POLICE SANITAIRE
+UID:2b5126b2-b48c-4cd8-9e2c-2a2401491ca0@2b51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: CM\nIntervenant: Ravinet Nadine\nSalle: Amphi G2N\nCode: 061\nGroupes: VET3
+DTEND:20260212T102000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Ravinet Nadine
+DTSTART:20260212T093000Z
+SUMMARY:061 CM - Maladie des ruminants 1 - Diarrhées parasitaires en bâtiment 3
+UID:f98cd273-7458-4468-b4be-a36dc7d86c65@f98c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: TD\nIntervenant: Bruet vincent\nSalle: 205 Espace modulaire 205\nCode: 063\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260429T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:205 Espace modulaire 205 - Bruet vincent
+DTSTART:20260429T063000Z
+SUMMARY:063 TD - Dermatologie et mycologie clinique toutes espèces - TD3 : Pustules\, ulcères et croûtes
+UID:05649577-3f3a-416b-9d49-5203a4fcac78@0564.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 0610\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: UE\nGroupes: Examen session 1 - VET3\n\n \n\nVET3
+DTEND:20260528T073000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260528T063000Z
+SUMMARY:UE Gauthier Olivier - 0610 - 8:30 AM - 9:30 AM
+UID:bf0c4a57-03cc-472f-82d6-aeb9e20afd6d@bf0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: cutanées\nType: Guillot Jacques\nIntervenant: Amphi Pierre Cuq\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: Mycoses\nGroupes: CM\n\n \n\nVET3
+DTEND:20260218T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi Pierre Cuq
+DTSTART:20260218T140000Z
+SUMMARY:Mycoses Guillot Jacques - cutanées - 3:00 PM - 3:50 PM
+UID:28a26b2e-7508-4377-85d6-5c0681ffc564@28a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2-Occlusions intestinales\nType: e-learning\nIntervenant: Assié Sébastien\nSalle: 061 Maladie des ruminants 1\nCode: \nGroupes: apport supplémentaire sur poly + vidéo + quizz - après CM Pathologie intestinales : occlusions et avant TD CAT face à un trouble digestif individuel\n\n \n\nVET3
+DTEND:20260316T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Assié Sébastien
+DTSTART:20260316T160000Z
+SUMMARY: e-learning - 2-Occlusions intestinales - 5:00 PM - 5:50 PM
+UID:657a111a-4de4-4ab6-9ec0-f5cb985df6da@657a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: TP copro 2/2\nType: e-learning\nIntervenant: Chauvin Alain\nSalle: 061 Maladie des ruminants 1\nCode: préparation\nGroupes: ppt des TP / TD des UE précédentes - avant TP Diagnostic coproscopique\n\n \n\nVET3
+DTEND:20260303T180500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Chauvin Alain
+DTSTART:20260303T170500Z
+SUMMARY:préparation e-learning - TP copro 2/2 - 6:05 PM - 7:05 PM
+UID:87c1286b-9f88-49f4-8fc6-fec99444fdcb@87c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: aux maladies héréditaires chez les carnivores\nType: Abitbol Marie\nIntervenant: Amphi Pierre Cuq\nSalle: 069 Médecine préventive des carnivores\nCode: Sensibilisation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260513T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi Pierre Cuq
+DTSTART:20260513T120000Z
+SUMMARY:Sensibilisation Abitbol Marie - aux maladies héréditaires chez les carnivores - 2:00 PM - 2:50 PM
+UID:41fdd073-3381-45d8-b2ce-9e7f61459b71@41fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des parasitoses internes des carnivores (2)\nType: Guillot Jacques\nIntervenant: Amphi Pierre Cuq\nSalle: 069 Médecine préventive des carnivores\nCode: Prévention\nGroupes: CM\n\n \n\nVET3
+DTEND:20260330T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi Pierre Cuq
+DTSTART:20260330T130000Z
+SUMMARY:Prévention Guillot Jacques - des parasitoses internes des carnivores (2) - 3:00 PM - 3:50 PM
+UID:5f6d4def-d038-42b1-a31d-b06845ab2632@5f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: DS FA -Fièvre Aphteuse\nType: e-learning\nIntervenant: Ruvoen Nathalie\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: Form\nGroupes: VET3
+DTEND:20260303T160000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Ruvoen Nathalie
+DTSTART:20260303T150000Z
+SUMMARY:Form e-learning - DS FA -Fièvre Aphteuse - 4:00 PM - 5:00 PM
+UID:41482871-cc2c-4643-badc-1222faef8cc6@4148.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Sémiologie physiopathologie intégrée\nType: CM\nIntervenant: Guatteo Raphaël\nSalle: Amphi Pierre Cuq\nCode: 062\nGroupes: VET3
+DTEND:20260327T092000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Guatteo Raphaël
+DTSTART:20260327T083000Z
+SUMMARY:062 CM - Sémiologie physiopathologie intégrée - Sémiologie nerveuse 2
+UID:355fda40-389a-4370-8e7b-68894a9e1b64@355f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: générale Hypersensibilités 2\nType: Moreau Emmanuelle\nIntervenant: Amphi G2N\nSalle: 067 Anatomie pathologique cancérologie et pathologie générales\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260310T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:067 Anatomie pathologique cancérologie et pathologie générales - Amphi G2N
+DTSTART:20260310T150000Z
+SUMMARY:Pathologie Moreau Emmanuelle - générale Hypersensibilités 2 - 4:00 PM - 4:50 PM
+UID:5d4b36db-1fb3-4ed0-90ba-ffa6003ebe13@5d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: d'ovariectomies 2/2\nType: Gauthier Olivier\nIntervenant: Amphi G2N\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Techniques\nGroupes: CM\n\n \n\nVET3
+DTEND:20260209T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi G2N
+DTSTART:20260209T150000Z
+SUMMARY:Techniques Gauthier Olivier - d'ovariectomies 2/2 - 4:00 PM - 4:50 PM
+UID:8023eb98-1413-47f9-9b91-90166d087045@8023.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 15\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260313T175000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260313T170000Z
+SUMMARY: VET3 - 15 - 6:00 PM - 6:50 PM
+UID:73a3f537-8b57-4d06-9a4e-c09eb0156a21@73a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 7-dermatite atopique canine\nType: Bruet vincent\nIntervenant: Amphi Pierre Cuq\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: \nGroupes: CM\n\n \n\nVET3
+DTEND:20260204T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi Pierre Cuq
+DTSTART:20260204T130000Z
+SUMMARY: Bruet vincent - 7-dermatite atopique canine - 2:00 PM - 2:50 PM
+UID:98abf579-c06f-479f-89a6-33fc23c6dd6c@98ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 1\nType: Bruyas Jean-François\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260326T082000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260326T073000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 1 - 8:30 AM - 9:20 AM
+UID:23f9e087-8d3e-45bc-a2b9-80186ae62fbd@23f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 11\nType: Bencharif Djemil\nIntervenant: Amphi G4\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260512T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G4
+DTSTART:20260512T120000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 11 - 2:00 PM - 2:50 PM
+UID:a02dab05-bbe0-43b1-8788-900f1a4e0cd1@a02d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: locomotrice 2\nType: Guatteo Raphaël\nIntervenant: Amphi G2N\nSalle: 061 Maladie des ruminants 1\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260311T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi G2N
+DTSTART:20260311T140000Z
+SUMMARY:Pathologie Guatteo Raphaël - locomotrice 2 - 3:00 PM - 3:50 PM
+UID:fd006a44-ea77-4786-8ff2-b42668c46f37@fd00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Urinaire 1\nType: Drut Amandine\nIntervenant: Amphi G2N\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Sémiologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260210T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - Amphi G2N
+DTSTART:20260210T130000Z
+SUMMARY:Sémiologie Drut Amandine - Urinaire 1 - 2:00 PM - 2:50 PM
+UID:d2099b14-3a0a-4c91-8485-d0315bb2098d@d209.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale mâle/ biotechnologies 6\nType: Bruyas Jean-François\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260202T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260202T130000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale mâle/ biotechnologies 6 - 2:00 PM - 2:50 PM
+UID:caf538b3-3bbd-481f-8cdd-b07f1b2dbc1b@caf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Inflam. aiguës et suppurées\, ganulommes et infiltrat\, inflam. scérorantes et cicatrisation\nType: Evaluation formative\nIntervenant: Colle Marie-Anne\nSalle: 067 Anatomie pathologique cancérologie et pathologie générales\nCode: \nGroupes: évaluation formative\n\n \n\nVET3
+DTEND:20260311T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:067 Anatomie pathologique cancérologie et pathologie générales - Colle Marie-Anne
+DTSTART:20260311T160000Z
+SUMMARY: Evaluation formative - Inflam. aiguës et suppurées\, ganulommes et infiltrat\, inflam. scérorantes et cicatrisation - 5:00 PM - 5:50 PM
+UID:edca216f-f182-4893-ba82-cdc3e6f34e90@edca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 3\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260128T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260128T160000Z
+SUMMARY: VET3 - 3 - 5:00 PM - 5:50 PM
+UID:0003a508-f9d8-4fe5-86d1-f1f435c66b12@0003.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: TD\nIntervenant: Ruvoen Nathalie\nSalle: 202 TD - Porte n° 202\nCode: 064\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260513T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:202 TD - Porte n° 202 - Ruvoen Nathalie
+DTSTART:20260513T063000Z
+SUMMARY:064 TD - Réglementation sanitaire générale et maladies réglementées - Epidémiosurveillance et vigilance
+UID:687115bf-7863-4c0b-ab09-44b978ab2dd3@6871.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 13\nType: Briand-Amirat Lamia\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260403T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260403T120000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 13 - 2:00 PM - 2:50 PM
+UID:740be6c0-6087-4f2b-bd18-a0e6e6a4ff25@740b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: CM\nIntervenant: Ravinet Nadine\nSalle: Amphi Pierre Cuq\nCode: 061\nGroupes: VET3
+DTEND:20260326T102000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Ravinet Nadine
+DTSTART:20260326T093000Z
+SUMMARY:061 CM - Maladie des ruminants 1 - Dominantes patho disgestive des petits ruminants 2
+UID:bac175a7-0510-404b-a68a-00e4c5251851@bac1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 16\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260320T180100Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260320T171100Z
+SUMMARY: VET3 - 16 - 6:11 PM - 7:01 PM
+UID:476ab023-e589-4704-b505-8553186d07fc@476a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: sommative Pathologie Générale\nType: Auto-évaluation en ligne\nIntervenant: Moreau Emmanuelle\nSalle: 067 Anatomie pathologique cancérologie et pathologie générales\nCode: Evaluation\nGroupes: évaluation somative en ligne : pathologie générale\n\n \n\nVET3
+DTEND:20260513T155500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:067 Anatomie pathologique cancérologie et pathologie générales - Moreau Emmanuelle
+DTSTART:20260513T150500Z
+SUMMARY:Evaluation Auto-évaluation en ligne - sommative Pathologie Générale - 5:05 PM - 5:55 PM
+UID:5eb44c30-e2ee-4c41-aa11-d52a9b7b3b78@5eb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: TP\nIntervenant: Agoulon Albert\nSalle: 402 TP - Porte n° 402\nCode: 061\nGroupes: VET3-classe 5
+DTEND:20260316T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:402 TP - Porte n° 402 - Agoulon Albert
+DTSTART:20260316T073000Z
+SUMMARY:061 TP - Maladie des ruminants 1 - TP Diagnostic coproscopique
+UID:04f40175-43ef-4b4f-8a85-4b40372b2e97@04f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 056\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 056 Propédeutique médicale\nCode: UE\nGroupes: Fusellier Marion\n\n \n\nExamen session 2\n\n \n\nVET3
+DTEND:20260623T130000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:056 Propédeutique médicale - 220 TD - Porte n° 220
+DTSTART:20260623T120000Z
+SUMMARY:UE 221 TD - Porte n° 221 - 056 - 2:00 PM - 3:00 PM
+UID:73228b00-dd80-4686-aac9-2ee554a3a777@7322.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD 1:2 promo\nIntervenant: Abadie Jérôme\nSalle: Amphi G4\nCode: 067\nGroupes: VET3-classe 1 VET3-classe 2 VET3-classe 3 VET3-classe 4 VET3-classe 5
+DTEND:20260309T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G4 - Abadie Jérôme
+DTSTART:20260309T073000Z
+SUMMARY:067 TD 1:2 promo - Anatomie pathologique cancérologie et pathologie générales - TD6 Cancérologie 2
+UID:2c39bf4c-92db-403e-b7c3-0e2d3ef0bf87@2c39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 6- Pathologie locomotrice\nType: e-learning\nIntervenant: Guatteo Raphaël\nSalle: 061 Maladie des ruminants 1\nCode: \nGroupes: apport supplémentaire sur poly + vidéo + quizz - après le le CM Pathologie locomotrice  mais avant le TD Pathologie locomotrice\n\n \n\nVET3
+DTEND:20260331T160000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Guatteo Raphaël
+DTSTART:20260331T150000Z
+SUMMARY: e-learning - 6- Pathologie locomotrice - 5:00 PM - 6:00 PM
+UID:893cf689-7099-4cae-8575-9fbbbda062c6@893c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 5- tests autoformation (parasitoses) + H5P programme vaccination\nType: Travail personnel\nIntervenant: Ruvoen Nathalie\nSalle: 069 Médecine préventive des carnivores\nCode: \nGroupes: VET3
+DTEND:20260403T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Ruvoen Nathalie
+DTSTART:20260403T150000Z
+SUMMARY: Travail personnel - 5- tests autoformation (parasitoses) + H5P programme vaccination - 5:00 PM - 5:50 PM
+UID:b273f3b1-334e-4554-89dc-797bc1fb5b3d@b273.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 3\nType: Bencharif Djemil\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260304T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260304T150000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 3 - 4:00 PM - 4:50 PM
+UID:f86ba774-978a-48d1-875c-a986bfedf7c6@f86b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: - Fièvre Aphteuse 1/2\nType: Ruvoen Nathalie\nIntervenant: Amphi G2N\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: FA\nGroupes: CM\n\n \n\nVET3
+DTEND:20260126T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi G2N
+DTSTART:20260126T150000Z
+SUMMARY:FA Ruvoen Nathalie - - Fièvre Aphteuse 1/2 - 4:00 PM - 4:50 PM
+UID:de82f056-8604-4baf-9c2e-bac30aac25a0@de82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 9\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260218T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260218T160000Z
+SUMMARY: VET3 - 9 - 5:00 PM - 6:00 PM
+UID:bf557d97-173e-4d6e-94a1-3b22b2e116f5@bf55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: TP\nIntervenant: sanchez maria-dolores\nSalle: 402 TP - Porte n° 402\nCode: 063\nGroupes: VET3-classe 5
+DTEND:20260323T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:402 TP - Porte n° 402 - sanchez maria-dolores
+DTSTART:20260323T093500Z
+SUMMARY:063 TP - Dermatologie et mycologie clinique toutes espèces - TP Cytologie et trichoscopie
+UID:1f012f82-bddd-40fe-b57c-cd6a4a197fb3@1f01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1 UE 066 -2ème 1/2 promo  (liste à venir sur connect)\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: SESSION\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nDesfontis Jean-Claude\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260528T133500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - 220 TD - Porte n° 220
+DTSTART:20260528T123500Z
+SUMMARY:SESSION 221 TD - Porte n° 221 - 1 UE 066 -2ème 1/2 promo  (liste à venir sur connect) - 2:35 PM - 3:35 PM
+UID:ae0af9c8-ab24-458d-9358-95cea4add022@ae0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 4- Intoxications par les produits domestiques (détergents\, caustiques\, éthylène glycol\, hydrocarbures) et les aliments\nType: Moriceau Meg-Anne\nIntervenant: Amphi G2N\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: CM\n\n \n\nVET3
+DTEND:20260327T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - Amphi G2N
+DTSTART:20260327T150000Z
+SUMMARY: Moriceau Meg-Anne - 4- Intoxications par les produits domestiques (détergents\, caustiques\, éthylène glycol\, hydrocarbures) et les aliments - 4:00 PM - 4:50 PM
+UID:0a15d00d-8db9-43f2-a5e9-c0469ba684bf@0a15.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1- 1ère 1/2 promo  (liste à venir sur connect)\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Session\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nHervé Julie\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260527T123000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - 220 TD - Porte n° 220
+DTSTART:20260527T113000Z
+SUMMARY:Session 221 TD - Porte n° 221 - 1- 1ère 1/2 promo  (liste à venir sur connect) - 1:30 PM - 2:30 PM
+UID:0a39272f-d57d-4de3-a9be-ead224c5cd77@0a39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anglais comm scientifique\nType: TD\nIntervenant: Nathalie Goodenough\nSalle: 410 TD - Porte n° 410\nCode: 065\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260211T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:410 TD - Porte n° 410 - Nathalie Goodenough
+DTSTART:20260211T073000Z
+SUMMARY:065 TD - Anglais comm scientifique - TD1_NG
+UID:3d672dbc-bf07-4f9f-b57f-c7222e4c523f@3d67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: affections musculo-tendineuses\nType: Gauthier Olivier\nIntervenant: Amphi G2N\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Principales\nGroupes: CM\n\n \n\nVET3
+DTEND:20260504T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi G2N
+DTSTART:20260504T120000Z
+SUMMARY:Principales Gauthier Olivier - affections musculo-tendineuses - 2:00 PM - 2:50 PM
+UID:b1c66a70-e702-490d-a5f6-96304231a129@b1c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des troubles du comportement chien\nType: Gilbert Caroline\nIntervenant: Amphi Pierre Cuq\nSalle: 069 Médecine préventive des carnivores\nCode: Prevention\nGroupes: CM\n\n \n\nVET3
+DTEND:20260311T082000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi Pierre Cuq
+DTSTART:20260311T073000Z
+SUMMARY:Prevention Gilbert Caroline - des troubles du comportement chien - 8:30 AM - 9:20 AM
+UID:511c14dd-3a94-4f6d-afa5-0a4a217f0318@511c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: aux maladies héréditaires chez les carnivores\nType: Abitbol Marie\nIntervenant: Amphi Pierre Cuq\nSalle: 069 Médecine préventive des carnivores\nCode: Sensibilisation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260513T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi Pierre Cuq
+DTSTART:20260513T140000Z
+SUMMARY:Sensibilisation Abitbol Marie - aux maladies héréditaires chez les carnivores - 4:00 PM - 4:50 PM
+UID:26e165b9-1ce6-40d4-aebb-f1ccd68aff46@26e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1- Pathologie locomotrice\nType: e-learning\nIntervenant: Guatteo Raphaël\nSalle: 061 Maladie des ruminants 1\nCode: \nGroupes: apport supplémentaire sur poly + vidéo + quizz - avant le CM Pathologie locomotrice\n\n \n\nVET3
+DTEND:20260309T175000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Guatteo Raphaël
+DTSTART:20260309T170000Z
+SUMMARY: e-learning - 1- Pathologie locomotrice - 6:00 PM - 6:50 PM
+UID:f14820b3-d6d5-40c5-bf4e-ae8a06f46e68@f148.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Nguyen Frédérique\nSalle: 511 TD - Porte 511\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260305T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Nguyen Frédérique
+DTSTART:20260305T093500Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD4 CELLULE
+UID:0c8d20ad-cefb-42c3-a856-5f88f9981049@0c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD 1:2 promo\nIntervenant: Nguyen Frédérique\nSalle: Amphi Pierre Cuq\nCode: 067\nGroupes: VET3-classe 1 VET3-classe 2 VET3-classe 3 VET3-classe 4 VET3-classe 5
+DTEND:20260325T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Nguyen Frédérique
+DTSTART:20260325T073000Z
+SUMMARY:067 TD 1:2 promo - Anatomie pathologique cancérologie et pathologie générales - TD7 Cancérologie 3
+UID:a2b869bb-61c5-48a8-bff4-c947d5a09369@a2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: CM\nIntervenant: Gilbert Caroline\nSalle: Amphi Pierre Cuq\nCode: 069\nGroupes: VET3
+DTEND:20260311T102000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Gilbert Caroline
+DTSTART:20260311T093000Z
+SUMMARY:069 CM - Médecine préventive des carnivores - Conseils en éducation des carnivores
+UID:2b39dbc4-1e96-4e00-9700-5326c401d7e7@2b39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: TD CAT face à un trouble digestif individuel\nType: e-learning\nIntervenant: Relun Anne\nSalle: 061 Maladie des ruminants 1\nCode: Préparation\nGroupes: vos supports d'enseignement (CM\, poly\, vidéosâ€¦) - vos supports d'enseignement (CM\, poly\, vidéosâ€¦)\n\n \n\nVET3
+DTEND:20260317T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Relun Anne
+DTSTART:20260317T160000Z
+SUMMARY:Préparation e-learning - TD CAT face à un trouble digestif individuel - 5:00 PM - 5:50 PM
+UID:0103c29b-1663-454c-8b2c-eb87983c0029@0103.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: du chiot (2)\nType: Debruille Agathe\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Alimentation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260313T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260313T130000Z
+SUMMARY:Alimentation Debruille Agathe - du chiot (2) - 2:00 PM - 2:50 PM
+UID:8483c02b-8c67-4536-9435-8a27dde0259f@8483.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 4\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260408T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260408T130000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 4 - 3:00 PM - 3:50 PM
+UID:c29ba991-683f-45f2-8df1-4991d2d7a96e@c29b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: Ruvoen Nathalie\nIntervenant: Maisonnasse Pauline\nSalle: 511 TD - Porte 511\nCode: 069\nGroupes: TD\n\n \n\nVET3-classe 5 VET3-classe 6
+DTEND:20260403T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Maisonnasse Pauline
+DTSTART:20260403T083500Z
+SUMMARY:069 Ruvoen Nathalie - Médecine préventive des carnivores - Gestion des maladies infectieuses en élevage canin
+UID:593912b0-1b98-400f-b5f8-6e85b6f2ce7b@5939.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des parasitoses internes des carnivores (1)\nType: Guillot Jacques\nIntervenant: Amphi Pierre Cuq\nSalle: 069 Médecine préventive des carnivores\nCode: Prévention\nGroupes: CM\n\n \n\nVET3
+DTEND:20260330T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi Pierre Cuq
+DTSTART:20260330T120000Z
+SUMMARY:Prévention Guillot Jacques - des parasitoses internes des carnivores (1) - 2:00 PM - 2:50 PM
+UID:41feb298-cdd6-4230-9587-e900eaf6888c@41fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: CM\nIntervenant: Ruvoen Nathalie\nSalle: Amphi G4\nCode: 064\nGroupes: VET3
+DTEND:20260319T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G4 - Ruvoen Nathalie
+DTSTART:20260319T094000Z
+SUMMARY:064 CM - Réglementation sanitaire générale et maladies réglementées - ESST - Encéphalopathies subaiguës transmissibles
+UID:e950b2ae-0d8b-4bb9-aab8-2a6250874464@e950.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: générale Hypersensibilités 1\nType: Moreau Emmanuelle\nIntervenant: Amphi G2N\nSalle: 067 Anatomie pathologique cancérologie et pathologie générales\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260310T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:067 Anatomie pathologique cancérologie et pathologie générales - Amphi G2N
+DTSTART:20260310T140000Z
+SUMMARY:Pathologie Moreau Emmanuelle - générale Hypersensibilités 1 - 3:00 PM - 3:50 PM
+UID:692f6742-d6c6-4583-824a-a1a3006f8e7e@692f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 7\nType: Bencharif Djemil\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260324T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260324T150000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 7 - 4:00 PM - 4:50 PM
+UID:f9bfbd88-f68d-47a9-a39b-be28629f2907@f9bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: du chat (3)\nType: Debruille Agathe\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Alimentation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260327T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260327T140000Z
+SUMMARY:Alimentation Debruille Agathe - du chat (3) - 3:00 PM - 3:50 PM
+UID:2d77881c-0437-4ec9-ab1d-1ce9241c5288@2d77.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Techniques chirurgicales toutes espèces\nType: CM\nIntervenant: Maitre Pierre\nSalle: Amphi Pierre Cuq\nCode: 0610\nGroupes: VET3
+DTEND:20260311T112000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Maitre Pierre
+DTSTART:20260311T103000Z
+SUMMARY:0610 CM - Techniques chirurgicales toutes espèces - Thoracotomie
+UID:d4910922-ed96-47ab-8bbb-9c6a181bbd13@d491.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi G2N\nCode: 069\nGroupes: VET3
+DTEND:20260306T092000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Debruille Agathe
+DTSTART:20260306T083000Z
+SUMMARY:069 CM - Médecine préventive des carnivores - Alimentation du chien en situation physiologique 3
+UID:3e39defd-606e-491e-b6cc-5818f6963ee4@3e39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2 Examen\nType: 222 TD - Porte n° 222\nIntervenant: 221 TD - Porte n° 221\nSalle: 220 TD - Porte n° 220\nCode: Session\nGroupes: 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704 Amphi G4 Amphi G5\n\n \n\nRolland Karine\n\n \n\nExamen session 2\n\n \n\nVET2 VET3 VET4
+DTEND:20260626T150000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - 221 TD - Porte n° 221
+DTSTART:20260626T063000Z
+SUMMARY:Session 222 TD - Porte n° 222 - 2 Examen - 8:30 AM - 5:00 PM
+UID:bde9bba5-f978-4ebe-83a7-8ccd1f74163e@bde9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Moreau Emmanuelle\nSalle: 511 TD - Porte 511\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260401T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Moreau Emmanuelle
+DTSTART:20260401T083500Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD13 session_1 Hypersensibilités
+UID:db1893d0-b9a4-47de-9f73-ed2c6a9bb527@db18.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: OU stage\nType: \nIntervenant: \nSalle: VET3\nCode: Congés\nGroupes: 
+DTEND:20260422T190000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3
+DTSTART:20260422T050000Z
+SUMMARY:Congés  - OU stage - 7:00 AM - 9:00 PM
+UID:97930d8c-d323-42f3-b8c2-a6af0ba90b0e@9793.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: - Autres maladies régl. des ruminants à éradiction immédiate (Cat. ADE) DNC - Clavelée - PPR...\nType: e-learning\nIntervenant: Ruvoen Nathalie\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: EL\nGroupes: VET3
+DTEND:20260407T160000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Ruvoen Nathalie
+DTSTART:20260407T150000Z
+SUMMARY:EL e-learning - - Autres maladies régl. des ruminants à éradiction immédiate (Cat. ADE) DNC - Clavelée - PPR... - 5:00 PM - 6:00 PM
+UID:d929c206-086a-432a-b5cf-e7e61ca1dd30@d929.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: locomotrice 1\nType: Guatteo Raphaël\nIntervenant: Amphi G2N\nSalle: 061 Maladie des ruminants 1\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260311T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi G2N
+DTSTART:20260311T130000Z
+SUMMARY:Pathologie Guatteo Raphaël - locomotrice 1 - 2:00 PM - 2:50 PM
+UID:823e3d6b-20c8-4ad3-8586-0b7a2b5c012a@823e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Moriceau Meg-Anne\nSalle: 221 TD - Porte n° 221\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260313T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:221 TD - Porte n° 221 - Moriceau Meg-Anne
+DTSTART:20260313T073000Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - Toxicologie environnementale TD1
+UID:d06c9ea5-61a2-4d45-9890-48f5c8f15f38@d06c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: TD\nIntervenant: Assié Sébastien\nSalle: 206 Espace modulaire 206\nCode: 061\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260504T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:206 Espace modulaire 206 - Assié Sébastien
+DTSTART:20260504T063000Z
+SUMMARY:061 TD - Maladie des ruminants 1 - CAT bovin face à troubles digestifs collectif 1
+UID:cd43af9f-d711-4669-815d-d2aa59b2ac85@cd43.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale mâle/ biotechnologies 4\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260128T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260128T140000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale mâle/ biotechnologies 4 - 3:00 PM - 3:50 PM
+UID:0faedb2e-e2af-464c-b8f8-6852efc1a68b@0fae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: Bruet vincent\nIntervenant: Amphi G4\nSalle: 206 Espace modulaire 206\nCode: 063\nGroupes: TD\n\n \n\nVET3-classe 5 VET3-classe 6
+DTEND:20260304T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:206 Espace modulaire 206 - Amphi G4
+DTSTART:20260304T093500Z
+SUMMARY:063 Bruet vincent - Dermatologie et mycologie clinique toutes espèces - TD2 : Approche pratique du prurit
+UID:8db4d0c7-5099-4b40-b408-577f572fd708@8db4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: CM\nIntervenant: Ravinet Nadine\nSalle: Amphi Pierre Cuq\nCode: 061\nGroupes: VET3
+DTEND:20260326T112000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Ravinet Nadine
+DTSTART:20260326T103000Z
+SUMMARY:061 CM - Maladie des ruminants 1 - Dominantes patho disgestive des petits ruminants 3
+UID:fcb632a7-7382-4d03-a10c-fb0e04b5b665@fcb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: digestive 3\nType: Aguado Eric\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Chirurgie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260316T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260316T150000Z
+SUMMARY:Chirurgie Aguado Eric - digestive 3 - 4:00 PM - 4:50 PM
+UID:6d2921cb-49a7-4aa1-84aa-7039fd973f4d@6d29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: - Autres maladies réglementées des ruminants (charbon -botulisme)\nType: VET3\nIntervenant: e-learning\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: EL\nGroupes: 
+DTEND:20260330T160000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - e-learning
+DTSTART:20260330T150000Z
+SUMMARY:EL VET3 - - Autres maladies réglementées des ruminants (charbon -botulisme) - 5:00 PM - 6:00 PM
+UID:e871ab00-e381-44c5-a445-f179c1cd1656@e871.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: parasitaires en bâtiment 1\nType: Ravinet Nadine\nIntervenant: Amphi Pierre Cuq\nSalle: 061 Maladie des ruminants 1\nCode: Diarrhées\nGroupes: CM\n\n \n\nVET3
+DTEND:20260202T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi Pierre Cuq
+DTSTART:20260202T140000Z
+SUMMARY:Diarrhées Ravinet Nadine - parasitaires en bâtiment 1 - 3:00 PM - 3:50 PM
+UID:11830f8c-e407-4a7d-ac0f-c73ad4b6fa61@1183.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: TD\nIntervenant: Guillot Jacques\nSalle: 204 Espace modulaire 204\nCode: 069\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260402T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:204 Espace modulaire 204 - Guillot Jacques
+DTSTART:20260402T063000Z
+SUMMARY:069 TD - Médecine préventive des carnivores - TD1- Utilisation raisonnée des antiparasitaires
+UID:c3d08159-0267-4686-b92e-4584d2c6f3bc@c3d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: CM\nType: \nIntervenant: \nSalle: VET3\nCode: \nGroupes: 
+DTEND:20260306T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3
+DTSTART:20260306T100000Z
+SUMMARY:  - CM - créneaux pour CM
+UID:9426b659-b356-45f2-b167-af4c8d922dc0@9426.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: Pouliquen Hervé\nIntervenant: Moriceau Meg-Anne\nSalle: 220 TD - Porte n° 220\nCode: 066\nGroupes: TD\n\n \n\nVET3-classe 5 VET3-classe 6
+DTEND:20260410T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - Moriceau Meg-Anne
+DTSTART:20260410T083500Z
+SUMMARY:066 Pouliquen Hervé - Pharmacologie et toxicologie clinique - TD5 Révision sur la totalité des intoxications cliniques
+UID:4208230d-08a5-493f-b4c7-dcc4b913e5b9@4208.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: Examen session 1 - VET3\nIntervenant: Colle Marie-Anne\nSalle: Amphi Pierre Cuq\nCode: 067\nGroupes: VET3
+DTEND:20260527T080000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Colle Marie-Anne
+DTSTART:20260527T063000Z
+SUMMARY:067 Examen session 1 - VET3 - Anatomie pathologique cancérologie et pathologie générales - Session 1 UE 067
+UID:dc517cb9-9e91-4184-a8d2-8e71496b1daf@dc51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2- Form DS Suite RAGE - FA - BRUCELLOSE - TUBERCULOSE\nType: VET3\nIntervenant: e-learning\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: \nGroupes: 
+DTEND:20260319T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - e-learning
+DTSTART:20260319T130000Z
+SUMMARY: VET3 - 2- Form DS Suite RAGE - FA - BRUCELLOSE - TUBERCULOSE - 2:00 PM - 6:00 PM
+UID:8e22dba4-602b-4149-bcb5-234a26979e13@8e22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anglais comm scientifique\nType: TD\nIntervenant: Bridou Marc\nSalle: 700 INFO - Porte n° 700\nCode: 065\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260312T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:700 INFO - Porte n° 700 - Bridou Marc
+DTSTART:20260312T093500Z
+SUMMARY:065 TD - Anglais comm scientifique - TD2_MB préparation linguistique aux cas de parasitologie
+UID:ecfa3661-ba8b-488f-b383-6b25af221f5a@ecfa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anglais comm scientifique\nType: TD\nIntervenant: Nicholson Ian\nSalle: 703 TD - Porte n° 703\nCode: 065\nGroupes: VET3-classe 5
+DTEND:20260302T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:703 TD - Porte n° 703 - Nicholson Ian
+DTSTART:20260302T073000Z
+SUMMARY:065 TD - Anglais comm scientifique - IN_TD3
+UID:1c9390a3-f393-4521-81e7-0c981dd09fe9@1c93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: modules\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 068 Reproduction\nCode: 2\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nBriand-Amirat Lamia\n\n \n\nContrôle intermédiaire/partiel\n\n \n\nVET3
+DTEND:20260427T140000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - 220 TD - Porte n° 220
+DTSTART:20260427T120000Z
+SUMMARY:2 221 TD - Porte n° 221 - modules - 2:00 PM - 4:00 PM
+UID:35b691c4-d951-46ce-8628-24b4dfcb6e9e@35b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: physiologiques de la reproduction chez les CNV\nType: ROSSET Emilie\nIntervenant: Amphi Pierre Cuq\nSalle: 069 Médecine préventive des carnivores\nCode: Données\nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260506T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi Pierre Cuq
+DTSTART:20260506T140000Z
+SUMMARY:Données ROSSET Emilie - physiologiques de la reproduction chez les CNV - 4:00 PM - 4:50 PM
+UID:89655404-b8f8-4ce4-9320-95c367a153f2@8965.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Desfontis Jean-Claude\nSalle: 700 INFO - Porte n° 700\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260218T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:700 INFO - Porte n° 700 - Desfontis Jean-Claude
+DTSTART:20260218T073000Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - TD5 Modificateurs du système nerveux
+UID:2ae3c748-dc24-4f84-914d-82fcc1f1807f@2ae3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: de la chirurgie des viscères creux\nType: Aguado Eric\nIntervenant: Amphi G2N\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Principes\nGroupes: CM\n\n \n\nVET3
+DTEND:20260128T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi G2N
+DTSTART:20260128T130000Z
+SUMMARY:Principes Aguado Eric - de la chirurgie des viscères creux - 2:00 PM - 2:50 PM
+UID:79de0efd-9432-4486-aeaa-c01b3ba9607e@79de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2 Examen\nType: 222 TD - Porte n° 222\nIntervenant: 221 TD - Porte n° 221\nSalle: 220 TD - Porte n° 220\nCode: Session\nGroupes: 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704 Amphi G4 Amphi G5 Amphi Pierre Cuq \n\n \n\nRolland Karine\n\n \n\nExamen session 2\n\n \n\nVET2 VET3 VET4
+DTEND:20260625T150000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - 221 TD - Porte n° 221
+DTSTART:20260625T063000Z
+SUMMARY:Session 222 TD - Porte n° 222 - 2 Examen - 8:30 AM - 5:00 PM
+UID:e2a27965-fe1d-47ea-9b9e-0091f0c0371c@e2a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des pré-estomacs\nType: e-learning\nIntervenant: Relun Anne\nSalle: 061 Maladie des ruminants 1\nCode: Affections\nGroupes: apport supplémentaire sur poly + vidéo + quizz\naprès CM Pathologie des pré-estomacs\n\n \n\nVET3
+DTEND:20260216T180000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Relun Anne
+DTSTART:20260216T160000Z
+SUMMARY:Affections e-learning - des pré-estomacs - 5:00 PM - 7:00 PM
+UID:77abc6bb-0985-4e9d-b044-8eae9fb20620@77ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: ophalmologique   2 - CM sur l'oeil proprement dit\nType: Deschamps Jack-Yves\nIntervenant: Amphi Pierre Cuq\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Sémiologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260303T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - Amphi Pierre Cuq
+DTSTART:20260303T140000Z
+SUMMARY:Sémiologie Deschamps Jack-Yves - ophalmologique   2 - CM sur l'oeil proprement dit - 3:00 PM - 3:50 PM
+UID:e90a77dd-a22a-43f7-889d-cbf9eaf15013@e90a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: infectieuses des chiens 2\nType: Sénécat Odile\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Maladies\nGroupes: CM\n\n \n\nVET3
+DTEND:20260213T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260213T140000Z
+SUMMARY:Maladies Sénécat Odile - infectieuses des chiens 2 - 3:00 PM - 3:50 PM
+UID:7a61d3a8-c556-47f7-b60e-d86cb94695cc@7a61.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1 UE 68 - 4 modules\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 068 Reproduction\nCode: SESSION\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nBriand-Amirat Lamia\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260602T133000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - 220 TD - Porte n° 220
+DTSTART:20260602T113000Z
+SUMMARY:SESSION 221 TD - Porte n° 221 - 1 UE 68 - 4 modules - 1:30 PM - 3:30 PM
+UID:09ce04ac-8c91-480d-967c-9955826b486d@09ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: TD\nIntervenant: Ruvoen Nathalie\nSalle: 511 TD - Porte 511\nCode: 064\nGroupes: VET3-classe 5
+DTEND:20260202T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:511 TD - Porte 511 - Ruvoen Nathalie
+DTSTART:20260202T073000Z
+SUMMARY:064 TD - Réglementation sanitaire générale et maladies réglementées - RAGE
+UID:200decd9-2e50-4d85-acaa-67c6bc7d0738@200d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: TD\nIntervenant: Agoulon Albert\nSalle: 204 Espace modulaire 204\nCode: 061\nGroupes: VET3-classe 5
+DTEND:20260130T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:204 Espace modulaire 204 - Agoulon Albert
+DTSTART:20260130T073000Z
+SUMMARY:061 TD - Maladie des ruminants 1 - TD épidémiologie SGI et principes de prévention
+UID:8adbfb43-ec56-4e28-a3d2-927875e1a18e@8adb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: aux maladies héréditaires chez les carnivores\nType: Abitbol Marie\nIntervenant: Amphi Pierre Cuq\nSalle: 069 Médecine préventive des carnivores\nCode: Sensibilisation\nGroupes: CM\n\n \n\nVET3
+DTEND:20260513T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi Pierre Cuq
+DTSTART:20260513T130000Z
+SUMMARY:Sensibilisation Abitbol Marie - aux maladies héréditaires chez les carnivores - 3:00 PM - 3:50 PM
+UID:99e02476-d35e-42c3-9d35-4533c6b84d55@99e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anglais comm scientifique\nType: TD\nIntervenant: Nicholson Ian\nSalle: 703 TD - Porte n° 703\nCode: 065\nGroupes: VET3-classe 5
+DTEND:20260128T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:703 TD - Porte n° 703 - Nicholson Ian
+DTSTART:20260128T073000Z
+SUMMARY:065 TD - Anglais comm scientifique - IN_TD1
+UID:24fc38c7-c265-48b8-81d0-a66edb2e31b3@24fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: et soins bucco-dentaires (hygiène \; extractions)\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Chirurgie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260216T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260216T130000Z
+SUMMARY:Chirurgie Gauthier Olivier - et soins bucco-dentaires (hygiène \; extractions) - 2:00 PM - 2:50 PM
+UID:8aabb4e8-c781-47b7-8ad0-a1c7563ea6b3@8aab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: TD pathologie locomotrice (2h)\nType: e-learning\nIntervenant: Guatteo Raphaël\nSalle: 061 Maladie des ruminants 1\nCode: Préparation\nGroupes: après les 6 e-learning  de patho locomotrice mais avant le TD\n\n \n\nVET3
+DTEND:20260408T165500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Guatteo Raphaël
+DTSTART:20260408T150000Z
+SUMMARY:Préparation e-learning - TD pathologie locomotrice (2h) - 5:00 PM - 6:55 PM
+UID:86ac702e-efb0-4bce-bb8e-54b1dfb66cfd@86ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2/2\nType: Loisel Léa\nIntervenant: Amphi G2N\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: TUBERCULOSE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260211T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Amphi G2N
+DTSTART:20260211T140000Z
+SUMMARY:TUBERCULOSE Loisel Léa - 2/2 - 3:00 PM - 3:50 PM
+UID:003ad47f-ab06-40c1-8fd3-ffbc04183676@003a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 9\nType: Bencharif Djemil\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260428T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260428T120000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 9 - 2:00 PM - 2:50 PM
+UID:a8f9dc1f-70cb-4784-b32f-f554d67b331f@a8f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Sémiologie physiopathologie intégrée\nType: TD\nIntervenant: Hervé Julie\nSalle: 220 TD - Porte n° 220\nCode: 062\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260304T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - Hervé Julie
+DTSTART:20260304T073000Z
+SUMMARY:062 TD - Sémiologie physiopathologie intégrée - TD4 Physiopath URINAIRE
+UID:e5df5cec-c9b6-41b0-a624-39f9261f43ed@e5df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des premières voies digestives 1/2\nType: e-learning\nIntervenant: Assié Sébastien\nSalle: 061 Maladie des ruminants 1\nCode: Affections\nGroupes: VET3
+DTEND:20260127T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Assié Sébastien
+DTSTART:20260127T160000Z
+SUMMARY:Affections e-learning - des premières voies digestives 1/2 - 5:00 PM - 6:00 PM
+UID:fba042b5-5387-428a-a6fd-394fea1638f9@fba0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des pré-estomacs\nType: Relun Anne\nIntervenant: Amphi G2N\nSalle: 061 Maladie des ruminants 1\nCode: Pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260213T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi G2N
+DTSTART:20260213T150000Z
+SUMMARY:Pathologie Relun Anne - des pré-estomacs - 4:00 PM - 4:50 PM
+UID:603b739e-a493-4732-9a2d-606bbb8d924f@603b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 14\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260311T180000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260311T170000Z
+SUMMARY: VET3 - 14 - 6:00 PM - 7:00 PM
+UID:269ca0eb-98e3-4d61-a37e-a5daeadef0d2@269c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des premières voies digestives 2/2\nType: e-learning\nIntervenant: Assié Sébastien\nSalle: 061 Maladie des ruminants 1\nCode: Affections\nGroupes: VET3
+DTEND:20260202T173000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Assié Sébastien
+DTSTART:20260202T160000Z
+SUMMARY:Affections e-learning - des premières voies digestives 2/2 - 5:00 PM - 6:30 PM
+UID:8c11c580-dc38-40b0-a8e7-dd22fc9ebfb0@8c11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Nguyen Frédérique\nSalle: 220 TD - Porte n° 220\nCode: 067\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260316T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - Nguyen Frédérique
+DTSTART:20260316T093500Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD8 Inflam. congestives\, hémoragiques et exsudatives
+UID:d68cc123-6e3b-4cd3-b19b-bca530eb2af8@d68c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1 UE 68 -1-2 ou 3 modules\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 068 Reproduction\nCode: SESSION\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nBriand-Amirat Lamia\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260602T153500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - 220 TD - Porte n° 220
+DTSTART:20260602T133500Z
+SUMMARY:SESSION 221 TD - Porte n° 221 - 1 UE 68 -1-2 ou 3 modules - 3:35 PM - 5:35 PM
+UID:031b12ff-7dd7-404a-9cc6-481231907be8@031b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi Pierre Cuq\nCode: 069\nGroupes: VET3
+DTEND:20260326T091500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Debruille Agathe
+DTSTART:20260326T082500Z
+SUMMARY:069 CM - Médecine préventive des carnivores - Alimentation du chat (1)
+UID:7283db57-5155-45ed-9daf-59c231473d8a@7283.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des fonctions de reproduction\nType: Mallem Yassine\nIntervenant: Amphi G2N\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: Médicaments\nGroupes: CM\n\n \n\nVET3
+DTEND:20260126T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - Amphi G2N
+DTSTART:20260126T140000Z
+SUMMARY:Médicaments Mallem Yassine - des fonctions de reproduction - 3:00 PM - 3:50 PM
+UID:1448506c-0fa1-4cda-b970-d8fd9822fafd@1448.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Moriceau Meg-Anne\nSalle: 221 TD - Porte n° 221\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260318T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:221 TD - Porte n° 221 - Moriceau Meg-Anne
+DTSTART:20260318T093500Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - TD2 Diagnostic et traitement des intoxications animales par les engrais\, les gaz et les métaux
+UID:a8a71854-3917-4d48-be82-ccc7a52cc1e5@a8a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale femelle 6\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260410T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260410T120000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale femelle 6 - 2:00 PM - 2:50 PM
+UID:fac210f0-6a64-4717-a4a0-6b2e727d398f@fac2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Sémiologie physiopathologie intégrée\nType: CM\nIntervenant: Hernandez-Rodriguez Juan\nSalle: Amphi G2N\nCode: 062\nGroupes: VET3
+DTEND:20260127T102000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Hernandez-Rodriguez Juan
+DTSTART:20260127T093000Z
+SUMMARY:062 CM - Sémiologie physiopathologie intégrée - Sémiologie digestive 1
+UID:70a76bfc-8824-496e-8814-6cc336a71e16@70a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: TP copro 1/2\nType: e-learning\nIntervenant: Chauvin Alain\nSalle: 061 Maladie des ruminants 1\nCode: préparation\nGroupes: ppt des TP / TD des UE précédentes - avant TP Diagnostic coproscopique\n\n \n\nVET3
+DTEND:20260303T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Chauvin Alain
+DTSTART:20260303T160000Z
+SUMMARY:préparation e-learning - TP copro 1/2 - 5:00 PM - 6:00 PM
+UID:9be483a8-37e6-4271-a0cf-8bf7ea4c1179@9be4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 5-Intoxications par les toxines naturelles : plantes\, champignons\, mycotoxines et animaux venimeux\nType: Pouliquen Hervé\nIntervenant: Amphi Pierre Cuq\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: CM\n\n \n\nVET3
+DTEND:20260407T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - Amphi Pierre Cuq
+DTSTART:20260407T140000Z
+SUMMARY: Pouliquen Hervé - 5-Intoxications par les toxines naturelles : plantes\, champignons\, mycotoxines et animaux venimeux - 4:00 PM - 4:50 PM
+UID:49249085-9c2c-435f-8190-ede38aee2f79@4924.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: circulatoire I et II\, Matrice extracellulaire et cellule\nType: Evaluation formative\nIntervenant: Colle Marie-Anne\nSalle: 067 Anatomie pathologique cancérologie et pathologie générales\nCode: Pathologie\nGroupes: EVALUATION FORMATIVE\n\n \n\nVET3
+DTEND:20260203T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:067 Anatomie pathologique cancérologie et pathologie générales - Colle Marie-Anne
+DTSTART:20260203T160000Z
+SUMMARY:Pathologie Evaluation formative - circulatoire I et II\, Matrice extracellulaire et cellule - 5:00 PM - 6:00 PM
+UID:2625811f-0bed-4911-924f-6dda23c5ee86@2625.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: OU stage\nType: \nIntervenant: \nSalle: VET3\nCode: Congés\nGroupes: 
+DTEND:20260420T190000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET3
+DTSTART:20260420T050000Z
+SUMMARY:Congés  - OU stage - 7:00 AM - 9:00 PM
+UID:e27bd585-31e1-4c0b-8df9-98db26880726@e27b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Puces\nType: Guillot Jacques\nIntervenant: Amphi G2N\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: \nGroupes: CM\n\n \n\nVET3
+DTEND:20260318T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi G2N
+DTSTART:20260318T130000Z
+SUMMARY: Guillot Jacques - Puces - 2:00 PM - 2:50 PM
+UID:9a4352fd-0ee6-4c6f-9bef-afd4a9a0c048@9a43.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: 222 TD - Porte n° 222\nIntervenant: 221 TD - Porte n° 221\nSalle: 220 TD - Porte n° 220\nCode: 069\nGroupes: 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nRuvoen Nathalie\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260526T090500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - 221 TD - Porte n° 221
+DTSTART:20260526T073500Z
+SUMMARY:069 222 TD - Porte n° 222 - Médecine préventive des carnivores - UE 069- 2ème 1/2 promo  (liste à venir sur connect)
+UID:5f85463f-be64-41d8-b6c5-ccc5f2dabb81@5f85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: génitale mâle/ biotechnologies 5\nType: Bruyas Jean-François\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: pathologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260128T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260128T150000Z
+SUMMARY:pathologie Bruyas Jean-François - génitale mâle/ biotechnologies 5 - 4:00 PM - 4:50 PM
+UID:549ff3f3-9d8f-4848-9c8f-7d2f80360283@549f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Auto-apprentissage réglementation sanitaire générale\, tests et activités H5P\nType: \nIntervenant: VET3\nSalle: e-learning\nCode: \nGroupes: 
+DTEND:20260204T180000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:e-learning - VET3
+DTSTART:20260204T160000Z
+SUMMARY:  - Auto-apprentissage réglementation sanitaire générale\, tests et activités H5P - 5:00 PM - 7:00 PM
+UID:0250b02b-370c-496f-b728-eea5a1512178@0250.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1/2 promo\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: intermédiaire\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nDesfontis Jean-Claude\n\n \n\nContrôle intermédiaire/partiel\n\n \n\nVET3
+DTEND:20260319T083000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - 220 TD - Porte n° 220
+DTSTART:20260319T073000Z
+SUMMARY:intermédiaire 221 TD - Porte n° 221 - 1/2 promo - 8:30 AM - 9:30 AM
+UID:86574214-25b9-425c-911e-47dbdc01304f@8657.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: TD\nIntervenant: Relun Anne\nSalle: 204 Espace modulaire 204\nCode: 061\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260429T103000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:204 Espace modulaire 204 - Relun Anne
+DTSTART:20260429T083500Z
+SUMMARY:061 TD - Maladie des ruminants 1 - Pathologie Locomotrice
+UID:7a32622c-75bb-46c8-89b7-78b2a112a3b8@7a32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des Animaux de compagnie\nType: VET3\nIntervenant: e-learning\nSalle: 069 Médecine préventive des carnivores\nCode: Identification\nGroupes: 
+DTEND:20260126T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - e-learning
+DTSTART:20260126T160000Z
+SUMMARY:Identification VET3 - des Animaux de compagnie - 5:00 PM - 6:00 PM
+UID:8c6cafd0-ace0-4b41-8a35-975d70a347f1@8c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: ophalmologique   1 - CM sur les annexes de l'oeil\nType: Deschamps Jack-Yves\nIntervenant: Amphi Pierre Cuq\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Sémiologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260303T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - Amphi Pierre Cuq
+DTSTART:20260303T130000Z
+SUMMARY:Sémiologie Deschamps Jack-Yves - ophalmologique   1 - CM sur les annexes de l'oeil - 2:00 PM - 2:50 PM
+UID:231dd0b2-0622-4573-a2a9-46292522577c@231d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: du pavillon auriculaire et du conduit auditif externe\nType: Maitre Pierre\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Chirurgie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260429T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260429T120000Z
+SUMMARY:Chirurgie Maitre Pierre - du pavillon auriculaire et du conduit auditif externe - 2:00 PM - 2:50 PM
+UID:bc1f3e2e-c8dc-4f4d-acde-8801418e9035@bc1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 2 Examen\nType: 222 TD - Porte n° 222\nIntervenant: 221 TD - Porte n° 221\nSalle: 220 TD - Porte n° 220\nCode: Session\nGroupes: 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704 Amphi G4 Amphi G5 Amphi Pierre Cuq \n\n \n\nRolland Karine\n\n \n\nExamen session 2\n\n \n\nVET2 VET3 VET4
+DTEND:20260623T145200Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - 221 TD - Porte n° 221
+DTSTART:20260623T062500Z
+SUMMARY:Session 222 TD - Porte n° 222 - 2 Examen - 8:25 AM - 4:52 PM
+UID:12c29464-60d4-4f48-b280-247e63791577@12c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1-Occlusions intestinales\nType: e-learning\nIntervenant: Assié Sébastien\nSalle: 061 Maladie des ruminants 1\nCode: \nGroupes: apport supplémentaire sur poly + vidéo - après CM Pathologie intestinales : occlusions  et avant TD CAT face à un trouble digestif individuel\n\n \n\nVET3
+DTEND:20260311T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Assié Sébastien
+DTSTART:20260311T150000Z
+SUMMARY: e-learning - 1-Occlusions intestinales - 4:00 PM - 4:50 PM
+UID:a1e2a7d2-5878-4a06-82d4-1b685fa631bd@a1e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 12\nType: Briand-Amirat Lamia\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260331T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260331T120000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 12 - 2:00 PM - 2:50 PM
+UID:4cdf7970-9b2b-4af8-8605-849642682d13@4cdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: - Intoxications animales par les médicaments\, les pesticides destructeurs de nuisibles et les herbicides\nType: Moriceau Meg-Anne\nIntervenant: Amphi G2N\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: 2\nGroupes: CM\n\n \n\nVET3
+DTEND:20260309T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - Amphi G2N
+DTSTART:20260309T140000Z
+SUMMARY:2 Moriceau Meg-Anne - - Intoxications animales par les médicaments\, les pesticides destructeurs de nuisibles et les herbicides - 3:00 PM - 3:50 PM
+UID:e7352504-4111-457b-99f2-bd1e66102790@e735.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: CM\nIntervenant: Gilbert Caroline\nSalle: Amphi Pierre Cuq\nCode: 069\nGroupes: VET3
+DTEND:20260311T092000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Gilbert Caroline
+DTSTART:20260311T083000Z
+SUMMARY:069 CM - Médecine préventive des carnivores - Prevention des troubles du comportement du chat
+UID:eb8db54e-afc5-4255-8204-9ee0b3764295@eb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: de l'ombilic\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Chirurgie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260428T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260428T130000Z
+SUMMARY:Chirurgie Gauthier Olivier - de l'ombilic - 3:00 PM - 3:50 PM
+UID:f786cb5c-eea0-4de6-9d07-e73d23d257e4@f786.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 6\nType: Briand-Amirat Lamia\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260306T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260306T130000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 6 - 2:00 PM - 2:50 PM
+UID:a26830d4-1eaf-401e-aabf-4b551f76665e@a268.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: du sang\nType: Evénement Thématique\nIntervenant: Grand Hall d Accueil Administration C\nSalle: Amphi Pierre Cuq\nCode: don\nGroupes: CONFIRME PAR FLORINE LE 26/09\n\n \n\nVET2 VET3 VET4
+DTEND:20260318T175500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Grand Hall d Accueil Administration C
+DTSTART:20260318T070000Z
+SUMMARY:don Evénement Thématique - du sang - 8:00 AM - 6:55 PM
+UID:f96d3203-8027-4445-86ed-6be35c6c8e07@f96d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: hépathique et urinaire\nType: e-learning\nIntervenant: Relun Anne\nSalle: 061 Maladie des ruminants 1\nCode: Pathologie\nGroupes: apport supplémentaire sur poly + quizz\naprès CM Pathologie hépathique et urinaire\n\n \n\nVET3
+DTEND:20260209T180000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Relun Anne
+DTSTART:20260209T160000Z
+SUMMARY:Pathologie e-learning - hépathique et urinaire - 5:00 PM - 7:00 PM
+UID:3923cc99-48af-443c-983e-722d6f581e91@3923.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: TD\nIntervenant: Loisel Léa\nSalle: 221 TD - Porte n° 221\nCode: 069\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260209T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:221 TD - Porte n° 221 - Loisel Léa
+DTSTART:20260209T073000Z
+SUMMARY:069 TD - Médecine préventive des carnivores - Voyages des carnivores
+UID:d43307df-4d37-4171-bb2f-0de058beead0@d433.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: TP\nIntervenant: Guillot Jacques\nSalle: 402 TP - Porte n° 402\nCode: 063\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260408T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:402 TP - Porte n° 402 - Guillot Jacques
+DTSTART:20260408T063000Z
+SUMMARY:063 TP - Dermatologie et mycologie clinique toutes espèces - TP1 : Diagnose des principaux acariens d'intérêt vétérinaire (1/2)
+UID:aaa64422-dcc1-443c-a349-7c9f013b3393@aaa6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 10\nType: Bencharif Djemil\nIntervenant: Amphi G2N\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260504T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi G2N
+DTSTART:20260504T140000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 10 - 4:00 PM - 4:50 PM
+UID:99ae8cd9-4649-4471-85b1-13e4e346fbb7@99ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: infectieuses des chats (1)\nType: Drut Amandine\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Maladies\nGroupes: CM\n\n \n\nVET3
+DTEND:20260130T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260130T130000Z
+SUMMARY:Maladies Drut Amandine - infectieuses des chats (1) - 2:00 PM - 2:50 PM
+UID:a11d7425-819d-4b86-91ad-9262a769ecf6@a11d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Cycles/Diagnostic de gestation 6\nType: Bencharif Djemil\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: \nGroupes: CM Zoom\n\n \n\nVET3
+DTEND:20260316T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260316T130000Z
+SUMMARY: Bencharif Djemil - Cycles/Diagnostic de gestation 6 - 2:00 PM - 2:50 PM
+UID:b2b3da37-0dda-4041-82f9-cce6e999950e@b2b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: - Conduite générale à tenir devant une suspicion d'intoxication animale\nType: Pouliquen Hervé\nIntervenant: Amphi Pierre Cuq\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: 1\nGroupes: CM\n\n \n\nVET3
+DTEND:20260220T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - Amphi Pierre Cuq
+DTSTART:20260220T130000Z
+SUMMARY:1 Pouliquen Hervé - - Conduite générale à tenir devant une suspicion d'intoxication animale - 2:00 PM - 2:50 PM
+UID:92b3929d-0b3d-423d-8340-38c29799905f@92b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: nerveuse 1\nType: Guatteo Raphaël\nIntervenant: Amphi Pierre Cuq\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Sémiologie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260327T082000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - Amphi Pierre Cuq
+DTSTART:20260327T073000Z
+SUMMARY:Sémiologie Guatteo Raphaël - nerveuse 1 - 8:30 AM - 9:20 AM
+UID:431b86ad-4ec3-4cf5-8fb0-e727550857d3@431b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Fièvre\nType: Maisonnasse Pauline\nIntervenant: Amphi G2N\nSalle: 067 Anatomie pathologique cancérologie et pathologie générales\nCode: La\nGroupes: CM\n\n \n\nVET3
+DTEND:20260324T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:067 Anatomie pathologique cancérologie et pathologie générales - Amphi G2N
+DTSTART:20260324T130000Z
+SUMMARY:La Maisonnasse Pauline - Fièvre - 2:00 PM - 2:50 PM
+UID:0608382e-f699-4a88-82b7-892cd411b7dd@0608.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Anatomie pathologique cancérologie et pathologie générales\nType: TD\nIntervenant: Colle Marie-Anne\nSalle: Amphi G2N\nCode: 067\nGroupes: VET3-classe 1 VET3-classe 2 VET3-classe 3 VET3-classe 4 VET3-classe 5
+DTEND:20260303T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi G2N - Colle Marie-Anne
+DTSTART:20260303T093500Z
+SUMMARY:067 TD - Anatomie pathologique cancérologie et pathologie générales - TD5 Cancérologie 1
+UID:ce17a583-0f86-4b4d-a2c4-9f29c9dae41d@ce17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: acariens\nType: Guillot Jacques\nIntervenant: Amphi G2N\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: Autres\nGroupes: CM\n\n \n\nVET3
+DTEND:20260408T125000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - Amphi G2N
+DTSTART:20260408T120000Z
+SUMMARY:Autres Guillot Jacques - acariens - 2:00 PM - 2:50 PM
+UID:aff32b1b-9f2e-4e09-832b-5cb0288c85d7@aff3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des fonctions du système nerveux\nType: Desfontis Jean-Claude\nIntervenant: Amphi G2N\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: Médicaments\nGroupes: CM\n\n \n\nVET3
+DTEND:20260127T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - Amphi G2N
+DTSTART:20260127T130000Z
+SUMMARY:Médicaments Desfontis Jean-Claude - des fonctions du système nerveux - 2:00 PM - 2:50 PM
+UID:eda8c4f1-511a-4a67-8018-a5bb933b5d23@eda8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: - Autres maladies régl. des ruminants (lecture poly)\nType: VET3\nIntervenant: e-learning\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: EL\nGroupes: 
+DTEND:20260506T160000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - e-learning
+DTSTART:20260506T150000Z
+SUMMARY:EL VET3 - - Autres maladies régl. des ruminants (lecture poly) - 5:00 PM - 6:00 PM
+UID:141324a6-bded-49a7-b0c7-edd54478bb34@1413.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 6\nType: VET3\nIntervenant: e-learning\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: \nGroupes: 
+DTEND:20260210T165000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - e-learning
+DTSTART:20260210T160000Z
+SUMMARY: VET3 - 6 - 5:00 PM - 5:50 PM
+UID:58688b19-439e-4cd1-9058-a6b7da3eb4d7@5868.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 5- Pathologie locomotrice\nType: e-learning\nIntervenant: Guatteo Raphaël\nSalle: 061 Maladie des ruminants 1\nCode: \nGroupes: apport supplémentaire sur poly + vidéo + quizz - après le le CM Pathologie locomotrice  mais avant le TD Pathologie locomotrice\n\n \n\nVET3
+DTEND:20260327T165500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Guatteo Raphaël
+DTSTART:20260327T160500Z
+SUMMARY: e-learning - 5- Pathologie locomotrice - 5:05 PM - 5:55 PM
+UID:4cab2591-2742-47a5-ace5-7525c0fcdd3e@4cab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des parasitoses externes des carnivores\nType: Guillot Jacques\nIntervenant: Amphi G2N\nSalle: 069 Médecine préventive des carnivores\nCode: Prévention\nGroupes: CM\n\n \n\nVET3
+DTEND:20260323T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:069 Médecine préventive des carnivores - Amphi G2N
+DTSTART:20260323T140000Z
+SUMMARY:Prévention Guillot Jacques - des parasitoses externes des carnivores - 3:00 PM - 3:50 PM
+UID:cc044339-f57a-41da-8000-72269111aa8d@cc04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1- 2eme demie promo  (liste à venir sur connect)\nType: 221 TD - Porte n° 221\nIntervenant: 220 TD - Porte n° 220\nSalle: 063 Dermatologie et mycologie clinique toutes espèces\nCode: Session\nGroupes: 222 TD - Porte n° 222 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nBruet vincent Guillot Jacques\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260529T070000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:063 Dermatologie et mycologie clinique toutes espèces - 220 TD - Porte n° 220
+DTSTART:20260529T060000Z
+SUMMARY:Session 221 TD - Porte n° 221 - 1- 2eme demie promo  (liste à venir sur connect) - 8:00 AM - 9:00 AM
+UID:989e3abb-7460-4397-a458-a03b1c6a8db1@989e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: digestive 2\nType: Aguado Eric\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Chirurgie\nGroupes: CM\n\n \n\nVET3
+DTEND:20260316T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260316T140000Z
+SUMMARY:Chirurgie Aguado Eric - digestive 2 - 3:00 PM - 3:50 PM
+UID:f0ceb010-0f46-4adf-9a84-a7c610f960d4@f0ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Godfrain\nType: Evénement Thématique\nIntervenant: Grand Hall d Accueil Administration C\nSalle: Amphi Pierre Cuq\nCode: Amphi\nGroupes: VET2 VET3 VET4
+DTEND:20260409T160000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Grand Hall d Accueil Administration C
+DTSTART:20260409T090000Z
+SUMMARY:Amphi Evénement Thématique - Godfrain - Forum HORIZON
+UID:49bf35d3-2b41-4c68-bffa-0b8203592333@49bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: parasitaires en bâtiment 2\nType: Ravinet Nadine\nIntervenant: Amphi Pierre Cuq\nSalle: 061 Maladie des ruminants 1\nCode: Diarrhées\nGroupes: CM\n\n \n\nVET3
+DTEND:20260203T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Amphi Pierre Cuq
+DTSTART:20260203T150000Z
+SUMMARY:Diarrhées Ravinet Nadine - parasitaires en bâtiment 2 - 4:00 PM - 4:50 PM
+UID:a0020190-084a-4439-bf95-6d3c6bbbfeeb@a002.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 1- Diagnostic individuel et de troupeau des maladies parasitaires\nType: e-learning\nIntervenant: Ravinet Nadine\nSalle: 061 Maladie des ruminants 1\nCode: \nGroupes: H5P - avant TD CAT bovin face à troubles digestifs collectif 2\n\n \n\nVET3
+DTEND:20260428T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Ravinet Nadine
+DTSTART:20260428T150000Z
+SUMMARY: e-learning - 1- Diagnostic individuel et de troupeau des maladies parasitaires - 5:00 PM - 5:50 PM
+UID:86963b2e-11fe-4a15-9316-b00d1bf55196@8696.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Réglementation sanitaire générale et maladies réglementées\nType: VET3\nIntervenant: e-learning\nSalle: Ruvoen Nathalie\nCode: 064\nGroupes: 
+DTEND:20260212T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Ruvoen Nathalie - e-learning
+DTSTART:20260212T103000Z
+SUMMARY:064 VET3 - Réglementation sanitaire générale et maladies réglementées - Form DS RAGE
+UID:c7c20be6-6b1e-4a62-b4ed-457b304dc239@c7c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: d'ovariectomies 1/2\nType: Gauthier Olivier\nIntervenant: Amphi G2N\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Techniques\nGroupes: CM\n\n \n\nVET3
+DTEND:20260209T145000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi G2N
+DTSTART:20260209T140000Z
+SUMMARY:Techniques Gauthier Olivier - d'ovariectomies 1/2 - 3:00 PM - 3:50 PM
+UID:5df24aab-5a71-4ed1-958d-a49e50c58bc4@5df2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: 054 - écrit 1h30\nType: Guintard Claude\nIntervenant: 220 TD - Porte n° 220\nSalle: 054 Anatomie régionale\nCode: UE\nGroupes: Examen session 2\n\n \n\nVET3
+DTEND:20260622T133000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:054 Anatomie régionale - 220 TD - Porte n° 220
+DTSTART:20260622T120000Z
+SUMMARY:UE Guintard Claude - 054 - écrit 1h30 - 2:00 PM - 3:30 PM
+UID:34b197fe-2ffd-4b5e-979e-6aab84f6137a@34b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: de fonctionnement et applications de l'electrochirurgie\nType: Gauthier Olivier\nIntervenant: Amphi Pierre Cuq\nSalle: 0610 Techniques chirurgicales toutes espèces\nCode: Principes\nGroupes: CM\n\n \n\nVET3
+DTEND:20260506T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:0610 Techniques chirurgicales toutes espèces - Amphi Pierre Cuq
+DTSTART:20260506T130000Z
+SUMMARY:Principes Gauthier Olivier - de fonctionnement et applications de l'electrochirurgie - 3:00 PM - 3:50 PM
+UID:67f02bcc-cb25-420c-a8b8-020c6ddd7110@67f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Sémiologie physiopathologie intégrée\nType: TD\nIntervenant: Sénécat Odile\nSalle: 205 Espace modulaire 205\nCode: 062\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260202T113000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:205 Espace modulaire 205 - Sénécat Odile
+DTSTART:20260202T093500Z
+SUMMARY:062 TD - Sémiologie physiopathologie intégrée - TD2 Physiopath Cardiovasc
+UID:06878a94-ba47-4b50-ba88-bb665cdd513a@0687.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Médecine préventive des carnivores\nType: TD\nIntervenant: Ruvoen Nathalie\nSalle: 222 TD - Porte n° 222\nCode: 069\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260305T092500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:222 TD - Porte n° 222 - Ruvoen Nathalie
+DTSTART:20260305T073000Z
+SUMMARY:069 TD - Médecine préventive des carnivores - Raisonnement d'un programme de vaccination
+UID:7234c7e8-c593-4605-8ca7-4d3b1fd36550@7234.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Reproduction\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi Pierre Cuq\nCode: 068\nGroupes: VET3
+DTEND:20260327T112000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:Amphi Pierre Cuq - Bencharif Djemil
+DTSTART:20260327T103000Z
+SUMMARY:068 CM Zoom - Reproduction - Cycles/Diagnostic de gestation 8
+UID:fbf3845b-889b-4654-9747-1db2b321da62@fbf3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Pharmacologie et toxicologie clinique\nType: TD\nIntervenant: Moriceau Meg-Anne\nSalle: 220 TD - Porte n° 220\nCode: 066\nGroupes: VET3-classe 5 VET3-classe 6
+DTEND:20260407T082500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - Moriceau Meg-Anne
+DTSTART:20260407T063000Z
+SUMMARY:066 TD - Pharmacologie et toxicologie clinique - Toxicologie environnementale TD2
+UID:26adc84c-739a-4aa1-b133-2b604f92cdd8@26ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: - Maladies à érradiquation facultative LEB\, BVD\, IBR...\nType: e-learning\nIntervenant: Ruvoen Nathalie\nSalle: 064 Réglementation sanitaire générale et maladies réglementées\nCode: EL\nGroupes: VET3
+DTEND:20260410T160000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:064 Réglementation sanitaire générale et maladies réglementées - Ruvoen Nathalie
+DTSTART:20260410T150000Z
+SUMMARY:EL e-learning - - Maladies à érradiquation facultative LEB\, BVD\, IBR... - 5:00 PM - 6:00 PM
+UID:d0551b90-c9b7-4733-b4bb-e0e11fd739b2@d055.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: digestive des petits ruminants (quizz)\nType: e-learning\nIntervenant: Ravinet Nadine\nSalle: 061 Maladie des ruminants 1\nCode: patho\nGroupes: VET3
+DTEND:20260505T153000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:061 Maladie des ruminants 1 - Ravinet Nadine
+DTSTART:20260505T150000Z
+SUMMARY:patho e-learning - digestive des petits ruminants (quizz) - 5:00 PM - 5:30 PM
+UID:2bac0ab0-b5e7-49ca-9996-b6812ebccd4e@2bac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: des  fonctions digestive et respiratoire\nType: Mallem Yassine\nIntervenant: Amphi G2N\nSalle: 066 Pharmacologie et toxicologie clinique\nCode: Médicaments\nGroupes: CM\n\n \n\nVET3
+DTEND:20260126T135000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:066 Pharmacologie et toxicologie clinique - Amphi G2N
+DTSTART:20260126T130000Z
+SUMMARY:Médicaments Mallem Yassine - des  fonctions digestive et respiratoire - 2:00 PM - 2:50 PM
+UID:a0a080fc-443c-4573-b620-67fc64a232a8@a0a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: ophalmologique 2 - Foire Aux Questions 2\nType: e-learning\nIntervenant: Deschamps Jack-Yves\nSalle: 062 Sémiologie physiopathologie intégrée\nCode: Sémiologie\nGroupes: VET3
+DTEND:20260323T170000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:062 Sémiologie physiopathologie intégrée - Deschamps Jack-Yves
+DTSTART:20260323T160000Z
+SUMMARY:Sémiologie e-learning - ophalmologique 2 - Foire Aux Questions 2 - 5:00 PM - 6:00 PM
+UID:45221329-29f3-49f6-a97f-5f421f5e164a@4522.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: Dermatologie et mycologie clinique toutes espèces\nType: 222 TD - Porte n° 222\nIntervenant: 221 TD - Porte n° 221\nSalle: 220 TD - Porte n° 220\nCode: 063\nGroupes: 700 INFO - Porte n° 700 702 INFO - Porte n° 702 704 INFO - Porte n° 704\n\n \n\nBruet vincent Guillot Jacques\n\n \n\nExamen session 1 - VET3\n\n \n\nVET3
+DTEND:20260529T080500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:220 TD - Porte n° 220 - 221 TD - Porte n° 221
+DTSTART:20260529T070500Z
+SUMMARY:063 222 TD - Porte n° 222 - Dermatologie et mycologie clinique toutes espèces - Session 1- 1ère demie promo  (liste à venir sur connect)
+UID:ed4acf72-a232-40de-974e-d7a53874d927@ed4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: OU stage\nType: VET4\nIntervenant: VET3\nSalle: VET2\nCode: Congés\nGroupes: 
+DTEND:20260413T195500Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:VET2 - VET3
+DTSTART:20260413T050000Z
+SUMMARY:Congés VET4 - OU stage - 7:00 AM - 9:55 PM
+UID:66d3d1dc-4f6f-415e-9277-f50e97c86af3@66d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T221711Z
+DESCRIPTION:Matière: MAMMAIRE 3\nType: Briand-Amirat Lamia\nIntervenant: Amphi Pierre Cuq\nSalle: 068 Reproduction\nCode: PATHOLOGIE\nGroupes: CM\n\n \n\nVET3
+DTEND:20260202T155000Z
+LAST-MODIFIED:20260203T221711Z
+LOCATION:068 Reproduction - Amphi Pierre Cuq
+DTSTART:20260202T150000Z
+SUMMARY:PATHOLOGIE Briand-Amirat Lamia - MAMMAIRE 3 - 4:00 PM - 4:50 PM
+UID:583bb61c-b4a5-479a-b47b-25776a551026@583b.org
+END:VEVENT
+METHOD:PUBLISH
+END:VCALENDAR
