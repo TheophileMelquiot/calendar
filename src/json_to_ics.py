@@ -76,19 +76,31 @@ for item in data:
         continue
 
     # Conversion date + heure
+    # Conversion date + heure
     try:
-        # On définit le fuseau horaire de Paris
         paris_tz = ZoneInfo("Europe/Paris")
         
-        # On crée la date de début et on lui "colle" l'étiquette Paris
-        dt_start = datetime.strptime(f"{date_str} {start_str}", "%Y-%m-%d %H:%M")
+        # Nettoyage de la chaîne de caractères (enlever les espaces superflus)
+        full_start = f"{date_str} {start_str.strip()}"
+        full_end = f"{date_str} {end_str.strip()}" if end_str else None
+
+        # Tentative de parsing : on essaie d'abord le format AM/PM, sinon le format 24h
+        def parse_date(date_string):
+            formats = ["%Y-%m-%d %I:%M %p", "%Y-%m-%d %H:%M"]
+            for fmt in formats:
+                try:
+                    return datetime.strptime(date_string, fmt)
+                except ValueError:
+                    continue
+            raise ValueError(f"Format d'heure inconnu : {date_string}")
+
+        dt_start = parse_date(full_start)
         e.begin = dt_start.replace(tzinfo=paris_tz)
         
-        if end_str:
-            dt_end = datetime.strptime(f"{date_str} {end_str}", "%Y-%m-%d %H:%M")
+        if full_end:
+            dt_end = parse_date(full_end)
             e.end = dt_end.replace(tzinfo=paris_tz)
         else:
-            # Sécurité (1h par défaut)
             e.end = e.begin + timedelta(minutes=60)
             
     except ValueError as err:
