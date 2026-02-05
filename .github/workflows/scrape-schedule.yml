@@ -57,30 +57,40 @@ jobs:
         timeout-minutes: 60
       
       # 7. Convertir HTML → JSON
-      - name: 🔄 Convert HTML to JSON
+      - name: 📄 Convert HTML to JSON
         run: python src/finaljson.py
       
       # 8. Convertir JSON → ICS
       - name: 📅 Generate ICS file
         run: python src/json_to_ics.py
         
-            # 8.5 Rassembler les fichiers HTML & JSON générés
+      # 8.5 Rassembler les fichiers HTML & JSON générés
       - name: 📂 Collect HTML & JSON outputs
         run: |
           mkdir -p debug_outputs
-          mv *.html debug_outputs/ 2>/dev/null || true
-          mv *.json debug_outputs/ 2>/dev/null || true
-
-
-
+          # Copier les archives HTML (générées par le scraper)
+          if [ -d "archives_html" ]; then
+            cp -r archives_html debug_outputs/
+          fi
+          # Copier le JSON généré
+          if [ -f "emploi_du_temps_complet.json" ]; then
+            cp emploi_du_temps_complet.json debug_outputs/
+          fi
 
       # 9. Obtenir la date pour le nom du fichier
       - name: 📆 Get current date
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
+      # 10. Upload les fichiers de debug (HTML + JSON) comme artifact
+      - name: 🗂️ Upload debug files (HTML + JSON)
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-files-${{ steps.date.outputs.date }}
+          path: debug_outputs/
+          retention-days: 90
       
-      # 10. Upload le fichier .ics comme artifact
+      # 11. Upload le fichier .ics comme artifact
       - name: 📤 Upload ICS file
         uses: actions/upload-artifact@v4
         with:
@@ -88,7 +98,7 @@ jobs:
           path: emploi_du_temps_complet_v2.ics
           retention-days: 180
       
-      # 11. Créer une release GitHub avec le fichier .ics
+      # 12. Créer une release GitHub avec le fichier .ics
       - name: 🚀 Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
@@ -104,6 +114,9 @@ jobs:
             1. Téléchargez le fichier .ics ci-dessous
             2. Ouvrez-le avec l'app Calendrier
             3. Importez dans votre calendrier préféré
+            
+            ### 🐛 Fichiers de debug
+            Les fichiers HTML et JSON intermédiaires sont disponibles dans les artifacts de ce workflow pour analyse en cas d'erreur.
           files: emploi_du_temps_complet_v2.ics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
