@@ -26,6 +26,32 @@ except AttributeError:
 
 now = datetime.now()
 
+def parse_time(time_str):
+    """
+    Parse une heure qui peut être au format 12h (AM/PM) ou 24h
+    Retourne un objet time ou None si invalide
+    """
+    if not time_str:
+        return None
+    
+    time_str = time_str.strip()
+    
+    # Format 24h (HH:MM)
+    if ':' in time_str and not ('AM' in time_str.upper() or 'PM' in time_str.upper()):
+        try:
+            return datetime.strptime(time_str, "%H:%M").time()
+        except ValueError:
+            pass
+    
+    # Format 12h avec AM/PM
+    for fmt in ["%I:%M %p", "%I:%M%p"]:
+        try:
+            return datetime.strptime(time_str, fmt).time()
+        except ValueError:
+            continue
+    
+    return None
+
 for item in data:
     e = Event()
     
@@ -76,35 +102,41 @@ for item in data:
         continue
 
     # Conversion date + heure
-    # Conversion date + heure
     try:
         paris_tz = ZoneInfo("Europe/Paris")
         
-        # Nettoyage de la chaîne de caractères (enlever les espaces superflus)
-        full_start = f"{date_str} {start_str.strip()}"
-        full_end = f"{date_str} {end_str.strip()}" if end_str else None
-
-        # Tentative de parsing : on essaie d'abord le format AM/PM, sinon le format 24h
-        def parse_date(date_string):
-            formats = ["%Y-%m-%d %I:%M %p", "%Y-%m-%d %H:%M"]
-            for fmt in formats:
-                try:
-                    return datetime.strptime(date_string, fmt)
-                except ValueError:
-                    continue
-            raise ValueError(f"Format d'heure inconnu : {date_string}")
-
-        dt_start = parse_date(full_start)
+        # Parser la date (format YYYY-MM-DD)
+        try:
+            date_obj = datetime.strptime(date_str, "%Y-%m-%d").date()
+        except ValueError as err:
+            print(f"Erreur de format de date pour '{date_str}': {err}")
+            continue
+        
+        # Parser l'heure de début
+        start_time = parse_time(start_str)
+        if not start_time:
+            print(f"Erreur: impossible de parser l'heure de début '{start_str}' pour l'événement '{e.name}'")
+            continue
+        
+        # Créer le datetime de début
+        dt_start = datetime.combine(date_obj, start_time)
         e.begin = dt_start.replace(tzinfo=paris_tz)
         
-        if full_end:
-            dt_end = parse_date(full_end)
-            e.end = dt_end.replace(tzinfo=paris_tz)
+        # Parser l'heure de fin
+        if end_str:
+            end_time = parse_time(end_str)
+            if end_time:
+                dt_end = datetime.combine(date_obj, end_time)
+                e.end = dt_end.replace(tzinfo=paris_tz)
+            else:
+                # Si le parsing échoue, utiliser 1h par défaut
+                e.end = e.begin + timedelta(hours=1)
         else:
-            e.end = e.begin + timedelta(minutes=60)
+            # Pas d'heure de fin fournie, utiliser 1h par défaut
+            e.end = e.begin + timedelta(hours=1)
             
-    except ValueError as err:
-        print(f"Erreur de date pour l'événement '{e.name}': {err}")
+    except Exception as err:
+        print(f"Erreur de traitement pour l'événement '{e.name}': {err}")
         continue
 
     # Metadata
