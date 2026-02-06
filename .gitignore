@@ -9,7 +9,7 @@ emploi_du_temps_complet.json
 emploi_du_temps_complet_v2.ics
 
 # Mais garder le dossier archives_html vide
-!archives_html/.gitkeep
+#!archives_html/.gitkeep
 
 # Environnements virtuels
 venv/
