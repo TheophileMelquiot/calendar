@@ -45,12 +45,10 @@ jobs:
             "password": "${{ secrets.CELCAT_PASSWORD }}"
           }' > reponse.json
 
-      # 6. SCRAPING LÉGER (2 Semaines)
-      # ⚠️ IMPORTANT : Tu dois avoir un script (ou un argument) qui ne scrape que 2 semaines.
-      # Si ton scraper_complet.py supporte des args, utilise-les. Sinon, crée un scraper_light.py
-      - name: 🕷️ Run Light Scraper (Current + Next Week)
-        run: python src/scraper_light.py
-        timeout-minutes: 15
+      # 6. Exécuter le scraper
+      - name: 🕷️ Run scraper (26 weeks)
+        run: python src/scraper_complet.py
+        timeout-minutes: 60
 
       # 7. Conversion HTML -> JSON Temporaire
       # Cela doit générer un fichier temporaire, ex: 'temp_update.json'
