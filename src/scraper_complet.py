@@ -42,6 +42,15 @@ class CelcatCompleteScraper:
         self.archive_dir = "archives_html"
         self._setup_archive_dir()
         
+    def _setup_archive_dir(self):
+        """Crée le dossier d'archive s'il n'existe pas"""
+        if not os.path.exists(self.archive_dir):
+            try:
+                os.makedirs(self.archive_dir)
+                print(f"📁 Dossier d'archive créé : {self.archive_dir}")
+            except Exception as e:
+                print(f"⚠️ Impossible de créer le dossier d'archive : {e}")
+
     def setup_driver(self, headless=True):
         """Configure le navigateur Chrome"""
         print("🔧 Configuration du navigateur...")
