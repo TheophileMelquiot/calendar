@@ -42,52 +42,25 @@ class CelcatCompleteScraper:
         self.archive_dir = "archives_html"
         self._setup_archive_dir()
         
-    def _setup_archive_dir(self):
-        """Crée le dossier d'archive s'il n'existe pas"""
-        if not os.path.exists(self.archive_dir):
-            try:
-                os.makedirs(self.archive_dir)
-                print(f"📁 Dossier d'archive créé : {self.archive_dir}")
-            except Exception as e:
-                print(f"⚠️ Impossible de créer le dossier d'archive : {e}")
-
-def setup_driver(self, headless=True):
-    """Configure le navigateur Chrome avec locale FR forcée"""
-    print("🔧 Configuration du navigateur...")
-    
-    options = webdriver.ChromeOptions()
-    
-    if headless:
-        options.add_argument('--headless')
-    
-    # ===== AJOUTS POUR FORCER LE FRANÇAIS =====
-    options.add_argument('--lang=fr-FR')  # Force la langue du navigateur
-    options.add_argument('--accept-lang=fr-FR')  # Force l'en-tête Accept-Language
-    
-    # Option alternative plus robuste via prefs
-    prefs = {
-        "intl.accept_languages": "fr-FR,fr",
-        "intl.locale.requested": "fr-FR"
-    }
-    options.add_experimental_option("prefs", prefs)
-    # ==========================================
-    
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-dev-shm-usage')
-    options.add_argument('--disable-blink-features=AutomationControlled')
-    options.add_argument('--window-size=1920,1080')
-    
-    service = Service(ChromeDriverManager().install())
-    self.driver = webdriver.Chrome(service=service, options=options)
-    
-    # Injection JS pour s'assurer que la page voit du français
-    self.driver.execute_cdp_cmd('Network.setUserAgentOverride', {
-        "userAgent": self.driver.execute_script("return navigator.userAgent"),
-        "acceptLanguage": "fr-FR,fr"
-    })
-    
-    print("✅ Navigateur prêt (locale: fr-FR)!")
-    return self.driver
+    def setup_driver(self, headless=True):
+        """Configure le navigateur Chrome"""
+        print("🔧 Configuration du navigateur...")
+        
+        options = webdriver.ChromeOptions()
+        
+        if headless:
+            options.add_argument('--headless')
+        
+        options.add_argument('--no-sandbox')
+        options.add_argument('--disable-dev-shm-usage')
+        options.add_argument('--disable-blink-features=AutomationControlled')
+        options.add_argument('--window-size=1920,1080')
+        
+        service = Service(ChromeDriverManager().install())
+        self.driver = webdriver.Chrome(service=service, options=options)
+        
+        print("✅ Navigateur prêt!")
+        return self.driver
     
     def login(self):
         """Se connecte à Celcat"""
