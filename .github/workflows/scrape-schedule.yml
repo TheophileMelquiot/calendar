@@ -15,6 +15,10 @@ jobs:
   scrape-and-generate:
     runs-on: ubuntu-latest
     
+    # PERMISSION CRITIQUE : Nécessaire pour pouvoir pusher les modifications sur le repo
+    permissions:
+      contents: write
+    
     steps:
       # 1. Récupérer le code
       - name: 📥 Checkout repository
@@ -64,15 +68,13 @@ jobs:
       - name: 📅 Generate ICS file
         run: python src/json_to_ics.py
         
-      # 8.5 Rassembler les fichiers HTML & JSON générés
+      # 8.5 Rassembler les fichiers HTML & JSON générés (Debug)
       - name: 📂 Collect HTML & JSON outputs
         run: |
           mkdir -p debug_outputs
-          # Copier les archives HTML (générées par le scraper)
           if [ -d "archives_html" ]; then
             cp -r archives_html debug_outputs/
           fi
-          # Copier le JSON généré
           if [ -f "emploi_du_temps_complet.json" ]; then
             cp emploi_du_temps_complet.json debug_outputs/
           fi
@@ -90,7 +92,7 @@ jobs:
           path: debug_outputs/
           retention-days: 90
       
-      # 11. Upload le fichier .ics comme artifact
+      # 11. Upload le fichier .ics comme artifact (Backup)
       - name: 📤 Upload ICS file
         uses: actions/upload-artifact@v4
         with:
@@ -114,9 +116,33 @@ jobs:
             1. Téléchargez le fichier .ics ci-dessous
             2. Ouvrez-le avec l'app Calendrier
             3. Importez dans votre calendrier préféré
-            
-            ### 🐛 Fichiers de debug
-            Les fichiers HTML et JSON intermédiaires sont disponibles dans les artifacts de ce workflow pour analyse en cas d'erreur.
           files: emploi_du_temps_complet_v2.ics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 13. NOUVELLE ÉTAPE : Commit et Push des fichiers modifiés sur la branche main
+      - name: 💾 Commit & Push changes to main
+        run: |
+          # Configuration de l'identité Git pour le bot
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # 1. Gestion du dossier JSON
+          mkdir -p json
+          # Copie le fichier json généré dans le dossier json/
+          cp emploi_du_temps_complet.json json/
+          
+          # 2. Ajout des fichiers au suivi Git
+          # Ajoute le fichier ICS (à la racine)
+          git add emploi_du_temps_complet_v2.ics
+          # Ajoute le fichier JSON (dans le dossier json)
+          git add json/emploi_du_temps_complet.json
+          
+          # 3. Vérifier s'il y a des changements à commiter
+          if git diff --staged --quiet; then
+            echo "Aucun changement détecté dans l'emploi du temps."
+          else
+            # Commit et Push si changements
+            git commit -m "📅 Mise à jour auto: Emploi du temps & JSON du ${{ steps.date.outputs.date }}"
+            git push origin main
+          fi
