@@ -1,0 +1,88 @@
+name: ⚡ Daily Schedule Check
+
+# Déclenchement : Tous les matins à 8h00 Paris (soit 6h00 ou 7h00 UTC selon la saison)
+# Ici réglé sur 7h00 UTC (souvent 8h ou 9h FR, ajuster selon besoin)
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Récupérer le code
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Setup Python
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. Setup Chrome (Version légère pour le daily)
+      - name: 🌐 Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      # 4. Dépendances
+      - name: 📦 Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 5. Config (Secrets)
+      - name: 🔧 Create config file
+        run: |
+          echo '{
+            "login_url": "${{ secrets.CELCAT_URL }}",
+            "username": "${{ secrets.CELCAT_USERNAME }}",
+            "password": "${{ secrets.CELCAT_PASSWORD }}"
+          }' > reponse.json
+
+      # 6. SCRAPING LÉGER (2 Semaines)
+      # ⚠️ IMPORTANT : Tu dois avoir un script (ou un argument) qui ne scrape que 2 semaines.
+      # Si ton scraper_complet.py supporte des args, utilise-les. Sinon, crée un scraper_light.py
+      - name: 🕷️ Run Light Scraper (Current + Next Week)
+        run: python src/scraper_light.py
+        timeout-minutes: 15
+
+      # 7. Conversion HTML -> JSON Temporaire
+      # Cela doit générer un fichier temporaire, ex: 'temp_update.json'
+      - name: 📄 Convert HTML to Temp JSON
+        run: python src/finaljson.py --output temp_update.json
+
+      # 8. INTELLIGENCE : Comparaison et Fusion
+      # Ce script compare le temp_update.json avec json/emploi_du_temps_complet.json
+      # Si changement détecté : il met à jour le fichier complet et set une variable d'output.
+      - name: 🔄 Compare and Merge JSON
+        id: check_changes
+        run: python src/merge_and_compare.py
+        
+      # -----------------------------------------------------------
+      # Les étapes suivantes ne se lancent QUE si des changements sont détectés
+      # -----------------------------------------------------------
+
+      # 9. Régénérer le ICS (Uniquement si update)
+      - name: 📅 Regenerate ICS file
+        if: steps.check_changes.outputs.changed == 'true'
+        run: python src/json_to_ics.py
+
+      # 10. Commit & Push (Uniquement si update)
+      - name: 💾 Commit & Push updates
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # On ajoute le JSON mis à jour par le script de merge
+          git add json/emploi_du_temps_complet.json
+          git add emploi_du_temps_complet_v2.ics
+          
+          git commit -m "⚡ Mise à jour planning (Changement détecté)"
+          git push origin main
