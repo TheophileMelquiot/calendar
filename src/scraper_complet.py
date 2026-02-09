@@ -4,7 +4,7 @@ SCRAPER COMPLET - EMPLOI DU TEMPS 6 MOIS (+ ARCHIVAGE HTML)
 Scrape 26 semaines (6 mois) d'emploi du temps
 Stocke les événements en JSON et archive le HTML brut hebdomadaire
 """
-
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -399,6 +399,31 @@ class CelcatCompleteScraper:
         if self.driver:
             self.driver.quit()
             print("🔒 Navigateur fermé")
+def update_celcat_url_with_today(url):
+    """
+    Remplace ou ajoute le paramètre dt=YYYY-MM-DD avec la date du jour
+    """
+    today = datetime.now().strftime("%Y-%m-%d")
+
+    parsed = urlparse(url)
+    query = parse_qs(parsed.query)
+
+    # Forcer la date du jour
+    query["dt"] = [today]
+
+    new_query = urlencode(query, doseq=True)
+
+    updated_url = urlunparse((
+        parsed.scheme,
+        parsed.netloc,
+        parsed.path,
+        parsed.params,
+        new_query,
+        parsed.fragment
+    ))
+
+    print(f"📅 URL mise à jour avec la date du jour : {today}")
+    return updated_url
 
 
 def main():
@@ -419,7 +444,9 @@ def main():
         print("❌ Erreur : Le fichier 'reponse.json' est introuvable.")
         return
     
-    LOGIN_URL = config.get("login_url", "").strip()
+    RAW_LOGIN_URL = config.get("login_url", "").strip()
+    LOGIN_URL = update_celcat_url_with_today(RAW_LOGIN_URL)
+
     USERNAME = config.get("username", "").strip()
     PASSWORD = config.get("password", "").strip()
     
