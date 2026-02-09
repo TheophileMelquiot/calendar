@@ -1,142 +1,100 @@
-name: 🎓 Scrape Emploi du Temps Semestriel
-
-# Déclenchement automatique
-on:
-  schedule:
-    # 1er janvier à 2h du matin (UTC)
-    - cron: '0 2 1 1 *'
-    # 1er août à 2h du matin (UTC)
-    - cron: '0 2 1 8 *'
-  
-  # Déclenchement manuel (pour tester)
-  workflow_dispatch:
-
-jobs:
-  scrape-and-generate:
+ scrape-and-generate:
     runs-on: ubuntu-latest
-    
-    # ============================================
-    # 🔥 AJOUT CRUCIAL : Variables d'environnement
-    # ============================================
-    env:
-      LANG: fr_FR.UTF-8
-      LC_ALL: fr_FR.UTF-8
-      LANGUAGE: fr_FR:fr
-    
+
+
+
+
+
+
+
+
+
     steps:
       # 1. Récupérer le code
       - name: 📥 Checkout repository
-        uses: actions/checkout@v4
-      
-      # 2. Installer Python
-      - name: 🐍 Setup Python 3.11
-        uses: actions/setup-python@v5
+@@ -26,23 +34,35 @@ jobs:
         with:
           python-version: '3.11'
-      
-      # 3. Installer Chrome et ChromeDriver + LOCALE FR
-      - name: 🌐 Install Chrome & French Locale
+
+      # 3. Installer Chrome et ChromeDriver
+      - name: 🌐 Install Chrome
         run: |
           sudo apt-get update
-          # 🔥 AJOUT : Installer la locale française
-          sudo apt-get install -y locales
-          sudo locale-gen fr_FR.UTF-8
-          sudo update-locale LANG=fr_FR.UTF-8
-          
+
+
+
+
+
           sudo apt-get install -y wget gnupg
           wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
           sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable
       
-      # 4. Vérifier la locale (debug)
-      - name: 🔍 Check Locale
-        run: |
-          echo "LANG=$LANG"
-          echo "LC_ALL=$LC_ALL"
-          locale
-      
-      # 5. Installer les dépendances Python
+      # 4. Installer les dépendances Python
+
+
+
+
+
+
+
       - name: 📦 Install dependencies
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
       
-      # 6. Créer le fichier de config (reponse.json)
+      # 5. Créer le fichier de config (reponse.json)
       - name: 🔧 Create config file
         run: |
           echo '{
-            "login_url": "${{ secrets.CELCAT_URL }}",
-            "username": "${{ secrets.CELCAT_USERNAME }}",
+@@ -51,20 +71,20 @@ jobs:
             "password": "${{ secrets.CELCAT_PASSWORD }}"
           }' > reponse.json
       
-      # 7. Exécuter le scraper
+      # 6. Exécuter le scraper
       - name: 🕷️ Run scraper (26 weeks)
         run: python src/scraper_complet.py
         timeout-minutes: 60
-      
-      # 8. Convertir HTML → JSON
+
+      # 7. Convertir HTML → JSON
       - name: 📄 Convert HTML to JSON
         run: python src/finaljson.py
-      
-      # 9. Convertir JSON → ICS
+
+      # 8. Convertir JSON → ICS
       - name: 📅 Generate ICS file
         run: python src/json_to_ics.py
-        
-      # 10. Rassembler les fichiers HTML & JSON générés
+
+      # 8.5 Rassembler les fichiers HTML & JSON générés
       - name: 📂 Collect HTML & JSON outputs
         run: |
           mkdir -p debug_outputs
-          # Copier les archives HTML (générées par le scraper)
-          if [ -d "archives_html" ]; then
-            cp -r archives_html debug_outputs/
-          fi
-          # Copier le JSON généré
-          if [ -f "emploi_du_temps_complet.json" ]; then
+@@ -77,28 +97,28 @@ jobs:
             cp emploi_du_temps_complet.json debug_outputs/
           fi
 
-      # 11. Obtenir la date pour le nom du fichier
+      # 9. Obtenir la date pour le nom du fichier
       - name: 📆 Get current date
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
-      # 12. Upload les fichiers de debug (HTML + JSON) comme artifact
+      # 10. Upload les fichiers de debug (HTML + JSON) comme artifact
       - name: 🗂️ Upload debug files (HTML + JSON)
         uses: actions/upload-artifact@v4
         with:
           name: debug-files-${{ steps.date.outputs.date }}
           path: debug_outputs/
           retention-days: 90
-      
-      # 13. Upload le fichier .ics comme artifact
+
+      # 11. Upload le fichier .ics comme artifact
       - name: 📤 Upload ICS file
         uses: actions/upload-artifact@v4
         with:
           name: emploi-du-temps-${{ steps.date.outputs.date }}
           path: emploi_du_temps_complet_v2.ics
           retention-days: 180
-      
-      # 14. Créer une release GitHub avec le fichier .ics
+
+      # 12. Créer une release GitHub avec le fichier .ics
       - name: 🚀 Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: semester-${{ steps.date.outputs.date }}
-          name: Emploi du Temps - ${{ steps.date.outputs.date }}
-          body: |
-            📅 Emploi du temps semestriel généré automatiquement
-            
-            🗓️ Date de génération : ${{ steps.date.outputs.date }}
-            📊 Période couverte : 6 mois (26 semaines)
-            
-            ### 📱 Installation sur iPhone
-            1. Téléchargez le fichier .ics ci-dessous
-            2. Ouvrez-le avec l'app Calendrier
-            3. Importez dans votre calendrier préféré
-            
-            ### 🐛 Fichiers de debug
-            Les fichiers HTML et JSON intermédiaires sont disponibles dans les artifacts de ce workflow pour analyse en cas d'erreur.
-          files: emploi_du_temps_complet_v2.ics
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
