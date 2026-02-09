@@ -120,7 +120,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 13. NOUVELLE ÉTAPE : Commit et Push des fichiers modifiés sur la branche main
+     # 13. ÉTAPE CORRIGÉE : Commit et Push avec option -f pour forcer l'ajout
       - name: 💾 Commit & Push changes to main
         run: |
           # Configuration de l'identité Git pour le bot
@@ -132,11 +132,11 @@ jobs:
           # Copie le fichier json généré dans le dossier json/
           cp emploi_du_temps_complet.json json/
           
-          # 2. Ajout des fichiers au suivi Git
-          # Ajoute le fichier ICS (à la racine)
-          git add emploi_du_temps_complet_v2.ics
-          # Ajoute le fichier JSON (dans le dossier json)
-          git add json/emploi_du_temps_complet.json
+          # 2. Ajout des fichiers au suivi Git (avec -f pour forcer si ignoré)
+          # Ajoute le fichier ICS
+          git add -f emploi_du_temps_complet_v2.ics
+          # Ajoute le fichier JSON (force l'ajout même si ignoré par .gitignore)
+          git add -f json/emploi_du_temps_complet.json
           
           # 3. Vérifier s'il y a des changements à commiter
           if git diff --staged --quiet; then
