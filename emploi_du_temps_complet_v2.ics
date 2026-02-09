@@ -1,1 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTAMP:20260209T142348Z
+DESCRIPTION:Matière: Techniques chirurgicales toutes espèces\nType: CM\nIntervenant: Gauthier Olivier\nSalle: Amphi Pierre Cuq\nCode: 0610\nGroupes: VET3
+DTEND:20260407T125000Z
+LAST-MODIFIED:20260209T142348Z
+LOCATION:Amphi Pierre Cuq - Gauthier Olivier
+DTSTART:20260407T120000Z
+SUMMARY:0610 CM - Techniques chirurgicales toutes espèces - Pathologie et traitement chirurgical des hernies 1/2
+UID:1a0ede06-013d-4ada-af59-ffb3e940221e@1a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T142348Z
+DESCRIPTION:Matière: Maladie des ruminants 1\nType: apport supplémentaire sur poly + quizz - après CM Pathologie intestinale infectieuse et avant TD CAT face à un trouble digestif individuel\nIntervenant: e-learning\nSalle: Guatteo Raphaël\nCode: 061\nGroupes: VET3
+DTEND:20260318T173000Z
+LAST-MODIFIED:20260209T142348Z
+LOCATION:Guatteo Raphaël - e-learning
+DTSTART:20260318T150000Z
+SUMMARY:061 apport supplémentaire sur poly + quizz - après CM Pathologie intestinale infectieuse et avant TD CAT face à un trouble digestif individuel - Maladie des ruminants 1 - Pathologie infectieuse digestive
+UID:500c6ee4-7822-4923-9015-fa93ea57216e@500c.org
+END:VEVENT
+METHOD:PUBLISH
+END:VCALENDAR
 
