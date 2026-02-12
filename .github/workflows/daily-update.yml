@@ -53,7 +53,7 @@ jobs:
       # 7. Conversion HTML -> JSON Temporaire
       # Cela doit générer un fichier temporaire, ex: 'temp_update.json'
       - name: 📄 Convert HTML to Temp JSON
-        run: python src/finaljson.py --output temp_update.json
+        run: python src/html_to_json.py --output temp_update.json
 
       # 8. INTELLIGENCE : Comparaison et Fusion
       # Ce script compare le temp_update.json avec json/emploi_du_temps_complet.json
