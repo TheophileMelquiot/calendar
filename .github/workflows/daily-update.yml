@@ -80,7 +80,7 @@ jobs:
           
           # On ajoute le JSON mis à jour par le script de merge
           git add json/emploi_du_temps_complet.json
-          git add emploi_du_temps_complet_v2.ics
+          git add mon_emploi_du_temps_fixed.ics
           
           git commit -m "⚡ Mise à jour planning (Changement détecté)"
           git push origin main
