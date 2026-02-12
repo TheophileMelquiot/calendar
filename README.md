@@ -8,7 +8,7 @@ Ce projet scrappe automatiquement votre emploi du temps CELCAT et le convertit e
 
 ## 🎯 Fonctionnalités
 
-- ✅ **Scraping complet du semestre** (4 mois) tous les 6 mois
+- ✅ **Scraping complet du semestre** (6 mois) tous les 6 mois
 - ✅ **Vérification quotidienne** des 2 prochaines semaines pour détecter les changements
 - ✅ **Mise à jour automatique** via GitHub Actions
 - ✅ **Hébergement gratuit** sur GitHub Pages
