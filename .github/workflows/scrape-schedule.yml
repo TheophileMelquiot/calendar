@@ -62,7 +62,7 @@ jobs:
       
       # 7. Convertir HTML → JSON
       - name: 📄 Convert HTML to JSON
-        run: python src/finaljson.py
+        run: python src/html_to_json.py
       
       # 8. Convertir JSON → ICS
       - name: 📅 Generate ICS file
