@@ -6,7 +6,7 @@ __pycache__/
 # Fichiers de sortie
 archives_html/*.html
 emploi_du_temps_complet.json
-emploi_du_temps_complet_v2.ics
+mon_emploi_du_temps_fixed.ics
 
 # Mais garder le dossier archives_html vide
 #!archives_html/.gitkeep
