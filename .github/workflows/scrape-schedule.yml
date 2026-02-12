@@ -134,7 +134,7 @@ jobs:
           
           # 2. Ajout des fichiers au suivi Git (avec -f pour forcer si ignoré)
           # Ajoute le fichier ICS
-          git add -f emploi_du_temps_complet_v2.ics
+          git add -f mon_emploi_du_temps_fixed.ics
           # Ajoute le fichier JSON (force l'ajout même si ignoré par .gitignore)
           git add -f json/emploi_du_temps_complet.json
           
