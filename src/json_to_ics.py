@@ -6,7 +6,7 @@ from ics import Calendar, Event
 
 # 1. Chargement du fichier JSON
 input_filename = 'emploi_du_temps_complet.json'
-output_filename = 'emploi_du_temps_complet_v2.ics'
+output_filename = 'mon_emploi_du_temps_fixed.ics'
 
 try:
     with open(input_filename, 'r', encoding='utf-8') as f:
