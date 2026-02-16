@@ -97,7 +97,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: emploi-du-temps-${{ steps.date.outputs.date }}
-          path: emploi_du_temps_complet_v2.ics
+          path: mon_emploi_du_temps_fixed.ics
           retention-days: 180
       
       # 12. Créer une release GitHub avec le fichier .ics
@@ -116,7 +116,7 @@ jobs:
             1. Téléchargez le fichier .ics ci-dessous
             2. Ouvrez-le avec l'app Calendrier
             3. Importez dans votre calendrier préféré
-          files: emploi_du_temps_complet_v2.ics
+          files: mon_emploi_du_temps_fixed.ics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
