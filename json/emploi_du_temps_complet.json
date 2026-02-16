@@ -1,335 +1,5 @@
 [
     {
-        "date": "2026-02-09",
-        "start_time": "08:30",
-        "end_time": "10:25",
-        "title": "Voyages des carnivores",
-        "course_code": "069",
-        "course_name": "Médecine préventive des carnivores",
-        "location": "221 TD - Porte n° 221",
-        "teacher": "Loisel Léa",
-        "type": "TD",
-        "groups": [
-            "VET3-classe 5",
-            "VET3-classe 6"
-        ]
-    },
-    {
-        "date": "2026-02-09",
-        "start_time": "10:35",
-        "end_time": "12:30",
-        "title": "IN_TD2",
-        "course_code": "065",
-        "course_name": "Anglais comm scientifique",
-        "location": "703 TD - Porte n° 703",
-        "teacher": "Nicholson Ian",
-        "type": "TD",
-        "groups": [
-            "VET3-classe 5"
-        ]
-    },
-    {
-        "date": "2026-02-09",
-        "start_time": "14:00",
-        "end_time": "14:50",
-        "title": "Alimentation du chien en situation physiologique 1",
-        "course_code": "069",
-        "course_name": "Médecine préventive des carnivores",
-        "location": "Amphi G2N",
-        "teacher": "Debruille Agathe",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-09",
-        "start_time": "15:00",
-        "end_time": "15:50",
-        "title": "Techniques d'ovariectomies 1/2",
-        "course_code": "0610",
-        "course_name": "Techniques chirurgicales toutes espèces",
-        "location": "Amphi G2N",
-        "teacher": "Gauthier Olivier",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-09",
-        "start_time": "16:00",
-        "end_time": "16:50",
-        "title": "Techniques d'ovariectomies 2/2",
-        "course_code": "0610",
-        "course_name": "Techniques chirurgicales toutes espèces",
-        "location": "Amphi G2N",
-        "teacher": "Gauthier Olivier",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-09",
-        "start_time": "17:00",
-        "end_time": "19:00",
-        "title": "Pathologie hépathique et urinaire",
-        "course_code": "061",
-        "course_name": "Maladie des ruminants 1",
-        "location": "Relun Anne",
-        "teacher": "e-learning",
-        "type": "apport supplémentaire sur poly + quizz\naprès CM Pathologie hépathique et urinaire",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-10",
-        "start_time": "08:30",
-        "end_time": "10:25",
-        "title": "TD2 Circulatoire 2",
-        "course_code": "067",
-        "course_name": "Anatomie pathologique cancérologie et pathologie générales",
-        "location": "503 TD - Porte 503",
-        "teacher": "Abadie Jérôme",
-        "type": "TD",
-        "groups": [
-            "VET3-classe 5",
-            "VET3-classe 6"
-        ]
-    },
-    {
-        "date": "2026-02-10",
-        "start_time": "10:35",
-        "end_time": "12:30",
-        "title": "FA -Fièvre Aphteuse",
-        "course_code": "064",
-        "course_name": "Réglementation sanitaire générale et maladies réglementées",
-        "location": "218 TD",
-        "teacher": "Bastian Suzanne",
-        "type": "TD",
-        "groups": [
-            "VET3-classe 5"
-        ]
-    },
-    {
-        "date": "2026-02-10",
-        "start_time": "14:00",
-        "end_time": "14:50",
-        "title": "Sémiologie Urinaire 1",
-        "course_code": "062",
-        "course_name": "Sémiologie physiopathologie intégrée",
-        "location": "Amphi G2N",
-        "teacher": "Drut Amandine",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-10",
-        "start_time": "15:00",
-        "end_time": "15:50",
-        "title": "Sémiologie Urinaire 2 et particularités sémiologique des BV1",
-        "course_code": "062",
-        "course_name": "Sémiologie physiopathologie intégrée",
-        "location": "Amphi G2N",
-        "teacher": "Drut Amandine",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-10",
-        "start_time": "17:00",
-        "end_time": "17:50",
-        "title": "6",
-        "course_code": "066",
-        "course_name": "Pharmacologie et toxicologie clinique",
-        "location": "e-learning",
-        "teacher": "VET3"
-    },
-    {
-        "date": "2026-02-11",
-        "start_time": "08:30",
-        "end_time": "10:25",
-        "title": "TD1_NG",
-        "course_code": "065",
-        "course_name": "Anglais comm scientifique",
-        "location": "410 TD - Porte n° 410",
-        "teacher": "Nathalie Goodenough",
-        "type": "TD",
-        "groups": [
-            "VET3-classe 5",
-            "VET3-classe 6"
-        ]
-    },
-    {
-        "date": "2026-02-11",
-        "start_time": "10:35",
-        "end_time": "12:30",
-        "title": "TD4 Fonctions de Reproduction",
-        "course_code": "066",
-        "course_name": "Pharmacologie et toxicologie clinique",
-        "location": "221 TD - Porte n° 221",
-        "teacher": "Mallem Yassine",
-        "type": "TD",
-        "groups": [
-            "VET3-classe 5",
-            "VET3-classe 6"
-        ]
-    },
-    {
-        "date": "2026-02-11",
-        "start_time": "14:00",
-        "end_time": "14:50",
-        "title": "TUBERCULOSE 1/2",
-        "course_code": "064",
-        "course_name": "Réglementation sanitaire générale et maladies réglementées",
-        "location": "Amphi G2N",
-        "teacher": "Loisel Léa",
-        "type": "Ruvoen Nathalie",
-        "groups": [
-            "CM",
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-11",
-        "start_time": "15:00",
-        "end_time": "15:50",
-        "title": "TUBERCULOSE 2/2",
-        "course_code": "064",
-        "course_name": "Réglementation sanitaire générale et maladies réglementées",
-        "location": "Amphi G2N",
-        "teacher": "Loisel Léa",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-11",
-        "start_time": "16:00",
-        "end_time": "16:50",
-        "title": "pathologie génitale mâle/ biotechnologies 7",
-        "course_code": "068",
-        "course_name": "Reproduction",
-        "location": "Amphi G2N",
-        "teacher": "Bruyas Jean-François",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-11",
-        "start_time": "17:00",
-        "end_time": "17:50",
-        "title": "7",
-        "course_code": "066",
-        "course_name": "Pharmacologie et toxicologie clinique",
-        "location": "e-learning",
-        "teacher": "VET3"
-    },
-    {
-        "date": "2026-02-12",
-        "start_time": "08:30",
-        "end_time": "09:20",
-        "title": "pathologie génitale mâle/ biotechnologies 8",
-        "course_code": "068",
-        "course_name": "Reproduction",
-        "location": "Amphi G2N",
-        "teacher": "Bruyas Jean-François",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-12",
-        "start_time": "09:30",
-        "end_time": "10:20",
-        "title": "pathologie génitale mâle/ biotechnologies 9",
-        "course_code": "068",
-        "course_name": "Reproduction",
-        "location": "Amphi G2N",
-        "teacher": "Bruyas Jean-François",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-12",
-        "start_time": "10:30",
-        "end_time": "11:20",
-        "title": "Diarrhées parasitaires en bâtiment 3",
-        "course_code": "061",
-        "course_name": "Maladie des ruminants 1",
-        "location": "Amphi G2N",
-        "teacher": "Ravinet Nadine",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-12",
-        "start_time": "11:30",
-        "end_time": "12:30",
-        "title": "Form DS RAGE",
-        "course_code": "064",
-        "course_name": "Réglementation sanitaire générale et maladies réglementées",
-        "location": "Ruvoen Nathalie",
-        "teacher": "e-learning",
-        "type": "VET3"
-    },
-    {
-        "date": "2026-02-13",
-        "start_time": "14:00",
-        "end_time": "14:50",
-        "title": "Maladies infectieuses des chiens",
-        "course_code": "069",
-        "course_name": "Médecine préventive des carnivores",
-        "location": "Amphi G2N",
-        "teacher": "Sénécat Odile",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-13",
-        "start_time": "15:00",
-        "end_time": "15:50",
-        "title": "Maladies infectieuses des chiens 2",
-        "course_code": "069",
-        "course_name": "Médecine préventive des carnivores",
-        "location": "Amphi G2N",
-        "teacher": "Sénécat Odile",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-02-13",
-        "start_time": "16:00",
-        "end_time": "16:50",
-        "title": "Pathologie des pré-estomacs",
-        "course_code": "061",
-        "course_name": "Maladie des ruminants 1",
-        "location": "Amphi G2N",
-        "teacher": "Relun Anne",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
         "date": "2026-02-16",
         "start_time": "14:00",
         "end_time": "14:50",
@@ -454,6 +124,21 @@
     },
     {
         "date": "2026-02-18",
+        "start_time": "10:35",
+        "end_time": "12:30",
+        "title": "BRUCELLOSE",
+        "course_code": "064",
+        "course_name": "Réglementation sanitaire générale et maladies réglementées",
+        "location": "511 TD - Porte 511",
+        "teacher": "Bastian Suzanne",
+        "type": "TD",
+        "groups": [
+            "VET3-classe 5",
+            "VET3-classe 6"
+        ]
+    },
+    {
+        "date": "2026-02-18",
         "start_time": "14:00",
         "end_time": "14:50",
         "title": "Cycles/Diagnostic de gestation 1",
@@ -528,21 +213,6 @@
         "course_name": "Anglais comm scientifique",
         "location": "410 TD - Porte n° 410",
         "teacher": "Nathalie Goodenough",
-        "type": "TD",
-        "groups": [
-            "VET3-classe 5",
-            "VET3-classe 6"
-        ]
-    },
-    {
-        "date": "2026-02-20",
-        "start_time": "10:35",
-        "end_time": "12:30",
-        "title": "BRUCELLOSE",
-        "course_code": "064",
-        "course_name": "Réglementation sanitaire générale et maladies réglementées",
-        "location": "511 TD - Porte 511",
-        "teacher": "Bastian Suzanne",
         "type": "TD",
         "groups": [
             "VET3-classe 5",
@@ -3678,6 +3348,15 @@
         ]
     },
     {
+        "date": "2026-05-28",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "title": "061 anticipée BIVSP",
+        "course_code": "Ravinet",
+        "course_name": "Nadine",
+        "location": "Examen session 1"
+    },
+    {
         "date": "2026-05-29",
         "start_time": "08:00",
         "end_time": "09:00",
@@ -3811,6 +3490,54 @@
     },
     {
         "date": "2026-06-22",
+        "start_time": "08:45",
+        "end_time": "17:15",
+        "title": "Session 2 Examen",
+        "course_code": "220",
+        "course_name": "TD - Porte n° 220",
+        "location": "221 TD - Porte n° 221",
+        "teacher": "222 TD - Porte n° 222",
+        "type": "700 INFO - Porte n° 700",
+        "groups": [
+            "702 INFO - Porte n° 702",
+            "704 INFO - Porte n° 704",
+            "Amphi G4",
+            "Amphi G5",
+            "Amphi Pierre Cuq",
+            "Rolland Karine",
+            "Examen session 2",
+            "VET2",
+            "VET3",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-06-22",
+        "start_time": "14:00",
+        "end_time": "15:30",
+        "title": "à confirmer UE 054 - écrit 1h30",
+        "course_code": "054",
+        "course_name": "Anatomie régionale",
+        "location": "Amphi G2N",
+        "teacher": "Guintard Claude",
+        "type": "Examen session 2"
+    },
+    {
+        "date": "2026-06-22",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "title": "059",
+        "course_code": "059",
+        "course_name": "Maladies du cheval 1",
+        "location": "700 INFO - Porte n° 700",
+        "teacher": "702 INFO - Porte n° 702",
+        "type": "Leroux Aurelia",
+        "groups": [
+            "Examen session 2"
+        ]
+    },
+    {
+        "date": "2026-06-23",
         "start_time": "08:25",
         "end_time": "16:55",
         "title": "Session 2 Examen",
@@ -3832,56 +3559,20 @@
         ]
     },
     {
-        "date": "2026-06-22",
-        "start_time": "14:00",
-        "end_time": "15:30",
-        "title": "UE 054 - écrit 1h30",
-        "course_code": "054",
-        "course_name": "Anatomie régionale",
-        "location": "220 TD - Porte n° 220",
-        "teacher": "Guintard Claude",
-        "type": "Examen session 2",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-06-23",
-        "start_time": "08:25",
-        "end_time": "16:52",
-        "title": "Session 2 Examen",
-        "course_code": "220",
-        "course_name": "TD - Porte n° 220",
-        "location": "221 TD - Porte n° 221",
-        "teacher": "222 TD - Porte n° 222",
-        "type": "700 INFO - Porte n° 700",
-        "groups": [
-            "702 INFO - Porte n° 702",
-            "704 INFO - Porte n° 704",
-            "Amphi G4",
-            "Amphi G5",
-            "Amphi Pierre Cuq",
-            "Rolland Karine",
-            "Examen session 2",
-            "VET2",
-            "VET3",
-            "VET4"
-        ]
-    },
-    {
         "date": "2026-06-23",
         "start_time": "08:30",
         "end_time": "10:00",
-        "title": "UE 058",
+        "title": "à confirmer UE 058 - 16 étudiants dont 1TT + 1Anticipation",
         "course_code": "058",
         "course_name": "Pharmacologie des antiparasitaires antibiotiques et antifongiques",
-        "location": "Rostang Antoine",
-        "teacher": "Examen session 2"
+        "location": "222 TD - Porte n° 222",
+        "teacher": "Rostang Antoine",
+        "type": "Examen session 2"
     },
     {
         "date": "2026-06-24",
-        "start_time": "08:30",
-        "end_time": "17:00",
+        "start_time": "07:55",
+        "end_time": "16:25",
         "title": "Session 2 Examen",
         "course_code": "220",
         "course_name": "TD - Porte n° 220",
@@ -3893,7 +3584,6 @@
             "704 INFO - Porte n° 704",
             "Amphi G4",
             "Amphi G5",
-            "Amphi Pierre Cuq",
             "Rolland Karine",
             "Examen session 2",
             "VET2",
@@ -3926,8 +3616,8 @@
     },
     {
         "date": "2026-06-26",
-        "start_time": "08:30",
-        "end_time": "17:00",
+        "start_time": "09:05",
+        "end_time": "17:32",
         "title": "Session 2 Examen",
         "course_code": "220",
         "course_name": "TD - Porte n° 220",
@@ -3939,6 +3629,7 @@
             "704 INFO - Porte n° 704",
             "Amphi G4",
             "Amphi G5",
+            "Amphi Pierre Cuq",
             "Rolland Karine",
             "Examen session 2",
             "VET2",
