@@ -98,7 +98,7 @@ jobs:
         with:
           name: debug-files-${{ steps.date.outputs.date }}
           path: debug_outputs/
-          retention-days: 90
+          retention-days: 30
       
       # 11. Upload le fichier .ics comme artifact (Backup)
       - name: 📤 Upload ICS file
@@ -106,7 +106,7 @@ jobs:
         with:
           name: emploi-du-temps-${{ steps.date.outputs.date }}
           path: mon_emploi_du_temps_fixed.ics
-          retention-days: 180
+          retention-days: 30
       
       # 12. Créer une release GitHub avec le fichier .ics
       - name: 🚀 Create GitHub Release
