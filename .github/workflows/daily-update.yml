@@ -46,10 +46,12 @@ jobs:
           }' > reponse.json
 
       # 6. Exécuter le scraper
-      - name: 🕷️ Run scraper (26 weeks)
+      # 6. Exécuter le scraper (2 semaines pour le daily check)
+      - name: 🕷️ Run scraper (2 weeks)
         run: python src/scraper_complet.py
         timeout-minutes: 60
-
+        env:
+          NB_WEEKS: "2"
       # 7. Conversion HTML -> JSON Temporaire
       # Cela doit générer un fichier temporaire, ex: 'temp_update.json'
       - name: 📄 Convert HTML to Temp JSON
