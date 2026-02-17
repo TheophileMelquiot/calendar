@@ -10,7 +10,13 @@ on:
   
   # Déclenchement manuel (pour tester)
   workflow_dispatch:
-
+    inputs:
+      nb_weeks:
+        description: 'Nombre de semaines à scraper (défaut: 26)'
+        required: false
+        default: '26'
+        type: string
+        
 jobs:
   scrape-and-generate:
     runs-on: ubuntu-latest
@@ -56,9 +62,11 @@ jobs:
           }' > reponse.json
       
       # 6. Exécuter le scraper
-      - name: 🕷️ Run scraper (26 weeks)
+      - name: 🕷️ Run scraper (${{ github.event.inputs.nb_weeks || '26' }} weeks)
         run: python src/scraper_complet.py
         timeout-minutes: 60
+        env:
+          NB_WEEKS: ${{ github.event.inputs.nb_weeks || '26' }}
       
       # 7. Convertir HTML → JSON
       - name: 📄 Convert HTML to JSON
