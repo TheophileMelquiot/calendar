@@ -450,7 +450,7 @@ def main():
     USERNAME = config.get("username", "").strip()
     PASSWORD = config.get("password", "").strip()
     
-    NB_WEEKS = 26
+    NB_WEEKS = int(os.environ.get('NB_WEEKS', '26'))
     
     scraper = CelcatCompleteScraper(LOGIN_URL, USERNAME, PASSWORD)
     
