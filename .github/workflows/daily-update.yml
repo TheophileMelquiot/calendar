@@ -45,17 +45,26 @@ jobs:
             "password": "${{ secrets.CELCAT_PASSWORD }}"
           }' > reponse.json
 
-      # 6. Exécuter le scraper
       # 6. Exécuter le scraper (2 semaines pour le daily check)
       - name: 🕷️ Run scraper (2 weeks)
         run: python src/scraper_complet.py
         timeout-minutes: 60
         env:
           NB_WEEKS: "2"
+
       # 7. Conversion HTML -> JSON Temporaire
       # Cela doit générer un fichier temporaire, ex: 'temp_update.json'
       - name: 📄 Convert HTML to Temp JSON
         run: python src/html_to_json.py --output temp_update.json
+
+      # 7b. 📤 Upload du JSON temporaire comme artifact (conservé 7 jours)
+      - name: 📤 Archive temp JSON artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: temp-update-json
+          path: temp_update.json
+          retention-days: 7
+          if-no-files-found: warn
 
       # 8. INTELLIGENCE : Comparaison et Fusion
       # Ce script compare le temp_update.json avec json/emploi_du_temps_complet.json
