@@ -14,16 +14,6 @@ Ce projet scrappe automatiquement votre emploi du temps CELCAT et le convertit e
 - ✅ **Hébergement gratuit** sur GitHub Pages
 - ✅ **Compatible** avec tous les calendriers (Google, Apple, Outlook, etc.)
 
----
-
-## 📋 Prérequis
-
-- Un compte GitHub
-- Accès à votre emploi du temps CELCAT (identifiants)
-- 10 minutes de configuration
-
----
-
 ## 🚀 Installation et Configuration
 
 ### Étape 1: Fork ou Clone ce Repository
