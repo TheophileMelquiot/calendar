@@ -44,12 +44,11 @@ class CelcatCompleteScraper:
         
     def _setup_archive_dir(self):
         """Crée le dossier d'archive s'il n'existe pas"""
-        if not os.path.exists(self.archive_dir):
-            try:
-                os.makedirs(self.archive_dir)
-                print(f"📁 Dossier d'archive créé : {self.archive_dir}")
-            except Exception as e:
-                print(f"⚠️ Impossible de créer le dossier d'archive : {e}")
+        try:
+            os.makedirs(self.archive_dir, exist_ok=True)
+            print(f"📁 Dossier d'archive prêt : {self.archive_dir}")
+        except Exception as e:
+            print(f"⚠️ Impossible de créer le dossier d'archive : {e}")
 
     def setup_driver(self, headless=True):
         """Configure le navigateur Chrome"""
@@ -83,11 +82,11 @@ class CelcatCompleteScraper:
             try:
                 username_field = self.driver.find_element(By.NAME, "username")
                 password_field = self.driver.find_element(By.NAME, "password")
-            except:
+            except Exception:
                 try:
                     username_field = self.driver.find_element(By.CSS_SELECTOR, "input[type='text']")
                     password_field = self.driver.find_element(By.CSS_SELECTOR, "input[type='password']")
-                except:
+                except Exception:
                     username_field = self.driver.find_element(By.ID, "username")
                     password_field = self.driver.find_element(By.ID, "password")
             
@@ -115,7 +114,7 @@ class CelcatCompleteScraper:
                         submit_button = self.driver.find_element(By.CSS_SELECTOR, selector)
                     if submit_button:
                         break
-                except:
+                except Exception:
                     continue
             
             if submit_button:
@@ -468,7 +467,7 @@ def main():
             week_button = scraper.driver.find_element(By.CSS_SELECTOR, "button.fc-agendaWeek-button")
             week_button.click()
             time.sleep(3)
-        except:
+        except Exception:
             pass
         
         scraper.scrape_full_semester(nb_weeks=NB_WEEKS)

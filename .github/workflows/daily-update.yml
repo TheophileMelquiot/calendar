@@ -80,7 +80,7 @@ jobs:
       # 9. Régénérer le ICS (Uniquement si update)
       - name: 📅 Regenerate ICS file
         if: steps.check_changes.outputs.changed == 'true'
-        run: python src/json_to_ics.py
+        run: python src/json_to_ics.py --input json/emploi_du_temps_complet.json
 
       # 10. Commit & Push (Uniquement si update)
       - name: 💾 Commit & Push updates
