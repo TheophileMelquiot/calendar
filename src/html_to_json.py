@@ -1,3 +1,4 @@
+import argparse
 import json
 import re
 import os
@@ -128,10 +129,17 @@ def extract_celcat_data(html_content):
 
     return events_list
 
-# --- Bloc principal (inchangé sauf appels) ---
+# --- Bloc principal ---
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Convertit les archives HTML Celcat en JSON.")
+    parser.add_argument(
+        '--output', default='emploi_du_temps_complet.json',
+        help="Fichier JSON de sortie (défaut: emploi_du_temps_complet.json)"
+    )
+    args = parser.parse_args()
+
     input_folder = "archives_html"
-    output_file = "emploi_du_temps_complet.json"
+    output_file = args.output
     
     all_weeks_data = []
     
