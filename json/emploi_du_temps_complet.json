@@ -1447,12 +1447,28 @@
     },
     {
         "date": "2026-03-23",
+        "start_time": "08:30",
+        "end_time": "10:25",
+        "title": "Animaux dangereux (surveillance mordeur et évalutaion comportementale)",
+        "course_code": "069",
+        "course_name": "Médecine préventive des carnivores",
+        "location": "501 TD - Porte 501",
+        "teacher": "Gilbert Caroline",
+        "type": "Ruvoen Nathalie",
+        "groups": [
+            "TD",
+            "VET3-classe 5",
+            "VET3-classe 6"
+        ]
+    },
+    {
+        "date": "2026-03-23",
         "start_time": "10:35",
         "end_time": "12:30",
         "title": "TP Cytologie et trichoscopie",
         "course_code": "063",
         "course_name": "Dermatologie et mycologie clinique toutes espèces",
-        "location": "402 TP - Porte n° 402",
+        "location": "510 TP - Porte 510",
         "teacher": "sanchez maria-dolores",
         "type": "TP",
         "groups": [
@@ -1482,7 +1498,7 @@
         "course_name": "Médecine préventive des carnivores",
         "location": "Amphi G2N",
         "teacher": "Guillot Jacques",
-        "type": "CM",
+        "type": "CM Zoom",
         "groups": [
             "VET3"
         ]
@@ -1496,7 +1512,7 @@
         "course_name": "Médecine préventive des carnivores",
         "location": "Amphi G2N",
         "teacher": "Guillot Jacques",
-        "type": "CM",
+        "type": "CM Zoom",
         "groups": [
             "VET3"
         ]
@@ -1609,7 +1625,7 @@
         "title": "TD3 -Diagnostic et traitement des intoxications animales par les produits domestiques et les aliments",
         "course_code": "066",
         "course_name": "Pharmacologie et toxicologie clinique",
-        "location": "202 TD - Porte n° 202",
+        "location": "206 Espace modulaire 206",
         "teacher": "Moriceau Meg-Anne",
         "type": "TD",
         "groups": [
@@ -1862,12 +1878,9 @@
         "title": "Prévention des parasitoses internes des carnivores (1)",
         "course_code": "069",
         "course_name": "Médecine préventive des carnivores",
-        "location": "Amphi Pierre Cuq",
-        "teacher": "Guillot Jacques",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
+        "location": "Guillot Jacques",
+        "teacher": "CM Zoom",
+        "type": "VET3"
     },
     {
         "date": "2026-03-30",
@@ -1876,12 +1889,9 @@
         "title": "Prévention des parasitoses internes des carnivores (2)",
         "course_code": "069",
         "course_name": "Médecine préventive des carnivores",
-        "location": "Amphi Pierre Cuq",
-        "teacher": "Guillot Jacques",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
+        "location": "Guillot Jacques",
+        "teacher": "CM Zoom",
+        "type": "VET3"
     },
     {
         "date": "2026-03-30",
@@ -2106,6 +2116,21 @@
         "course_name": "Réglementation sanitaire générale et maladies réglementées",
         "location": "511 TD - Porte 511",
         "teacher": "Ruvoen Nathalie",
+        "type": "TD",
+        "groups": [
+            "VET3-classe 5",
+            "VET3-classe 6"
+        ]
+    },
+    {
+        "date": "2026-04-03",
+        "start_time": "08:35",
+        "end_time": "10:30",
+        "title": "TD2 : Approche pratique du prurit",
+        "course_code": "063",
+        "course_name": "Dermatologie et mycologie clinique toutes espèces",
+        "location": "207FC Espace modulaire 207",
+        "teacher": "Bruet vincent",
         "type": "TD",
         "groups": [
             "VET3-classe 5",
