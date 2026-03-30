@@ -2261,7 +2261,7 @@
         "title": "Pathologie et traitement chirurgical des hernies 1/2",
         "course_code": "0610",
         "course_name": "Techniques chirurgicales toutes espèces",
-        "location": "Amphi Pierre Cuq",
+        "location": "Amphi G2N",
         "teacher": "Gauthier Olivier",
         "type": "CM",
         "groups": [
@@ -2275,7 +2275,7 @@
         "title": "Pathologie et traitement chirurgical des hernies 2/2",
         "course_code": "0610",
         "course_name": "Techniques chirurgicales toutes espèces",
-        "location": "Amphi Pierre Cuq",
+        "location": "Amphi G2N",
         "teacher": "Gauthier Olivier",
         "type": "CM",
         "groups": [
@@ -2289,7 +2289,7 @@
         "title": "5-Intoxications par les toxines naturelles : plantes, champignons, mycotoxines et animaux venimeux",
         "course_code": "066",
         "course_name": "Pharmacologie et toxicologie clinique",
-        "location": "Amphi Pierre Cuq",
+        "location": "Amphi G2N",
         "teacher": "Pouliquen Hervé",
         "type": "CM",
         "groups": [
@@ -2314,7 +2314,7 @@
         "title": "TP1 : Diagnose des principaux acariens d'intérêt vétérinaire (1/2)",
         "course_code": "063",
         "course_name": "Dermatologie et mycologie clinique toutes espèces",
-        "location": "402 TP - Porte n° 402",
+        "location": "510 TP - Porte 510",
         "teacher": "Guillot Jacques",
         "type": "TP",
         "groups": [
