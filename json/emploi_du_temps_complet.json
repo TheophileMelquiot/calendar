@@ -2428,6 +2428,20 @@
         ]
     },
     {
+        "date": "2026-04-09",
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "title": "059",
+        "course_code": "059",
+        "course_name": "Maladies du cheval 1",
+        "location": "221 TD - Porte n° 221",
+        "teacher": "222 TD - Porte n° 222",
+        "type": "Leroux Aurelia",
+        "groups": [
+            "Examen session 2"
+        ]
+    },
+    {
         "date": "2026-04-10",
         "start_time": "08:30",
         "end_time": "10:25",
