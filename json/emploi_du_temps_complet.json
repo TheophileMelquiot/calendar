@@ -2284,14 +2284,14 @@
     },
     {
         "date": "2026-04-07",
-        "start_time": "16:00",
-        "end_time": "16:50",
+        "start_time": "15:55",
+        "end_time": "16:45",
         "title": "5-Intoxications par les toxines naturelles : plantes, champignons, mycotoxines et animaux venimeux",
         "course_code": "066",
         "course_name": "Pharmacologie et toxicologie clinique",
         "location": "Amphi G2N",
         "teacher": "Pouliquen Hervé",
-        "type": "CM",
+        "type": "CM annulé",
         "groups": [
             "VET3"
         ]
