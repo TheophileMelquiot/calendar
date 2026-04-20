@@ -2614,16 +2614,25 @@
     },
     {
         "date": "2026-04-27",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "title": "058 - Rattrapage anticipé 058",
+        "course_code": "Rostang",
+        "course_name": "Antoine",
+        "location": "Examen session 2",
+        "teacher": "Bureau de Mr Antoine ROSTANG - G2 dernier étage- Pharmaco-Toxicologie"
+    },
+    {
+        "date": "2026-04-27",
         "start_time": "10:35",
         "end_time": "12:30",
-        "title": "TD (jeu sérieux -Maladies ADE- Transmission vectorielles et autres)",
+        "title": "Travail en autonomie sur maladies de catégorie A des ruminants.",
         "course_code": "064",
         "course_name": "Réglementation sanitaire générale et maladies réglementées",
-        "location": "501 TD - Porte 501",
-        "teacher": "Loisel Léa",
-        "type": "Ruvoen Nathalie",
+        "location": "Loisel Léa",
+        "teacher": "Ruvoen Nathalie",
+        "type": "Travail personnel",
         "groups": [
-            "TD",
             "VET3-classe 5",
             "VET3-classe 6"
         ]
@@ -2809,11 +2818,11 @@
         "date": "2026-04-29",
         "start_time": "15:00",
         "end_time": "15:50",
-        "title": "Maladies réglementées des ruminants 3 + Maladies d'intérêt national",
+        "title": "Maladies réglementées ruminants 2 (Maladies vectorielles : FVR et FCO)",
         "course_code": "064",
         "course_name": "Réglementation sanitaire générale et maladies réglementées",
         "location": "Amphi Pierre Cuq",
-        "teacher": "Ruvoen Nathalie",
+        "teacher": "Bastian Suzanne",
         "type": "CM",
         "groups": [
             "VET3"
