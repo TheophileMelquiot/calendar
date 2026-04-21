@@ -2658,20 +2658,6 @@
     },
     {
         "date": "2026-04-27",
-        "start_time": "16:00",
-        "end_time": "16:50",
-        "title": "Données physiologiques de la reproduction chez les CNV",
-        "course_code": "069",
-        "course_name": "Médecine préventive des carnivores",
-        "location": "Amphi G2N",
-        "teacher": "GAGNON Anne-Claire",
-        "type": "CM Zoom",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-04-27",
         "start_time": "17:00",
         "end_time": "17:55",
         "title": "Préparation TD CAT face à troubles digestifs collectif 1",
