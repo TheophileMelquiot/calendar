@@ -2921,6 +2921,25 @@
         "type": "VET3"
     },
     {
+        "date": "2026-05-05",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "RESTITUTION PLAN D'ACTIONS SANTE MENTALE ETUDIANTS - par la DG",
+        "course_code": "Amphi",
+        "course_name": "Pierre Cuq",
+        "location": "Deflesselle Laurence",
+        "teacher": "Dubus Koulm",
+        "type": "Réunion",
+        "groups": [
+            "VET1",
+            "VET2",
+            "VET3",
+            "VET4",
+            "VET5",
+            "VET6"
+        ]
+    },
+    {
         "date": "2026-05-06",
         "start_time": "08:30",
         "end_time": "10:25",
@@ -3001,6 +3020,21 @@
         "course_name": "Réglementation sanitaire générale et maladies réglementées",
         "location": "e-learning",
         "teacher": "VET3"
+    },
+    {
+        "date": "2026-05-07",
+        "start_time": "08:30",
+        "end_time": "10:25",
+        "title": "TD15 session_2 Hypersensibilités",
+        "course_code": "067",
+        "course_name": "Anatomie pathologique cancérologie et pathologie générales",
+        "location": "501 TD - Porte 501",
+        "teacher": "Maisonnasse Pauline",
+        "type": "TD",
+        "groups": [
+            "VET3-classe 5",
+            "VET3-classe 6"
+        ]
     },
     {
         "date": "2026-05-07",
