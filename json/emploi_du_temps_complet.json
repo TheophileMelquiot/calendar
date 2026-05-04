@@ -2861,12 +2861,12 @@
         "date": "2026-05-04",
         "start_time": "16:00",
         "end_time": "16:50",
-        "title": "Cycles/Diagnostic de gestation 10",
+        "title": "pathologie génitale femelle 9",
         "course_code": "068",
         "course_name": "Reproduction",
         "location": "Amphi G2N",
-        "teacher": "Bencharif Djemil",
-        "type": "CM Zoom",
+        "teacher": "Bruyas Jean-François",
+        "type": "CM",
         "groups": [
             "VET3"
         ]
@@ -2899,12 +2899,12 @@
         "date": "2026-05-05",
         "start_time": "14:00",
         "end_time": "14:50",
-        "title": "pathologie génitale femelle 9",
+        "title": "Cycles/Diagnostic de gestation 10",
         "course_code": "068",
         "course_name": "Reproduction",
         "location": "Amphi G2N",
-        "teacher": "Bruyas Jean-François",
-        "type": "CM",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
         "groups": [
             "VET3"
         ]
@@ -3153,12 +3153,40 @@
         "date": "2026-05-12",
         "start_time": "14:00",
         "end_time": "14:50",
-        "title": "Cycles/Diagnostic de gestation 11",
-        "course_code": "068",
-        "course_name": "Reproduction",
-        "location": "Amphi G4",
-        "teacher": "Bencharif Djemil",
-        "type": "CM Zoom",
+        "title": "Sensibilisation aux maladies héréditaires chez les carnivores",
+        "course_code": "069",
+        "course_name": "Médecine préventive des carnivores",
+        "location": "Amphi Pierre Cuq",
+        "teacher": "Abitbol Marie",
+        "type": "CM",
+        "groups": [
+            "VET3"
+        ]
+    },
+    {
+        "date": "2026-05-12",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Sensibilisation aux maladies héréditaires chez les carnivores",
+        "course_code": "069",
+        "course_name": "Médecine préventive des carnivores",
+        "location": "Amphi Pierre Cuq",
+        "teacher": "Abitbol Marie",
+        "type": "CM",
+        "groups": [
+            "VET3"
+        ]
+    },
+    {
+        "date": "2026-05-12",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Sensibilisation aux maladies héréditaires chez les carnivores",
+        "course_code": "069",
+        "course_name": "Médecine préventive des carnivores",
+        "location": "Amphi Pierre Cuq",
+        "teacher": "Abitbol Marie",
+        "type": "CM",
         "groups": [
             "VET3"
         ]
@@ -3180,57 +3208,14 @@
     },
     {
         "date": "2026-05-13",
-        "start_time": "10:35",
-        "end_time": "12:30",
-        "title": "TD15 session_2 Hypersensibilités",
-        "course_code": "067",
-        "course_name": "Anatomie pathologique cancérologie et pathologie générales",
-        "location": "511 TD - Porte 511",
-        "teacher": "Maisonnasse Pauline",
-        "type": "TD",
-        "groups": [
-            "VET3-classe 5",
-            "VET3-classe 6"
-        ]
-    },
-    {
-        "date": "2026-05-13",
         "start_time": "14:00",
         "end_time": "14:50",
-        "title": "Sensibilisation aux maladies héréditaires chez les carnivores",
-        "course_code": "069",
-        "course_name": "Médecine préventive des carnivores",
-        "location": "Amphi Pierre Cuq",
-        "teacher": "Abitbol Marie",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-05-13",
-        "start_time": "15:00",
-        "end_time": "15:50",
-        "title": "Sensibilisation aux maladies héréditaires chez les carnivores",
-        "course_code": "069",
-        "course_name": "Médecine préventive des carnivores",
-        "location": "Amphi Pierre Cuq",
-        "teacher": "Abitbol Marie",
-        "type": "CM",
-        "groups": [
-            "VET3"
-        ]
-    },
-    {
-        "date": "2026-05-13",
-        "start_time": "16:00",
-        "end_time": "16:50",
-        "title": "Sensibilisation aux maladies héréditaires chez les carnivores",
-        "course_code": "069",
-        "course_name": "Médecine préventive des carnivores",
-        "location": "Amphi Pierre Cuq",
-        "teacher": "Abitbol Marie",
-        "type": "CM",
+        "title": "Cycles/Diagnostic de gestation 11",
+        "course_code": "068",
+        "course_name": "Reproduction",
+        "location": "Amphi G4",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
         "groups": [
             "VET3"
         ]
