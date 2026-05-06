@@ -2911,6 +2911,20 @@
     },
     {
         "date": "2026-05-05",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Cycles/Diagnostic de gestation 11",
+        "course_code": "068",
+        "course_name": "Reproduction",
+        "location": "Amphi G4",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET3"
+        ]
+    },
+    {
+        "date": "2026-05-05",
         "start_time": "17:00",
         "end_time": "17:30",
         "title": "patho digestive des petits ruminants (quizz)",
@@ -3207,26 +3221,12 @@
         "title": "Epidémiosurveillance et vigilance",
         "course_code": "064",
         "course_name": "Réglementation sanitaire générale et maladies réglementées",
-        "location": "202 TD - Porte n° 202",
+        "location": "511 TD - Porte 511",
         "teacher": "Ruvoen Nathalie",
         "type": "TD",
         "groups": [
             "VET3-classe 5",
             "VET3-classe 6"
-        ]
-    },
-    {
-        "date": "2026-05-13",
-        "start_time": "14:00",
-        "end_time": "14:50",
-        "title": "Cycles/Diagnostic de gestation 11",
-        "course_code": "068",
-        "course_name": "Reproduction",
-        "location": "Amphi G4",
-        "teacher": "Bencharif Djemil",
-        "type": "CM Zoom",
-        "groups": [
-            "VET3"
         ]
     },
     {
