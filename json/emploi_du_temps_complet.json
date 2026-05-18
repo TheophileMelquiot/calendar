@@ -3409,6 +3409,15 @@
         "location": "Examen session 1"
     },
     {
+        "date": "2026-05-28",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "title": "épreuve Floriane",
+        "course_code": "061",
+        "course_name": "Maladie des ruminants 1",
+        "location": "Examen session 1"
+    },
+    {
         "date": "2026-05-29",
         "start_time": "08:00",
         "end_time": "09:00",
@@ -3447,6 +3456,16 @@
             "Examen session 1 - VET3",
             "VET3"
         ]
+    },
+    {
+        "date": "2026-05-29",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "title": "068 - 30mn/module à confirmer",
+        "course_code": "068",
+        "course_name": "Reproduction",
+        "location": "Briand-Amirat Lamia",
+        "teacher": "Examen session 1"
     },
     {
         "date": "2026-06-01",
