@@ -3525,7 +3525,37 @@
         "date": "2026-06-02",
         "start_time": "13:30",
         "end_time": "15:30",
-        "title": "SESSION 1 UE 68 - 2 ET 4 modules",
+        "title": "SESSION 1 UE 68 - 4 modules 13h30 à 15h30",
+        "course_code": "068",
+        "course_name": "Reproduction",
+        "location": "700 INFO - Porte n° 700",
+        "teacher": "Briand-Amirat Lamia",
+        "type": "Examen session 1 - VET3",
+        "groups": [
+            "VET3"
+        ]
+    },
+    {
+        "date": "2026-06-02",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "title": "SESSION 1 UE 68 - 2 modules 13h30 à 14h30",
+        "course_code": "068",
+        "course_name": "Reproduction",
+        "location": "220 TD - Porte n° 220",
+        "teacher": "221 TD - Porte n° 221",
+        "type": "222 TD - Porte n° 222",
+        "groups": [
+            "Briand-Amirat Lamia",
+            "Examen session 1 - VET3",
+            "VET3"
+        ]
+    },
+    {
+        "date": "2026-06-02",
+        "start_time": "14:45",
+        "end_time": "16:15",
+        "title": "SESSION 1 UE 68 - 3 modules 14h45 à 16h15",
         "course_code": "068",
         "course_name": "Reproduction",
         "location": "220 TD - Porte n° 220",
@@ -3542,18 +3572,15 @@
     },
     {
         "date": "2026-06-02",
-        "start_time": "15:35",
-        "end_time": "17:35",
-        "title": "SESSION 1 UE 68 - 2 ou 3 modules",
+        "start_time": "16:30",
+        "end_time": "18:00",
+        "title": "SESSION 1 UE 68 - 3 modules 16h30 à 18h",
         "course_code": "068",
         "course_name": "Reproduction",
         "location": "220 TD - Porte n° 220",
         "teacher": "221 TD - Porte n° 221",
         "type": "222 TD - Porte n° 222",
         "groups": [
-            "700 INFO - Porte n° 700",
-            "702 INFO - Porte n° 702",
-            "704 INFO - Porte n° 704",
             "Briand-Amirat Lamia",
             "Examen session 1 - VET3",
             "VET3"
