@@ -3613,12 +3613,32 @@
     },
     {
         "date": "2026-06-23",
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "title": "Oral 058 - session 2 -floriane",
+        "course_code": "058",
+        "course_name": "Pharmacologie des antiparasitaires antibiotiques et antifongiques",
+        "location": "Rostang Antoine",
+        "teacher": "Examen session 2"
+    },
+    {
+        "date": "2026-06-23",
         "start_time": "16:00",
         "end_time": "17:00",
         "title": "Oral 068 - session 2 Floriane",
         "course_code": "068",
         "course_name": "Reproduction",
         "location": "Briand-Amirat Lamia",
+        "teacher": "Examen session 2"
+    },
+    {
+        "date": "2026-06-24",
+        "start_time": "13:30",
+        "end_time": "15:00",
+        "title": "écrit 064 - Floriane",
+        "course_code": "064",
+        "course_name": "Réglementation sanitaire générale et maladies réglementées",
+        "location": "Ruvoen Nathalie",
         "teacher": "Examen session 2"
     },
     {
