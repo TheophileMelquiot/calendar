@@ -1,1 +1,545 @@
-[]
+[
+    {
+        "date": "2026-08-27",
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "title": "Présentation VET4,5,6 accueil, SST, gardes et astreintes, CHUV",
+        "course_code": "Amphi_AH_Pierre",
+        "course_name": "Cuq_Chan",
+        "location": "Grand Hall d Accueil Administration C",
+        "teacher": "Accueil",
+        "type": "VET4",
+        "groups": [
+            "VET5",
+            "VET6"
+        ]
+    },
+    {
+        "date": "2026-08-27",
+        "start_time": "16:00",
+        "end_time": "17:00",
+        "title": "Présentation de l'UE  Avoir vu la présentation de l'UE  sur connect",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Assié Sébastien",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-08-28",
+        "start_time": "10:00",
+        "end_time": "12:00",
+        "title": "Rentrée VET4",
+        "course_code": "Amphi_AH_Pierre",
+        "course_name": "Cuq_Chan",
+        "location": "Grand Hall d Accueil Administration C",
+        "teacher": "Accueil",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-08-28",
+        "start_time": "16:00",
+        "end_time": "17:00",
+        "title": "Film d'animation à visionner avant le CM du 02/09 Aquaculture Filière Truite arc -en ciel",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Calvez Ségolène",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-08-31",
+        "start_time": "07:30",
+        "end_time": "08:30",
+        "title": "Avoir vu la présentation de l'UE",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Assié Sébastien",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-08-31",
+        "start_time": "08:30",
+        "end_time": "09:20",
+        "title": "Introduction & UV Plasties et lambeaux cutanés",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Aguado Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-08-31",
+        "start_time": "09:30",
+        "end_time": "10:20",
+        "title": "UV Plasties et lambeaux cutanés",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Aguado Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-08-31",
+        "start_time": "10:35",
+        "end_time": "11:25",
+        "title": "Dermatologie non tumorale",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-08-31",
+        "start_time": "11:35",
+        "end_time": "12:25",
+        "title": "Dermatologie non tumorale",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-08-31",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Ectoparasitoses des bovins et des petits ruminants 1",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Agoulon Albert",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-08-31",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "CM Présentation de l'UE",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-08-31",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Généralités Avortement",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-08-31",
+        "start_time": "17:05",
+        "end_time": "18:05",
+        "title": "Film d'animation à visionner avant le CM du 03/09/25 Aquaculture Filière Truite arc -en ciel",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Calvez Ségolène",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-01",
+        "start_time": "08:30",
+        "end_time": "09:20",
+        "title": "Ectoparasitoses des bovins et des petits ruminants 2",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Agoulon Albert",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-01",
+        "start_time": "09:30",
+        "end_time": "10:20",
+        "title": "Parasitoses tissulaire (cestodoses larvaires, sarcosporidioses...)",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Ravinet Nadine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-01",
+        "start_time": "10:35",
+        "end_time": "11:25",
+        "title": "Endocrinologie 1 Présentation UE - Diabète sucré",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Sénécat Odile",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-01",
+        "start_time": "11:35",
+        "end_time": "12:25",
+        "title": "Endocrinologie diabète sucré 2 - insulinothérapie",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Sénécat Odile",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-01",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "CM Objectifs de l'UE",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Beaugrand Florence",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-01",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "CM Pathologie clinique -Appareil d'hématologie",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Soetart Nicolas",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-01",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Généralités Avortement",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-01",
+        "start_time": "17:00",
+        "end_time": "19:00",
+        "title": "Parasitoses tissulaires (cestodoseslarvaires, sarcosporidioses",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-02",
+        "start_time": "08:30",
+        "end_time": "09:20",
+        "title": "Pathologie hépathique",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-02",
+        "start_time": "09:30",
+        "end_time": "10:20",
+        "title": "Pathologie hépathique",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-02",
+        "start_time": "10:35",
+        "end_time": "11:25",
+        "title": "Elements de traumatologie générale 1",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Maitre Pierre",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-02",
+        "start_time": "11:35",
+        "end_time": "12:25",
+        "title": "Elements de traumatologie générale 2",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Maitre Pierre",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-02",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "CM Entrepreunariat MPL",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Beaugrand Florence",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-02",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "CM Entrepreunariat MPL",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Beaugrand Florence",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-02",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Maladies d'élevage",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Bencharif Djemil",
+        "teacher": "CM Zoom",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-02",
+        "start_time": "17:00",
+        "end_time": "18:00",
+        "title": "Démarche nécroscopique à regarder avant le 1er TP   de la semaine 38",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Calvez Ségolène",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-03",
+        "start_time": "08:30",
+        "end_time": "09:20",
+        "title": "Aquaculture  Filieres-",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Calvez Ségolène",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-03",
+        "start_time": "09:30",
+        "end_time": "10:20",
+        "title": "Aquaculture Filière Truite arc en ciel",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Calvez Ségolène",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-03",
+        "start_time": "10:35",
+        "end_time": "11:25",
+        "title": "Tumeurs buccales et gastro -intestinale",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-03",
+        "start_time": "11:35",
+        "end_time": "12:25",
+        "title": "Tumeurs buccales et gastro -intestinale",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-04",
+        "start_time": "08:30",
+        "end_time": "09:20",
+        "title": "Pathologie de l'appareil respiratoire des bovins 1",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Assié Sébastien",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-04",
+        "start_time": "09:30",
+        "end_time": "10:20",
+        "title": "Pathologie de l'appareil respiratoire des bovins 2",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Assié Sébastien",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-04",
+        "start_time": "10:35",
+        "end_time": "11:25",
+        "title": "Aquaculture médicament role du vétérinaire  -",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Calvez Ségolène",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-04",
+        "start_time": "11:35",
+        "end_time": "12:25",
+        "title": "Aquaculture maladies",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Calvez Ségolène",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-04",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Sémiologie radiographie osseuse 1",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Fusellier Marion",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-04",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Sémiologie radiographie osseuse 2",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Fusellier Marion",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-05",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "title": "Ectoparasitoses des bovins et des petits ruminants",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-05",
+        "start_time": "11:05",
+        "end_time": "13:05",
+        "title": "EL Entrepreneuriat 1- DDL",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Beaugrand Florence",
+        "teacher": "e-learning",
+        "type": "VET4"
+    }
+]
