@@ -118,7 +118,7 @@
         "date": "2026-08-31",
         "start_time": "14:00",
         "end_time": "14:50",
-        "title": "Ectoparasitoses des bovins et des petits ruminants 1",
+        "title": "Ectoparasitoses des bovins et des petits ruminants 2",
         "course_code": "071",
         "course_name": "maladies des Ruminants 2",
         "location": "Amphi G2S_Chan",
@@ -189,7 +189,7 @@
         "course_code": "071",
         "course_name": "maladies des Ruminants 2",
         "location": "Amphi G2S_Chan",
-        "teacher": "Ravinet Nadine",
+        "teacher": "Chauvin Alain",
         "type": "CM",
         "groups": [
             "VET4"
