@@ -541,5 +541,334 @@
         "location": "Beaugrand Florence",
         "teacher": "e-learning",
         "type": "VET4"
+    },
+    {
+        "date": "2026-09-07",
+        "start_time": "08:30",
+        "end_time": "10:20",
+        "title": "Démarche nécroscopique chez la truite arc en ciel",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "402_TP_salle-Chan",
+        "teacher": "Calvez Ségolène",
+        "type": "TP",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-07",
+        "start_time": "10:35",
+        "end_time": "12:25",
+        "title": "Ectoparasitoses des bovins et des petits ruminants",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "206_modulaire_salle-Chan",
+        "teacher": "Agoulon Albert",
+        "type": "TD",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-07",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "CM- Pathologie Clinique hépatique 1/3",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-07",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "CM- Pathologie Clinique hépatique 2/3",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-07",
+        "start_time": "16:05",
+        "end_time": "16:55",
+        "title": "Traitement medical et chirurgical des plaies",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Maitre Pierre",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-07",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "Pathologie de l'appareil respiratoire des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-08",
+        "start_time": "08:30",
+        "end_time": "09:20",
+        "title": "Maladies d'élevage",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-08",
+        "start_time": "09:30",
+        "end_time": "10:20",
+        "title": "Maladies d'élevage",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-08",
+        "start_time": "10:35",
+        "end_time": "11:25",
+        "title": "Vache Laitière 1/2",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-08",
+        "start_time": "11:35",
+        "end_time": "12:25",
+        "title": "Vache Laitière 2/2",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-08",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Aviculture -zootechnique 1",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Navarro-Gonzalez Nora",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-08",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "URO-néphrologie  Maladies rénales chroniques",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Drut Amandine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-08",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "URO néphro : ABAU - Lithiases bas appareil urinaire -",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Drut Amandine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-08",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "Pathologie de l'appareil respiratoire des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-09",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 081)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Ibisch Catherine",
+        "type": "Cliniques",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-09",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "CM- Pathologie Clinique- hépathique 1/3",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-09",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Aviculture zootechnie 2- N. Navarro Gonzalez",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Navarro-Gonzalez Nora",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-09",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Helminthoses respiratoires",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Ravinet Nadine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-09",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "e-learning",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-11",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 081)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Ibisch Catherine",
+        "type": "Cliniques",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-11",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Post partum",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Briand-Amirat Lamia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-11",
+        "start_time": "14:55",
+        "end_time": "15:45",
+        "title": "Post partum",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Briand-Amirat Lamia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-11",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Aviculture alimentation 1- M.PINSON",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "CM",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-11",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "EL Business plan DDL",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Beaugrand Florence",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-12",
+        "start_time": "09:50",
+        "end_time": "11:50",
+        "title": "Vidéos de pathologie digestive",
+        "course_code": "",
+        "course_name": "e-learning",
+        "location": "VET4"
     }
 ]
