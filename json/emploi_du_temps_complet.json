@@ -870,5 +870,309 @@
         "course_code": "",
         "course_name": "e-learning",
         "location": "VET4"
+    },
+    {
+        "date": "2026-09-14",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie de l'appareil respiratoire des bovins 3-",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Assié Sébastien",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-14",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie gestation",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Bruyas Jean-François",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-14",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "URO néphro : Lithiases haut appareil urinaire -",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Drut Amandine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-14",
+        "start_time": "18:00",
+        "end_time": "18:50",
+        "title": "EL Responsabilité sociétale DDL 16/11/2026",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Beaugrand Florence",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-15",
+        "start_time": "08:30",
+        "end_time": "09:20",
+        "title": "Maladies d'élevage",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-15",
+        "start_time": "09:30",
+        "end_time": "10:20",
+        "title": "Maladies d'élevage",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-15",
+        "start_time": "10:30",
+        "end_time": "11:20",
+        "title": "Dysplasie du coude",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Goyenvalle Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-15",
+        "start_time": "11:35",
+        "end_time": "12:25",
+        "title": "Dysplasie de la hanche",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Goyenvalle Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-15",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Protozooses abortives (bovins et petits ruminants)",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Ravinet Nadine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-15",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Hypoglycemie et fin de diabète suré",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Sénécat Odile",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-15",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Hypothyroïdie",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Sénécat Odile",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-15",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "EL Dilemmes et paradoxes DDL 16/11/26",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Beaugrand Florence",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-16",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Nutrition et Obésité",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Debruille Agathe",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-16",
+        "start_time": "15:05",
+        "end_time": "15:55",
+        "title": "Nutrition et diabète sucré",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Debruille Agathe",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-16",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Aviculture alimentation 1- M. PINSON",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "CM",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-16",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "Pathologie de l'appareil respiratoire des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-17",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 081)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Cliniques",
+        "type": "VET4-7",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-17",
+        "start_time": "17:55",
+        "end_time": "18:55",
+        "title": "Endocrinologie   1h e-learning : travail personnel",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Sénécat Odile",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-18",
+        "start_time": "10:35",
+        "end_time": "12:25",
+        "title": "TD 1 Pathologie de l'appareil respiratoire des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "222_TD/ info_salle-Chan",
+        "teacher": "Assié Sébastien",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-18",
+        "start_time": "13:55",
+        "end_time": "14:45",
+        "title": "Nutrition des maladies rénales 1",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Debruille Agathe",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-18",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Nutrition des maladies rénales 2",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Debruille Agathe",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-18",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Post partum",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Briand-Amirat Lamia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-18",
+        "start_time": "17:50",
+        "end_time": "18:50",
+        "title": "Nutrition : tests d'auto-formation",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Debruille Agathe",
+        "teacher": "e-learning",
+        "type": "VET4"
     }
 ]
