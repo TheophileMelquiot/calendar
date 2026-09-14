@@ -1174,5 +1174,351 @@
         "location": "Debruille Agathe",
         "teacher": "e-learning",
         "type": "VET4"
+    },
+    {
+        "date": "2026-09-21",
+        "start_time": "08:30",
+        "end_time": "10:25",
+        "title": "Hématologie séance 1",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "700_info_salle-Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "TP",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-21",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologies respiratoire 1",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Abadie Jérôme",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-21",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologies respiratoire 1",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Abadie Jérôme",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-21",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Pathologie gestation",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bruyas Jean-François",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-21",
+        "start_time": "17:00",
+        "end_time": "17:50",
+        "title": "CM- Pestes aviaires",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Ruvoen Nathalie",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-21",
+        "start_time": "18:00",
+        "end_time": "20:00",
+        "title": "Vidéos de pathologie digestive à visionner avant le TD",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-22",
+        "start_time": "08:35",
+        "end_time": "09:25",
+        "title": "Hémopathies malignes",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-22",
+        "start_time": "09:30",
+        "end_time": "10:20",
+        "title": "Hémopathies malignes",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-22",
+        "start_time": "10:35",
+        "end_time": "11:25",
+        "title": "Exploration hémostas",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-22",
+        "start_time": "11:35",
+        "end_time": "12:25",
+        "title": "Troubles de la coagulation",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-22",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie gestation",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bruyas Jean-François",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-22",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Endocrinologie Hypercorticisme-",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "MERIC Tristan",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-22",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Pathologie des petits ruminants 2-1",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Relun Anne",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-22",
+        "start_time": "17:00",
+        "end_time": "17:50",
+        "title": "CM -Pestes aviaires",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Ruvoen Nathalie",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-22",
+        "start_time": "18:00",
+        "end_time": "20:00",
+        "title": "Vidéos de pathologie digestive-à visionner avant le TD",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-23",
+        "start_time": "10:35",
+        "end_time": "12:25",
+        "title": "TD Nutrition",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "221_TD/ info_salle-Chan",
+        "teacher": "Debruille Agathe",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-23",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Affections osseuses microbiennes",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Goyenvalle Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-23",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Affections osseuses non microbiennes",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Goyenvalle Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-23",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "FeLV/FIV : conséquences hématologiques",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-23",
+        "start_time": "17:30",
+        "end_time": "19:20",
+        "title": "EL Statuts de société DDL 16/11/2026",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-24",
+        "start_time": "10:35",
+        "end_time": "12:25",
+        "title": "Pathologie clinique séance 1",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "218_salle-Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "TD",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-24",
+        "start_time": "17:00",
+        "end_time": "19:00",
+        "title": "Vidéos de pathologie digestive- à visionner avant le TD",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-25",
+        "start_time": "08:30",
+        "end_time": "10:20",
+        "title": "TD 2 Pathologie de l'appareil respiratoire des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "220_TD/ info_salle-Chan",
+        "teacher": "Guatteo Raphaël",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-25",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie cardiovasculaire",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Colle Marie-Anne",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-25",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie cardiovasculaire",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Colle Marie-Anne",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-25",
+        "start_time": "17:00",
+        "end_time": "18:00",
+        "title": "Vidéos de pathologie digestive- à visionner avant le TD",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "e-learning",
+        "teacher": "VET4"
     }
 ]
