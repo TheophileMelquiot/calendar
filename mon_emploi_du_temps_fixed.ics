@@ -2,1154 +2,1354 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: VET4\nIntervenant: e-learning\nSalle: Beaugrand Florence\nCode: \nGroupes: 
-DTEND:20260911T170000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Beaugrand Florence - e-learning
-DTSTART:20260911T160000Z
-SUMMARY: VET4 - 073- Practice management - Déontologie et entreprenariat - EL Business plan DDL
-UID:614ea043-16b6-4dc0-95ba-238972e5763f@614e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Relun Anne\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
-DTEND:20260922T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Relun Anne
-DTSTART:20260922T140000Z
-SUMMARY:071 CM - maladies des Ruminants 2 - Pathologie des petits ruminants 2-1
-UID:add012ff-e909-4ae3-9045-c5c490ba78e3@add0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260901T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Bencharif Djemil
-DTSTART:20260901T140000Z
-SUMMARY:075 CM Zoom - - Obstétrique - Généralités Avortement
-UID:a97ee5a5-aff3-4d10-b2f5-eb8f8e74d266@a97e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260918T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Debruille Agathe
-DTSTART:20260918T130000Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - Nutrition des maladies rénales 2
-UID:6ca5ee41-910b-4c7e-9c02-1d6eb2aaef55@6ca5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Briand-Amirat Lamia\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260911T134500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Briand-Amirat Lamia
-DTSTART:20260911T125500Z
-SUMMARY:075 CM - - Obstétrique - Post partum
-UID:5ea289ed-53ea-4219-aa0a-cfcbc386b195@5ea2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Sénécat Odile\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260915T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Sénécat Odile
-DTSTART:20260915T130000Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - Hypoglycemie et fin de diabète suré
-UID:ad472a03-ded6-4384-8a02-6c3aeea16580@ad47.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260907T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
-DTSTART:20260907T130000Z
-SUMMARY:072 CM - - Pathologie Clinique - CM- Pathologie Clinique hépatique 2/3
-UID:e1ad0c09-29d2-4d28-b4d0-81c5d04ba4ca@e1ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
-DTEND:20260905T083000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260905T063000Z
-SUMMARY:071  - maladies des Ruminants 2 - Ectoparasitoses des bovins et des petits ruminants
-UID:d8a8954f-5fc1-4a76-9ab2-61cd6de7b713@d8a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Soetart Nicolas\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260901T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Soetart Nicolas
-DTSTART:20260901T130000Z
-SUMMARY:072 CM - - Pathologie Clinique - CM Pathologie clinique -Appareil d'hématologie
-UID:7dc8f3b7-5df8-408f-9b7f-f7159bf4bf2e@7dc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
-DTEND:20260923T172000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260923T153000Z
-SUMMARY:  - 073- Practice management - Déontologie et entreprenariat - EL Statuts de société DDL 16/11/2026
-UID:4e39a032-4ddf-46b7-b8c5-65d2e87c855c@4e39.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Cuq_Chan\nType: VET4\nIntervenant: Accueil\nSalle: Grand Hall d Accueil Administration C\nCode: Amphi_AH_Pierre\nGroupes: VET5\, VET6
-DTEND:20260827T083000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Grand Hall d Accueil Administration C - Accueil
-DTSTART:20260827T073000Z
-SUMMARY:Amphi_AH_Pierre VET4 - Cuq_Chan - Présentation VET4\,5\,6 accueil\, SST\, gardes et astreintes\, CHUV
-UID:d701eac5-43d3-4904-b2eb-295ff26aa192@d701.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Ruvoen Nathalie\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
-DTEND:20260921T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Ruvoen Nathalie
-DTSTART:20260921T140000Z
-SUMMARY:074 CM - Production et médecine avicole et piscicole - CM- Pestes aviaires
-UID:a955a53e-935e-4c1e-b2b9-d83d0a93ffab@a955.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: TD\nIntervenant: Agoulon Albert\nSalle: 206_modulaire_salle-Chan\nCode: 071\nGroupes: VET4-8
-DTEND:20260907T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:206_modulaire_salle-Chan - Agoulon Albert
-DTSTART:20260907T083500Z
-SUMMARY:071 TD - maladies des Ruminants 2 - Ectoparasitoses des bovins et des petits ruminants
-UID:162afaab-92c0-4929-a1d5-b57cf569edd7@162a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260909T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
-DTSTART:20260909T120000Z
-SUMMARY:072 CM - - Pathologie Clinique - CM- Pathologie Clinique- hépathique 1/3
-UID:3b7fcd83-11fc-4a64-8f43-f3b17d667d06@3b7f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
-DTEND:20260901T170000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260901T150000Z
-SUMMARY:071  - maladies des Ruminants 2 - Parasitoses tissulaires (cestodoseslarvaires\, sarcosporidioses
-UID:c47a2c0e-57d2-4d1f-b9ee-13a12a1207b4@c47a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260902T082000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Nguyen Frédérique
-DTSTART:20260902T073000Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie hépathique
-UID:9f1d24f1-5b41-4e3c-80a8-832408f4f951@9f1d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260923T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Nguyen Frédérique
-DTSTART:20260923T140000Z
-SUMMARY:072 CM - - Pathologie Clinique - FeLV/FIV : conséquences hématologiques
-UID:5f19b639-1116-4228-9483-40a97d800751@5f19.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Maitre Pierre\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260902T092500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Maitre Pierre
-DTSTART:20260902T083500Z
-SUMMARY:076 CM - Pathologie chirurgicale - Elements de traumatologie générale 1
-UID:c6545912-1404-414f-9aa1-c4406e65995e@c654.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Cuq_Chan\nType: VET4\nIntervenant: Accueil\nSalle: Grand Hall d Accueil Administration C\nCode: Amphi_AH_Pierre\nGroupes: 
-DTEND:20260828T100000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Grand Hall d Accueil Administration C - Accueil
-DTSTART:20260828T080000Z
-SUMMARY:Amphi_AH_Pierre VET4 - Cuq_Chan - Rentrée VET4
-UID:94553a54-e7c3-43b7-98bf-2b2849cd3fa7@9455.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Agoulon Albert\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
-DTEND:20260831T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Agoulon Albert
-DTSTART:20260831T120000Z
-SUMMARY:071 CM - maladies des Ruminants 2 - Ectoparasitoses des bovins et des petits ruminants 2
-UID:099024cd-89ca-4159-81dc-ec3271013155@0990.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260922T072500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Nguyen Frédérique
-DTSTART:20260922T063500Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Hémopathies malignes
-UID:4a54087d-fdcf-4bf2-b6a0-62db186989c7@4a54.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
-DTEND:20260908T170000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260908T160000Z
-SUMMARY:071  - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins
-UID:a4f4474f-b4b3-4339-92bc-2459af2cda50@a4f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Goyenvalle Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260915T092000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Goyenvalle Eric
-DTSTART:20260915T083000Z
-SUMMARY:076 CM - Pathologie chirurgicale - Dysplasie du coude
-UID:ac730841-ffd9-47d6-9356-1afeea3866ba@ac73.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Goyenvalle Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260923T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Goyenvalle Eric
-DTSTART:20260923T130000Z
-SUMMARY:076 CM - Pathologie chirurgicale - Affections osseuses non microbiennes
-UID:a05934a2-7f0d-4dc8-8816-d396b6e58c58@a059.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Briand-Amirat Lamia\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260911T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Briand-Amirat Lamia
-DTSTART:20260911T120000Z
-SUMMARY:075 CM - - Obstétrique - Post partum
-UID:c98ac8f5-0daa-4785-b24e-b9b2a6da78c2@c98a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Ravinet Nadine\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 071\nGroupes: VET4
-DTEND:20260915T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Ravinet Nadine
-DTSTART:20260915T120000Z
-SUMMARY:071 CM - maladies des Ruminants 2 - Protozooses abortives (bovins et petits ruminants)
-UID:786fbd53-15a2-4ae3-aa89-6c152566473a@786f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Calvez Ségolène\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
-DTEND:20260904T092500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Calvez Ségolène
-DTSTART:20260904T083500Z
-SUMMARY:074 CM - Production et médecine avicole et piscicole - Aquaculture médicament role du vétérinaire  -
-UID:2e87820b-efce-4a88-9b86-7b0c8b6da291@2e87.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260921T155000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Bencharif Djemil
-DTSTART:20260921T150000Z
-SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
-UID:6b1a3b70-b011-44f4-a1d7-a3b81ccc07a7@6b1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: VET4\nIntervenant: e-learning\nSalle: Debruille Agathe\nCode: 077\nGroupes: 
-DTEND:20260918T165000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Debruille Agathe - e-learning
-DTSTART:20260918T155000Z
-SUMMARY:077 VET4 - - Pathologie des carnivores 1 - Nutrition : tests d'auto-formation
-UID:ad1e0236-f2d8-4ef1-b3fc-5bd5b99b1fdf@ad1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260915T082000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Bencharif Djemil
-DTSTART:20260915T073000Z
-SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
-UID:fa9adeda-854e-4f8e-8893-babc898a48a7@fa9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260907T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
-DTSTART:20260907T120000Z
-SUMMARY:072 CM - - Pathologie Clinique - CM- Pathologie Clinique hépatique 1/3
-UID:eb6c7067-123d-42f5-8485-d4a1b23800a7@eb6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
-DTEND:20260907T170000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260907T160000Z
-SUMMARY:071  - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins
-UID:9aeee760-1822-4bf6-8efa-a6d1adaf9e2e@9aee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260908T082000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Bencharif Djemil
-DTSTART:20260908T073000Z
-SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
-UID:d559a83c-c565-4bd9-bc65-1f46208dd424@d559.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: SI1 - stage infirmier 1  (rattaché à l'UE 081)\nType: VET4-7\nIntervenant: Cliniques\nSalle: CHUV\nCode: 0701\nGroupes: VET4-8
-DTEND:20260917T103000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:CHUV - Cliniques
-DTSTART:20260917T063000Z
-SUMMARY:0701 VET4-7 - SI1 - stage infirmier 1  (rattaché à l'UE 081) - SI1 (UE 081)
-UID:bdea7a3f-072b-4e45-8108-a9f270604d93@bdea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Aguado Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260831T082000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Aguado Eric
-DTSTART:20260831T073000Z
-SUMMARY:076 CM - Pathologie chirurgicale - UV Plasties et lambeaux cutanés
-UID:97e9d3b4-0fa7-4461-a658-fafac40acbd1@97e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
-DTEND:20260921T180000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260921T160000Z
-SUMMARY:  - 078- Anatomie Pathologie et Cancérologie Spéciales - Vidéos de pathologie digestive à visionner avant le TD
-UID:f48e74d9-d129-432f-b20c-b4fe1485172e@f48e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 074\nGroupes: 
-DTEND:20260909T170000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260909T160000Z
-SUMMARY:074  - Production et médecine avicole et piscicole - e-learning
-UID:5b7038c2-8897-4796-b58c-2ad49391776c@5b70.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Navarro-Gonzalez Nora\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
-DTEND:20260908T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Navarro-Gonzalez Nora
-DTSTART:20260908T120000Z
-SUMMARY:074 CM - Production et médecine avicole et piscicole - Aviculture -zootechnique 1
-UID:a4a2c0e6-4ee2-496f-ad31-2a9ab402885e@a4a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Sénécat Odile\nSalle: Amphi G2S_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260901T092500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Sénécat Odile
-DTSTART:20260901T083500Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - Endocrinologie 1 Présentation UE - Diabète sucré
-UID:69406a77-b89c-4c3c-b44c-66d64a9a2b5c@6940.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260831T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Bencharif Djemil
-DTSTART:20260831T140000Z
-SUMMARY:075 CM Zoom - - Obstétrique - Généralités Avortement
-UID:8e0196e8-826b-4288-ae2e-afd6d6e58c86@8e01.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Colle Marie-Anne\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260925T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Colle Marie-Anne
-DTSTART:20260925T120000Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie cardiovasculaire
-UID:7e43f0d8-1af7-499b-8da6-8963c150f025@7e43.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Agoulon Albert\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
-DTEND:20260901T072000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Agoulon Albert
-DTSTART:20260901T063000Z
-SUMMARY:071 CM - maladies des Ruminants 2 - Ectoparasitoses des bovins et des petits ruminants 2
-UID:81bcf6bb-a81b-450b-953e-d8770acfd7db@81bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: VET4\nIntervenant: CM reporté\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 074\nGroupes: 
-DTEND:20260916T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - CM reporté
-DTSTART:20260916T140000Z
-SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Reporté au 30/09-Aviculture alimentation 1- M. PINSON
-UID:13a26917-6d75-43b9-b49b-13ef55f31aa7@13a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Briand-Amirat Lamia\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260918T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Briand-Amirat Lamia
-DTSTART:20260918T140000Z
-SUMMARY:075 CM - - Obstétrique - Post partum
-UID:c8c35524-14de-4c94-a08c-e74f1afe8381@c8c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Assié Sébastien\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
-DTEND:20260904T082000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Assié Sébastien
-DTSTART:20260904T073000Z
-SUMMARY:071 CM - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins 2
-UID:00ead3c5-f76a-4767-ba6c-2573c3157344@00ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260903T092500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Nguyen Frédérique
-DTSTART:20260903T083500Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Tumeurs buccales et gastro -intestinale
-UID:ffa42852-ab64-4ee2-8522-5842eade2dea@ffa4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Fusellier Marion\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260904T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Fusellier Marion
-DTSTART:20260904T120000Z
-SUMMARY:076 CM - Pathologie chirurgicale - Sémiologie radiographie osseuse 1
-UID:86fdb7e7-f88d-4041-9f56-8d03133a52d9@86fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: SI1 - stage infirmier 1  (rattaché à l'UE 081)\nType: Cliniques\nIntervenant: Ibisch Catherine\nSalle: CHUV\nCode: 0701\nGroupes: VET4-7\, VET4-8
-DTEND:20260909T103000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:CHUV - Ibisch Catherine
-DTSTART:20260909T063000Z
-SUMMARY:0701 Cliniques - SI1 - stage infirmier 1  (rattaché à l'UE 081) - SI1 (UE 081)
-UID:59705b87-b68e-4a1a-991d-30b2e954da64@5970.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260916T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Debruille Agathe
-DTSTART:20260916T120000Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - Nutrition et Obésité
-UID:18eb25d9-ddc1-4344-a064-4514167bb959@18eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: CM\nIntervenant: Beaugrand Florence\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260902T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Beaugrand Florence
-DTSTART:20260902T120000Z
-SUMMARY: CM - 073- Practice management - Déontologie et entreprenariat - CM Entrepreunariat MPL
-UID:78c0b890-ac7d-4e78-b2ee-e55fda5efe0f@78c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: TD\nIntervenant: Jaillardon Laëtitia\nSalle: 218_salle-Chan\nCode: 072\nGroupes: VET4-8
-DTEND:20260924T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:218_salle-Chan - Jaillardon Laëtitia
-DTSTART:20260924T083500Z
-SUMMARY:072 TD - - Pathologie Clinique - Pathologie clinique séance 1
-UID:2edbbe03-df1e-44e7-a1a9-275414641368@2edb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260908T092500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
-DTSTART:20260908T083500Z
-SUMMARY:072 CM - - Pathologie Clinique - Vache Laitière 1/2
-UID:9a1e8135-5870-4311-a746-2db01a583326@9a1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: TP\nIntervenant: Nguyen Frédérique\nSalle: 700_info_salle-Chan\nCode: 072\nGroupes: VET4-8
-DTEND:20260921T082500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:700_info_salle-Chan - Nguyen Frédérique
-DTSTART:20260921T063000Z
-SUMMARY:072 TP - - Pathologie Clinique - Hématologie séance 1
-UID:a9e60d08-3916-42cb-94fb-5e761da228c2@a9e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260902T072000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Nguyen Frédérique
-DTSTART:20260902T063000Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie hépathique
-UID:2fb680ca-de68-4543-a7f2-8cd3550f6f54@2fb6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: VET4\nIntervenant: e-learning\nSalle: Beaugrand Florence\nCode: \nGroupes: 
-DTEND:20260914T165000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Beaugrand Florence - e-learning
-DTSTART:20260914T160000Z
-SUMMARY: VET4 - 073- Practice management - Déontologie et entreprenariat - EL Responsabilité sociétale DDL 16/11/2026
-UID:27c84151-fe1b-4bc4-b567-4854cb8b6d97@27c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260908T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
-DTSTART:20260908T093500Z
-SUMMARY:072 CM - - Pathologie Clinique - Vache Laitière 2/2
-UID:e5577f70-65ea-4b67-b2fc-dcdba1c5b014@e557.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
-DTEND:20260916T170000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260916T160000Z
-SUMMARY:071  - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins
-UID:9652e22d-60dd-44d3-9521-86ab8d5572de@9652.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: TD\nIntervenant: Assié Sébastien\nSalle: 222_TD/ info_salle-Chan\nCode: 071\nGroupes: VET4-7\, VET4-8
-DTEND:20260918T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:222_TD/ info_salle-Chan - Assié Sébastien
-DTSTART:20260918T083500Z
-SUMMARY:071 TD - maladies des Ruminants 2 - TD 1 Pathologie de l'appareil respiratoire des bovins
-UID:4863a32b-ab65-40ef-8f22-7214038b7c75@4863.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Calvez Ségolène\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
-DTEND:20260904T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Calvez Ségolène
-DTSTART:20260904T093500Z
-SUMMARY:074 CM - Production et médecine avicole et piscicole - Aquaculture maladies
-UID:64e3acb6-66f0-42d6-b904-30140c9d2886@64e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Maitre Pierre\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260907T145500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Maitre Pierre
-DTSTART:20260907T140500Z
-SUMMARY:076 CM - Pathologie chirurgicale - Traitement medical et chirurgical des plaies
-UID:5843f4df-96ad-4491-8a01-2c8741b5536e@5843.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Drut Amandine\nSalle: Amphi G2S_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260908T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Drut Amandine
-DTSTART:20260908T140000Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - URO néphro : ABAU - Lithiases bas appareil urinaire -
-UID:90a7fcc2-5a38-49f0-90ab-58d8f50a0a9e@90a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Colle Marie-Anne\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260925T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Colle Marie-Anne
-DTSTART:20260925T130000Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie cardiovasculaire
-UID:d6dfacc1-01e9-4406-b7fa-d0d1ded78480@d6df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: VET4\nIntervenant: e-learning\nSalle: Assié Sébastien\nCode: 071\nGroupes: 
-DTEND:20260827T150000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Assié Sébastien - e-learning
-DTSTART:20260827T140000Z
-SUMMARY:071 VET4 - maladies des Ruminants 2 - Présentation de l'UE  Avoir vu la présentation de l'UE  sur connect
-UID:55e45c4a-d671-4b8f-84a8-72a10bee5cd7@55e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: VET4\nIntervenant: CM Zoom\nSalle: Bencharif Djemil\nCode: 075\nGroupes: 
-DTEND:20260902T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Bencharif Djemil - CM Zoom
-DTSTART:20260902T140000Z
-SUMMARY:075 VET4 - - Obstétrique - Maladies d'élevage
-UID:59980917-c25b-479e-ab8e-ce1b134e29f5@5998.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Aguado Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260831T072000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Aguado Eric
-DTSTART:20260831T063000Z
-SUMMARY:076 CM - Pathologie chirurgicale - Introduction & UV Plasties et lambeaux cutanés
-UID:b7ca23a0-736a-4256-b922-7389f4fc8362@b7ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260918T124500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Debruille Agathe
-DTSTART:20260918T115500Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - Nutrition des maladies rénales 1
-UID:401d8f86-bca1-4728-abc6-7faefa0c5b6f@401d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Drut Amandine\nSalle: Amphi G2S_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260908T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Drut Amandine
-DTSTART:20260908T130000Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - URO-néphrologie  Maladies rénales chroniques
-UID:6c97bf42-eee7-44c1-ac9e-751eb03243ca@6c97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: VET4\nIntervenant: CM\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: 
-DTEND:20260911T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - CM
-DTSTART:20260911T140000Z
-SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Aviculture alimentation 1- M.PINSON
-UID:ae3aee4a-2630-4c56-93bb-5ddc5e9e42e4@ae3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: e-learning\nType: \nIntervenant: \nSalle: VET4\nCode: \nGroupes: 
-DTEND:20260912T095000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:VET4
-DTSTART:20260912T075000Z
-SUMMARY:  - e-learning - Vidéos de pathologie digestive
-UID:e4eb3114-a817-4976-bbb2-5eb897a0619a@e4eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Drut Amandine\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260914T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Drut Amandine
-DTSTART:20260914T140000Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - URO néphro : Lithiases haut appareil urinaire -
-UID:e70eaa14-a267-478d-8bb6-c9b2b990b939@e70e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260922T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
-DTSTART:20260922T093500Z
-SUMMARY:072 CM - - Pathologie Clinique - Troubles de la coagulation
-UID:092077ed-3db6-428e-81d7-dc407d12512c@0920.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Goyenvalle Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260915T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Goyenvalle Eric
-DTSTART:20260915T093500Z
-SUMMARY:076 CM - Pathologie chirurgicale - Dysplasie de la hanche
-UID:cb2ef746-fe5a-4e27-8930-f77005a22b9f@cb2e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: VET4\nIntervenant: e-learning\nSalle: Calvez Ségolène\nCode: 074\nGroupes: 
-DTEND:20260828T150000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Calvez Ségolène - e-learning
-DTSTART:20260828T140000Z
-SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Film d'animation à visionner avant le CM du 02/09 Aquaculture Filière Truite arc -en ciel
-UID:2a7d0e11-f629-4482-bcdc-c569f6b18b52@2a7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: VET4\nIntervenant: e-learning\nSalle: Calvez Ségolène\nCode: 074\nGroupes: 
-DTEND:20260831T160500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Calvez Ségolène - e-learning
-DTSTART:20260831T150500Z
-SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Film d'animation à visionner avant le CM du 03/09/25 Aquaculture Filière Truite arc -en ciel
-UID:9c7e4f95-c4e4-4e30-ad5c-78e32875154f@9c7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Bruyas Jean-François\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260922T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Bruyas Jean-François
-DTSTART:20260922T120000Z
-SUMMARY:075 CM - - Obstétrique - Pathologie gestation
-UID:befa3cf7-9551-48e4-adc6-11cea4f692b4@befa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: SI1 - stage infirmier 1  (rattaché à l'UE 081)\nType: Cliniques\nIntervenant: Ibisch Catherine\nSalle: CHUV\nCode: 0701\nGroupes: VET4-7\, VET4-8
-DTEND:20260911T103000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:CHUV - Ibisch Catherine
-DTSTART:20260911T063000Z
-SUMMARY:0701 Cliniques - SI1 - stage infirmier 1  (rattaché à l'UE 081) - SI1 (UE 081)
-UID:701801c7-80e2-4c32-9cd3-74f212f70847@7018.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260916T135500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Debruille Agathe
-DTSTART:20260916T130500Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - Nutrition et diabète sucré
-UID:6eb83264-e4fa-4542-8707-7beeabd1b93b@6eb8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Abadie Jérôme\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260921T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Abadie Jérôme
-DTSTART:20260921T130000Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologies respiratoire 1
-UID:2c69d85b-3f68-4267-8e67-e07569c5feed@2c69.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260915T072000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Bencharif Djemil
-DTSTART:20260915T063000Z
-SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
-UID:8e10cd38-8014-4e03-9a62-2f431945e6f0@8e10.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260831T092500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Nguyen Frédérique
-DTSTART:20260831T083500Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Dermatologie non tumorale
-UID:435717e0-4314-4996-9712-3d67db0b07da@4357.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Abadie Jérôme\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260921T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Abadie Jérôme
-DTSTART:20260921T120000Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologies respiratoire 1
-UID:1042a0ff-cec4-4a57-bcd0-1c65c792e79f@1042.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260903T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Nguyen Frédérique
-DTSTART:20260903T093500Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Tumeurs buccales et gastro -intestinale
-UID:e5c235a9-4956-4b49-85a9-02d73336874e@e5c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: VET4\nIntervenant: e-learning\nSalle: Assié Sébastien\nCode: 071\nGroupes: 
-DTEND:20260831T063000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Assié Sébastien - e-learning
-DTSTART:20260831T053000Z
-SUMMARY:071 VET4 - maladies des Ruminants 2 - Avoir vu la présentation de l'UE
-UID:d7f70c11-328a-4a97-a02c-860a3a57c7aa@d7f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Ravinet Nadine\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
-DTEND:20260909T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Ravinet Nadine
-DTSTART:20260909T140000Z
-SUMMARY:071 CM - maladies des Ruminants 2 - Helminthoses respiratoires
-UID:6c940ed3-3672-4010-b066-440058341f7f@6c94.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: TD\nIntervenant: Debruille Agathe\nSalle: 221_TD/ info_salle-Chan\nCode: 077\nGroupes: VET4-7\, VET4-8
-DTEND:20260923T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:221_TD/ info_salle-Chan - Debruille Agathe
-DTSTART:20260923T083500Z
-SUMMARY:077 TD - - Pathologie des carnivores 1 - TD Nutrition
-UID:3c5b1172-f281-4221-a27e-53de4492edb7@3c5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: VET4\nIntervenant: e-learning\nSalle: Sénécat Odile\nCode: 077\nGroupes: 
-DTEND:20260917T165500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Sénécat Odile - e-learning
-DTSTART:20260917T155500Z
-SUMMARY:077 VET4 - - Pathologie des carnivores 1 - Endocrinologie   1h e-learning : travail personnel
-UID:03e63e50-d5a7-4a7e-87ee-e56b5585f33d@03e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Calvez Ségolène\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
-DTEND:20260903T072000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Calvez Ségolène
-DTSTART:20260903T063000Z
-SUMMARY:074 CM - Production et médecine avicole et piscicole - Aquaculture  Filieres-
-UID:a73e91b4-d4e3-4d2f-a946-ef7af89edc6a@a73e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260831T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
-DTSTART:20260831T130000Z
-SUMMARY:072 CM - - Pathologie Clinique - CM Présentation de l'UE
-UID:6f2939bd-4e1c-409a-94ca-55e43199c846@6f29.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260908T072000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Bencharif Djemil
-DTSTART:20260908T063000Z
-SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
-UID:48ba7658-c2cb-42e6-9420-b0a588686f6c@48ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
-DTEND:20260922T092500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
-DTSTART:20260922T083500Z
-SUMMARY:072 CM - - Pathologie Clinique - Exploration hémostas
-UID:913ae665-7453-4a44-a331-fccbfe2fad4c@913a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Maitre Pierre\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260902T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Maitre Pierre
-DTSTART:20260902T093500Z
-SUMMARY:076 CM - Pathologie chirurgicale - Elements de traumatologie générale 2
-UID:b6066c9f-ea75-4d0e-a3e2-18c98d50379b@b606.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260922T082000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Nguyen Frédérique
-DTSTART:20260922T073000Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Hémopathies malignes
-UID:001c8da8-1252-4787-bf1e-e3c889d2ff30@001c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: TD\nIntervenant: Guatteo Raphaël\nSalle: 220_TD/ info_salle-Chan\nCode: 071\nGroupes: VET4-7\, VET4-8
-DTEND:20260925T082000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:220_TD/ info_salle-Chan - Guatteo Raphaël
-DTSTART:20260925T063000Z
-SUMMARY:071 TD - maladies des Ruminants 2 - TD 2 Pathologie de l'appareil respiratoire des bovins
-UID:1191299a-0cea-4b6b-b24b-3e80d3e61a37@1191.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Assié Sébastien\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 071\nGroupes: VET4
-DTEND:20260914T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Assié Sébastien
-DTSTART:20260914T120000Z
-SUMMARY:071 CM - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins 3-
-UID:d348806b-427f-45f4-b52e-9f70db4a4f03@d348.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Goyenvalle Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260923T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Goyenvalle Eric
-DTSTART:20260923T120000Z
-SUMMARY:076 CM - Pathologie chirurgicale - Affections osseuses microbiennes
-UID:ba6cddb2-49aa-49e6-83ae-73f4fd34ca22@ba6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Assié Sébastien\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
-DTEND:20260904T072000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Assié Sébastien
-DTSTART:20260904T063000Z
-SUMMARY:071 CM - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins 1
-UID:32b06b52-eb38-4699-a916-5254e4d20a17@32b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Sénécat Odile\nSalle: Amphi G2S_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260901T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Sénécat Odile
-DTSTART:20260901T093500Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - Endocrinologie diabète sucré 2 - insulinothérapie
-UID:1ce97301-87c4-4764-8942-14c159ea9d64@1ce9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: CM\nIntervenant: Beaugrand Florence\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260901T125000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Beaugrand Florence
-DTSTART:20260901T120000Z
-SUMMARY: CM - 073- Practice management - Déontologie et entreprenariat - CM Objectifs de l'UE
-UID:58b6aac1-ccee-4793-a83f-5cbe816d1b01@58b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
-DTEND:20260925T160000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260925T150000Z
-SUMMARY:  - 078- Anatomie Pathologie et Cancérologie Spéciales - Vidéos de pathologie digestive- à visionner avant le TD
-UID:96f91c71-0eb3-45b3-b7f8-421d5ab03d2c@96f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: VET4\nIntervenant: e-learning\nSalle: Beaugrand Florence\nCode: \nGroupes: 
-DTEND:20260915T170000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Beaugrand Florence - e-learning
-DTSTART:20260915T160000Z
-SUMMARY: VET4 - 073- Practice management - Déontologie et entreprenariat - EL Dilemmes et paradoxes DDL 16/11/26
-UID:4cd703a7-6304-48a5-854a-8c12e487713a@4cd7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Fusellier Marion\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
-DTEND:20260904T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Fusellier Marion
-DTSTART:20260904T130000Z
-SUMMARY:076 CM - Pathologie chirurgicale - Sémiologie radiographie osseuse 2
-UID:7d2b6707-cde4-42b1-8382-4c3148f4f50a@7d2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: TP\nIntervenant: Calvez Ségolène\nSalle: 402_TP_salle-Chan\nCode: 074\nGroupes: VET4-8
-DTEND:20260907T082000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:402_TP_salle-Chan - Calvez Ségolène
-DTSTART:20260907T063000Z
-SUMMARY:074 TP - Production et médecine avicole et piscicole - Démarche nécroscopique chez la truite arc en ciel
-UID:3f63860c-4dd7-4c98-aa32-a8147ec055f9@3f63.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Sénécat Odile\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
-DTEND:20260915T145000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Sénécat Odile
-DTSTART:20260915T140000Z
-SUMMARY:077 CM - - Pathologie des carnivores 1 - Hypothyroïdie
-UID:b72f7ec8-9061-4fe1-8380-0a7a3d87bc8f@b72f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260831T102500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Nguyen Frédérique
-DTSTART:20260831T093500Z
-SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Dermatologie non tumorale
-UID:1678c789-83db-41d0-9138-cb4b9ac45aba@1678.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
-DTEND:20260924T170000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260924T150000Z
-SUMMARY:  - 078- Anatomie Pathologie et Cancérologie Spéciales - Vidéos de pathologie digestive- à visionner avant le TD
-UID:401fd959-7abf-4897-9415-15e94e604750@401f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Bruyas Jean-François\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 075\nGroupes: VET4
-DTEND:20260914T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi_AH_Pierre Cuq_Chan - Bruyas Jean-François
-DTSTART:20260914T130000Z
-SUMMARY:075 CM - - Obstétrique - Pathologie gestation
-UID:3e3b7935-b9d9-4b2a-86c8-56108d86c9dc@3e3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Navarro-Gonzalez Nora\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
-DTEND:20260909T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Navarro-Gonzalez Nora
-DTSTART:20260909T130000Z
-SUMMARY:074 CM - Production et médecine avicole et piscicole - Aviculture zootechnie 2- N. Navarro Gonzalez
-UID:330525a0-84c5-47b3-998d-acc0cd6f4069@3305.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
-DTEND:20260922T180000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:e-learning - VET4
-DTSTART:20260922T160000Z
-SUMMARY:  - 078- Anatomie Pathologie et Cancérologie Spéciales - Vidéos de pathologie digestive-à visionner avant le TD
-UID:aa00c73b-c66d-4a2b-bf20-26d7eaef885b@aa00.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: VET4\nIntervenant: e-learning\nSalle: Beaugrand Florence\nCode: \nGroupes: 
-DTEND:20260905T110500Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Beaugrand Florence - e-learning
-DTSTART:20260905T090500Z
-SUMMARY: VET4 - 073- Practice management - Déontologie et entreprenariat - EL Entrepreneuriat 1- DDL
-UID:add2e443-4e1c-4a1f-adee-9adfe409d503@add2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
-DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: CM\nIntervenant: Beaugrand Florence\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
-DTEND:20260902T135000Z
-LAST-MODIFIED:20260917T122409Z
-LOCATION:Amphi G2S_Chan - Beaugrand Florence
-DTSTART:20260902T130000Z
-SUMMARY: CM - 073- Practice management - Déontologie et entreprenariat - CM Entrepreunariat MPL
-UID:f2d564d8-b3f6-42d3-94cc-1d5319a5f19b@f2d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
+DTSTAMP:20260921T133516Z
 DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Ruvoen Nathalie\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
 DTEND:20260922T155000Z
-LAST-MODIFIED:20260917T122409Z
+LAST-MODIFIED:20260921T133516Z
 LOCATION:Amphi G2S_Chan - Ruvoen Nathalie
 DTSTART:20260922T150000Z
 SUMMARY:074 CM - Production et médecine avicole et piscicole - CM -Pestes aviaires
-UID:cdd83027-4886-44b5-b155-fdb425f718b4@cdd8.org
+UID:fbce1638-55a2-40e8-9e7e-b7bc3589b640@fbce.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: SI1 - stage infirmier 1  (rattaché à l'UE 081)\nType: Cliniques\nIntervenant: Ibisch Catherine\nSalle: CHUV\nCode: 0701\nGroupes: VET4-7\, VET4-8
+DTEND:20260911T103000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:CHUV - Ibisch Catherine
+DTSTART:20260911T063000Z
+SUMMARY:0701 Cliniques - SI1 - stage infirmier 1  (rattaché à l'UE 081) - SI1 (UE 081)
+UID:e6566b25-245c-453f-aee1-1a2c51b271ca@e656.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Goyenvalle Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260915T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Goyenvalle Eric
+DTSTART:20260915T093500Z
+SUMMARY:076 CM - Pathologie chirurgicale - Dysplasie de la hanche
+UID:b56572ca-7628-468a-b8b8-dd771f37b5f2@b565.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Ruvoen Nathalie\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
+DTEND:20260921T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Ruvoen Nathalie
+DTSTART:20260921T140000Z
+SUMMARY:074 CM - Production et médecine avicole et piscicole - CM- Pestes aviaires
+UID:ad9f0dc2-22a7-43fd-bb4f-d433f86f65df@ad9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Colle Marie-Anne\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260925T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Colle Marie-Anne
+DTSTART:20260925T130000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie cardiovasculaire
+UID:670124a5-6e62-44a2-b2f4-dd12c3897610@6701.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Sénécat Odile\nSalle: Amphi G2S_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260901T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Sénécat Odile
+DTSTART:20260901T093500Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - Endocrinologie diabète sucré 2 - insulinothérapie
+UID:6b01c916-a7e1-466c-9016-10307a36128e@6b01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Agoulon Albert\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
+DTEND:20260901T072000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Agoulon Albert
+DTSTART:20260901T063000Z
+SUMMARY:071 CM - maladies des Ruminants 2 - Ectoparasitoses des bovins et des petits ruminants 2
+UID:fd85973a-cb75-47da-bfd7-6c1520094f9b@fd85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: VET4\nIntervenant: e-learning\nSalle: Debruille Agathe\nCode: 077\nGroupes: 
+DTEND:20260918T165000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Debruille Agathe - e-learning
+DTSTART:20260918T155000Z
+SUMMARY:077 VET4 - - Pathologie des carnivores 1 - Nutrition : tests d'auto-formation
+UID:a142665e-097f-49be-85f6-dd5db034766c@a142.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260916T135500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Debruille Agathe
+DTSTART:20260916T130500Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - Nutrition et diabète sucré
+UID:46c6fd7f-db87-4695-ab91-b9a15ba8c2bf@46c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260831T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
+DTSTART:20260831T130000Z
+SUMMARY:072 CM - - Pathologie Clinique - CM Présentation de l'UE
+UID:79376434-3a41-45cc-982b-82064c7711bd@7937.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Bruyas Jean-François\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260922T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Bruyas Jean-François
+DTSTART:20260922T120000Z
+SUMMARY:075 CM - - Obstétrique - Pathologie gestation
+UID:98fe060c-ab0e-4293-8115-002ad12abf6f@98fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Soetart Nicolas\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260901T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Soetart Nicolas
+DTSTART:20260901T130000Z
+SUMMARY:072 CM - - Pathologie Clinique - CM Pathologie clinique -Appareil d'hématologie
+UID:fce742d4-b299-4c26-9d16-a5838c165b47@fce7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260921T155000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Bencharif Djemil
+DTSTART:20260921T150000Z
+SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
+UID:462299ac-54d1-412f-a821-3ff288bd522b@4622.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: TD\nIntervenant: Debruille Agathe\nSalle: 221_TD/ info_salle-Chan\nCode: 077\nGroupes: VET4-7\, VET4-8
+DTEND:20260923T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:221_TD/ info_salle-Chan - Debruille Agathe
+DTSTART:20260923T083500Z
+SUMMARY:077 TD - - Pathologie des carnivores 1 - TD Nutrition
+UID:5974ccbe-913a-42dc-a8d2-1f0ca114d6ca@5974.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: e-learning\nType: \nIntervenant: \nSalle: VET4\nCode: \nGroupes: 
+DTEND:20261003T140500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:VET4
+DTSTART:20261003T120500Z
+SUMMARY:  - e-learning - Vidéos de pathologie digestive
+UID:c2627074-d8e5-48ab-a0a0-e4a765e64fed@c262.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Assié Sébastien\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 071\nGroupes: VET4
+DTEND:20260914T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Assié Sébastien
+DTSTART:20260914T120000Z
+SUMMARY:071 CM - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins 3-
+UID:a3a83047-c8dd-405c-93b5-d1d0bf2b0792@a3a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: VET4\nIntervenant: e-learning\nSalle: Calvez Ségolène\nCode: 074\nGroupes: 
+DTEND:20260831T160500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Calvez Ségolène - e-learning
+DTSTART:20260831T150500Z
+SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Film d'animation à visionner avant le CM du 03/09/25 Aquaculture Filière Truite arc -en ciel
+UID:d75f4612-c14c-4c3f-820b-38224785d15d@d75f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260915T072000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Bencharif Djemil
+DTSTART:20260915T063000Z
+SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
+UID:3d2b93fd-ffda-4210-99d2-dd48859146f4@3d2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260902T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Nguyen Frédérique
+DTSTART:20260902T073000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie hépathique
+UID:5055a1c1-ea1a-46aa-a364-9801b4df6970@5055.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
 DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Calvez Ségolène\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
-DTEND:20260903T082000Z
-LAST-MODIFIED:20260917T122409Z
+DTEND:20260904T102500Z
+LAST-MODIFIED:20260921T133516Z
 LOCATION:Amphi G2S_Chan - Calvez Ségolène
-DTSTART:20260903T073000Z
-SUMMARY:074 CM - Production et médecine avicole et piscicole - Aquaculture Filière Truite arc en ciel
-UID:30e35915-668d-4f31-b589-fbd2b64eb952@30e3.org
+DTSTART:20260904T093500Z
+SUMMARY:074 CM - Production et médecine avicole et piscicole - Aquaculture maladies
+UID:7f27b9e0-8674-4f7b-97c5-ad87730a9ae3@7f27.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260922T092500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
+DTSTART:20260922T083500Z
+SUMMARY:072 CM - - Pathologie Clinique - Exploration hémostas
+UID:db298fea-0d5c-44e6-86c9-a7a491ac10af@db29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260831T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Bencharif Djemil
+DTSTART:20260831T140000Z
+SUMMARY:075 CM Zoom - - Obstétrique - Généralités Avortement
+UID:c83881c5-8f33-471d-b973-385b74bcdfdc@c838.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Navarro-Gonzalez Nora\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
+DTEND:20260908T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Navarro-Gonzalez Nora
+DTSTART:20260908T120000Z
+SUMMARY:074 CM - Production et médecine avicole et piscicole - Aviculture -zootechnique 1
+UID:fca550d0-a5dd-4c20-92d1-04160b0e3de4@fca5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Assié Sébastien\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
+DTEND:20260904T072000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Assié Sébastien
+DTSTART:20260904T063000Z
+SUMMARY:071 CM - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins 1
+UID:fe2b9cc3-a159-4a1c-990f-cbf648f86b5d@fe2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: SI1 - stage infirmier 1  (rattaché à l'UE 081)\nType: Cliniques\nIntervenant: Ibisch Catherine\nSalle: CHUV\nCode: 0701\nGroupes: VET4-7\, VET4-8
+DTEND:20260909T103000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:CHUV - Ibisch Catherine
+DTSTART:20260909T063000Z
+SUMMARY:0701 Cliniques - SI1 - stage infirmier 1  (rattaché à l'UE 081) - SI1 (UE 081)
+UID:2b976f48-1b2a-40e7-9c5d-7b40395fba46@2b97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Ravinet Nadine\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
+DTEND:20260909T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Ravinet Nadine
+DTSTART:20260909T140000Z
+SUMMARY:071 CM - maladies des Ruminants 2 - Helminthoses respiratoires
+UID:51718d26-8cf9-4c5f-9a69-6fbd7cb944d3@5171.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260901T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Bencharif Djemil
+DTSTART:20260901T140000Z
+SUMMARY:075 CM Zoom - - Obstétrique - Généralités Avortement
+UID:d65ab0e9-5a8a-4a8d-ab8e-518aef4c1372@d65a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Abadie Jérôme\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260921T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Abadie Jérôme
+DTSTART:20260921T120000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologies respiratoire 1
+UID:f5b92fef-f4a1-4c8d-a317-47023c4a1df1@f5b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260903T092500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Nguyen Frédérique
+DTSTART:20260903T083500Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Tumeurs buccales et gastro -intestinale
+UID:b2a17af9-3708-4099-b228-bb29d2eeeb20@b2a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
+DTEND:20260907T170000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260907T160000Z
+SUMMARY:071  - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins
+UID:ef2d7da5-e916-4a5f-9bb8-55f0ff68c1a5@ef2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: VET4\nIntervenant: e-learning\nSalle: Sénécat Odile\nCode: 077\nGroupes: 
+DTEND:20260917T165500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Sénécat Odile - e-learning
+DTSTART:20260917T155500Z
+SUMMARY:077 VET4 - - Pathologie des carnivores 1 - Endocrinologie   1h e-learning : travail personnel
+UID:e9bc9a23-53dd-44ab-93ef-0060ee7f649f@e9bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Aguado Eric\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260928T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Aguado Eric
+DTSTART:20260928T120000Z
+SUMMARY:076 CM - Pathologie chirurgicale - Pathologie articulaire : entorses
+UID:a85f829d-2e53-4300-ae1c-c4a2397726b1@a85f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Aguado Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260831T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Aguado Eric
+DTSTART:20260831T073000Z
+SUMMARY:076 CM - Pathologie chirurgicale - UV Plasties et lambeaux cutanés
+UID:fc6639dd-0a77-4178-8211-a88e0d5f1b49@fc66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Cuq_Chan\nType: VET4\nIntervenant: Accueil\nSalle: Grand Hall d Accueil Administration C\nCode: Amphi_AH_Pierre\nGroupes: VET5\, VET6
+DTEND:20260827T083000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Grand Hall d Accueil Administration C - Accueil
+DTSTART:20260827T073000Z
+SUMMARY:Amphi_AH_Pierre VET4 - Cuq_Chan - Présentation VET4\,5\,6 accueil\, SST\, gardes et astreintes\, CHUV
+UID:e86b45d2-8fa4-498f-8f23-f1ddd70901d4@e86b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Relun Anne\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
+DTEND:20260922T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Relun Anne
+DTSTART:20260922T140000Z
+SUMMARY:071 CM - maladies des Ruminants 2 - Pathologie des petits ruminants 2-1
+UID:bfbd0752-c443-4d12-899a-bda9984bde70@bfbd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: e-learning\nType: \nIntervenant: \nSalle: VET4\nCode: \nGroupes: 
+DTEND:20260912T095000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:VET4
+DTSTART:20260912T075000Z
+SUMMARY:  - e-learning - Vidéos de pathologie digestive
+UID:d189df28-f7e8-4872-9ad5-0c41239c8340@d189.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: Report du CM du 11/09\nIntervenant: CM Zoom\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 074\nGroupes: VET4
+DTEND:20260930T155000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - CM Zoom
+DTSTART:20260930T140000Z
+SUMMARY:074 Report du CM du 11/09 - Production et médecine avicole et piscicole - Aviculture alimentation 1- M.PINSON
+UID:a930101b-53cd-4830-ade1-4bdca1bd949e@a930.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Bruyas Jean-François\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260914T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Bruyas Jean-François
+DTSTART:20260914T130000Z
+SUMMARY:075 CM - - Obstétrique - Pathologie gestation
+UID:0b3afd43-550d-4c58-8901-5997bbe14c2d@0b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Agoulon Albert\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
+DTEND:20260831T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Agoulon Albert
+DTSTART:20260831T120000Z
+SUMMARY:071 CM - maladies des Ruminants 2 - Ectoparasitoses des bovins et des petits ruminants 2
+UID:57304db6-6f43-4183-b02c-bf9b8c840b3f@5730.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
+DTEND:20260905T083000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260905T063000Z
+SUMMARY:071  - maladies des Ruminants 2 - Ectoparasitoses des bovins et des petits ruminants
+UID:fe86b8f7-334c-4ecc-968e-5a687fe2cff2@fe86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: SI1 - stage infirmier 1  (rattaché à l'UE 081)\nType: VET4-7\nIntervenant: Cliniques\nSalle: CHUV\nCode: 0701\nGroupes: VET4-8
+DTEND:20260928T103000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:CHUV - Cliniques
+DTSTART:20260928T063000Z
+SUMMARY:0701 VET4-7 - SI1 - stage infirmier 1  (rattaché à l'UE 081) - SI1 (UE 3101)
+UID:09a1b36e-39a3-4ea3-b589-3473099d0f5d@09a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Navarro-Gonzalez Nora\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
+DTEND:20260909T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Navarro-Gonzalez Nora
+DTSTART:20260909T130000Z
+SUMMARY:074 CM - Production et médecine avicole et piscicole - Aviculture zootechnie 2- N. Navarro Gonzalez
+UID:e2da8890-31fa-4932-9600-89e1b2a04801@e2da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
+DTEND:20260923T172000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260923T153000Z
+SUMMARY:  - 073- Practice management - Déontologie et entreprenariat - EL Statuts de société DDL 16/11/2026
+UID:99aac572-ea5b-4838-a5d1-cf8e3a3bd74b@99aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Sénécat Odile\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260915T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Sénécat Odile
+DTSTART:20260915T140000Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - Hypothyroïdie
+UID:b1562316-ccf4-42ef-9430-b55efaf056f2@b156.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Aguado Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260831T072000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Aguado Eric
+DTSTART:20260831T063000Z
+SUMMARY:076 CM - Pathologie chirurgicale - Introduction & UV Plasties et lambeaux cutanés
+UID:704ef181-96f7-4823-a9f5-f359a9e638c1@704e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Assié Sébastien\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
+DTEND:20260904T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Assié Sébastien
+DTSTART:20260904T073000Z
+SUMMARY:071 CM - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins 2
+UID:ee41deb7-a51e-45e4-aca3-04e6ec68eb80@ee41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Maitre Pierre\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260907T145500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Maitre Pierre
+DTSTART:20260907T140500Z
+SUMMARY:076 CM - Pathologie chirurgicale - Traitement medical et chirurgical des plaies
+UID:2b0ecbb7-71f0-41af-8327-8e93921e00d4@2b0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 074\nGroupes: 
+DTEND:20260909T170000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260909T160000Z
+SUMMARY:074  - Production et médecine avicole et piscicole - e-learning
+UID:64cb1b6f-efc7-48af-8398-8ccb53e89c0e@64cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: VET4\nIntervenant: CM reporté\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 074\nGroupes: 
+DTEND:20260916T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - CM reporté
+DTSTART:20260916T140000Z
+SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Reporté au 30/09-Aviculture alimentation 1- M. PINSON
+UID:0d5080a6-cf51-429d-bf33-ea8c1c9e4fb7@0d50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: TD\nIntervenant: Assié Sébastien\nSalle: 222_TD/ info_salle-Chan\nCode: 071\nGroupes: VET4-7\, VET4-8
+DTEND:20260918T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:222_TD/ info_salle-Chan - Assié Sébastien
+DTSTART:20260918T083500Z
+SUMMARY:071 TD - maladies des Ruminants 2 - TD 1 Pathologie de l'appareil respiratoire des bovins
+UID:dd1b4650-daf4-4778-ad58-be133231dfb4@dd1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Sénécat Odile\nSalle: Amphi G2S_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260901T092500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Sénécat Odile
+DTSTART:20260901T083500Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - Endocrinologie 1 Présentation UE - Diabète sucré
+UID:6b135dc4-c1fe-408d-b150-536490ece09f@6b13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: TP\nIntervenant: Nguyen Frédérique\nSalle: 700_info_salle-Chan\nCode: 072\nGroupes: VET4-8
+DTEND:20261001T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:700_info_salle-Chan - Nguyen Frédérique
+DTSTART:20261001T063000Z
+SUMMARY:072 TP - - Pathologie Clinique - Hématologie séance 2
+UID:0b879463-e630-42ac-b1dd-289525a116dc@0b87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: VET4\nIntervenant: e-learning\nSalle: Beaugrand Florence\nCode: \nGroupes: 
+DTEND:20260911T170000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Beaugrand Florence - e-learning
+DTSTART:20260911T160000Z
+SUMMARY: VET4 - 073- Practice management - Déontologie et entreprenariat - EL Business plan DDL
+UID:9b6d5520-41ac-47c3-a981-e2d09bc51d12@9b6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: SI1 - stage infirmier 1  (rattaché à l'UE 081)\nType: VET4-7\nIntervenant: Cliniques\nSalle: CHUV\nCode: 0701\nGroupes: VET4-8
+DTEND:20260929T103000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:CHUV - Cliniques
+DTSTART:20260929T063000Z
+SUMMARY:0701 VET4-7 - SI1 - stage infirmier 1  (rattaché à l'UE 081) - SI1 (UE 081)
+UID:e076d304-59de-4d65-b0a9-b9a97b0fc267@e076.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Goyenvalle Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260923T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Goyenvalle Eric
+DTSTART:20260923T130000Z
+SUMMARY:076 CM - Pathologie chirurgicale - Affections osseuses non microbiennes
+UID:32d6966e-1524-433f-b1cf-934bc692d3e6@32d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Aguado Eric\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260928T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Aguado Eric
+DTSTART:20260928T130000Z
+SUMMARY:076 CM - Pathologie chirurgicale - Pathologie articulaire : luxations
+UID:9a38ac98-bf9e-448b-a2ab-c1473ccc3688@9a38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: VET4\nIntervenant: e-learning\nSalle: Assié Sébastien\nCode: 071\nGroupes: 
+DTEND:20260827T150000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Assié Sébastien - e-learning
+DTSTART:20260827T140000Z
+SUMMARY:071 VET4 - maladies des Ruminants 2 - Présentation de l'UE  Avoir vu la présentation de l'UE  sur connect
+UID:6698ed9c-7660-490e-b87b-f13d77ad5ad3@6698.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: TD\nIntervenant: Jaillardon Laëtitia\nSalle: 218_salle-Chan\nCode: 072\nGroupes: VET4-8
+DTEND:20261001T103000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:218_salle-Chan - Jaillardon Laëtitia
+DTSTART:20261001T083500Z
+SUMMARY:072 TD - - Pathologie Clinique - Pathologie clinique séance 2
+UID:7c0a46d4-2b1c-4129-abff-3f5fed8f582a@7c0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Abadie Jérôme\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260921T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Abadie Jérôme
+DTSTART:20260921T130000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologies respiratoire 1
+UID:356e8c4a-a092-439d-8eb5-0ae00a388034@356e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260902T072000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Nguyen Frédérique
+DTSTART:20260902T063000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie hépathique
+UID:1b684461-c7d2-4f8f-a92d-45a09a1aea86@1b68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260907T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
+DTSTART:20260907T120000Z
+SUMMARY:072 CM - - Pathologie Clinique - CM- Pathologie Clinique hépatique 1/3
+UID:e33f1c90-3e79-450e-9edf-2a8c19c636be@e33f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: TD\nIntervenant: Agoulon Albert\nSalle: 206_modulaire_salle-Chan\nCode: 071\nGroupes: VET4-8
+DTEND:20260907T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:206_modulaire_salle-Chan - Agoulon Albert
+DTSTART:20260907T083500Z
+SUMMARY:071 TD - maladies des Ruminants 2 - Ectoparasitoses des bovins et des petits ruminants
+UID:db8002f7-35fe-4ead-a58b-25daf633b2f0@db80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
+DTEND:20260925T160000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260925T150000Z
+SUMMARY:  - 078- Anatomie Pathologie et Cancérologie Spéciales - Vidéos de pathologie digestive- à visionner avant le TD
+UID:706e5652-ecc4-41e7-aea0-7200e93af783@706e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Calvez Ségolène\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
+DTEND:20260904T092500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Calvez Ségolène
+DTSTART:20260904T083500Z
+SUMMARY:074 CM - Production et médecine avicole et piscicole - Aquaculture médicament role du vétérinaire  -
+UID:0b5e86c5-1e7f-4782-b8a1-aade2b669689@0b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Sénécat Odile\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260915T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Sénécat Odile
+DTSTART:20260915T130000Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - Hypoglycemie et fin de diabète suré
+UID:4f011fad-0848-4629-9a55-ca6ed5ab08e4@4f01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260908T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Bencharif Djemil
+DTSTART:20260908T073000Z
+SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
+UID:2a710c63-e5e5-4895-a51d-c20dc7fab68c@2a71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: CM\nIntervenant: Beaugrand Florence\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260901T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Beaugrand Florence
+DTSTART:20260901T120000Z
+SUMMARY: CM - 073- Practice management - Déontologie et entreprenariat - CM Objectifs de l'UE
+UID:a70d9270-9fbd-4991-b121-24883b183e8c@a70d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: SI1 - stage infirmier 1  (rattaché à l'UE 081)\nType: VET4-7\nIntervenant: Cliniques\nSalle: CHUV\nCode: 0701\nGroupes: VET4-8
+DTEND:20261002T103000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:CHUV - Cliniques
+DTSTART:20261002T063000Z
+SUMMARY:0701 VET4-7 - SI1 - stage infirmier 1  (rattaché à l'UE 081) - SI1 (UE 081)
+UID:3db693ee-57fc-4c33-9083-186f4930a093@3db6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260915T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Bencharif Djemil
+DTSTART:20260915T073000Z
+SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
+UID:9b5e9138-2537-4847-97e7-4ead1939d166@9b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
 DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: MERIC Tristan\nSalle: Amphi G2S_Chan\nCode: 077\nGroupes: VET4
 DTEND:20260922T135000Z
-LAST-MODIFIED:20260917T122409Z
+LAST-MODIFIED:20260921T133516Z
 LOCATION:Amphi G2S_Chan - MERIC Tristan
 DTSTART:20260922T130000Z
 SUMMARY:077 CM - - Pathologie des carnivores 1 - Endocrinologie Hypercorticisme-
-UID:b9cc4ef7-c584-4431-a355-b1ccec5dd548@b9cc.org
+UID:907a65a9-1e46-404e-ad10-b09b371175f9@907a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Colle Marie-Anne\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260925T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Colle Marie-Anne
+DTSTART:20260925T120000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie cardiovasculaire
+UID:ec4b39b3-68d5-46d6-8196-4efc1d77fb45@ec4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: CM\nIntervenant: Beaugrand Florence\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260902T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Beaugrand Florence
+DTSTART:20260902T120000Z
+SUMMARY: CM - 073- Practice management - Déontologie et entreprenariat - CM Entrepreunariat MPL
+UID:205aaaef-815a-4a9f-b589-f7f4d925f7a7@205a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Fusellier Marion\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260904T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Fusellier Marion
+DTSTART:20260904T120000Z
+SUMMARY:076 CM - Pathologie chirurgicale - Sémiologie radiographie osseuse 1
+UID:5643f2c0-bdec-4b77-81e7-72f1ce8ce538@5643.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
+DTEND:20260921T180000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260921T160000Z
+SUMMARY:  - 078- Anatomie Pathologie et Cancérologie Spéciales - Vidéos de pathologie digestive à visionner avant le TD
+UID:7321c667-9ec1-480d-908b-788334f4d986@7321.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260916T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Debruille Agathe
+DTSTART:20260916T120000Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - Nutrition et Obésité
+UID:345d5fb0-e263-4473-83e7-d951f8087ebd@345d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: VET4\nIntervenant: CM\nSalle: Briand-Amirat Lamia\nCode: 075\nGroupes: 
+DTEND:20260929T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Briand-Amirat Lamia - CM
+DTSTART:20260929T140000Z
+SUMMARY:075 VET4 - - Obstétrique - Post partum
+UID:a9310dd4-f8bc-466f-9dfd-235b07c37b26@a931.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
 DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: VET4\nIntervenant: e-learning\nSalle: Calvez Ségolène\nCode: 074\nGroupes: 
-DTEND:20260902T160000Z
-LAST-MODIFIED:20260917T122409Z
+DTEND:20260828T150000Z
+LAST-MODIFIED:20260921T133516Z
 LOCATION:Calvez Ségolène - e-learning
-DTSTART:20260902T150000Z
-SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Démarche nécroscopique à regarder avant le 1er TP   de la semaine 38
-UID:1d72ddb2-6cc3-4722-a54d-5d70b7a9ed5c@1d72.org
+DTSTART:20260828T140000Z
+SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Film d'animation à visionner avant le CM du 02/09 Aquaculture Filière Truite arc -en ciel
+UID:6910b477-b5e7-47db-bf54-86e733c19acb@6910.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260917T122409Z
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: TP\nIntervenant: Calvez Ségolène\nSalle: 402_TP_salle-Chan\nCode: 074\nGroupes: VET4-8
+DTEND:20260907T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:402_TP_salle-Chan - Calvez Ségolène
+DTSTART:20260907T063000Z
+SUMMARY:074 TP - Production et médecine avicole et piscicole - Démarche nécroscopique chez la truite arc en ciel
+UID:03dc5a4c-0166-4e1f-a8f4-64e8dd438f71@03dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Bruyas Jean-François\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260930T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Bruyas Jean-François
+DTSTART:20260930T130000Z
+SUMMARY:075 CM - - Obstétrique - Pathologie gestation
+UID:00c11c07-f4f4-4f98-8b99-22bd326547bc@00c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260907T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
+DTSTART:20260907T130000Z
+SUMMARY:072 CM - - Pathologie Clinique - CM- Pathologie Clinique hépatique 2/3
+UID:fd297470-274c-424c-876e-a6d6a5ceadaa@fd29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
+DTEND:20260916T170000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260916T160000Z
+SUMMARY:071  - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins
+UID:7604d688-b921-4bc4-b283-58e80605e8be@7604.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
+DTEND:20260901T170000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260901T150000Z
+SUMMARY:071  - maladies des Ruminants 2 - Parasitoses tissulaires (cestodoseslarvaires\, sarcosporidioses
+UID:e8d9474c-0270-4ad4-be2f-424beaf067fb@e8d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
+DTEND:20261003T073500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20261003T063500Z
+SUMMARY:071  - maladies des Ruminants 2 - Protozooses abortives (bovins et petits ruminants)
+UID:b3a5f9b4-e0b9-4771-b1d7-0b2cb5afe977@b3a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: CM\nIntervenant: Beaugrand Florence\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260902T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Beaugrand Florence
+DTSTART:20260902T130000Z
+SUMMARY: CM - 073- Practice management - Déontologie et entreprenariat - CM Entrepreunariat MPL
+UID:10036924-2633-439a-92d4-898530cb3b61@1003.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260922T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Nguyen Frédérique
+DTSTART:20260922T073000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Hémopathies malignes
+UID:c559c896-6b10-4df6-adea-b42e6cf8fd63@c559.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: TD\nIntervenant: Guatteo Raphaël\nSalle: 220_TD/ info_salle-Chan\nCode: 071\nGroupes: VET4-7\, VET4-8
+DTEND:20260925T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:220_TD/ info_salle-Chan - Guatteo Raphaël
+DTSTART:20260925T063000Z
+SUMMARY:071 TD - maladies des Ruminants 2 - TD 2 Pathologie de l'appareil respiratoire des bovins
+UID:94301607-b373-4ecb-b616-89aed75ee25a@9430.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260923T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Nguyen Frédérique
+DTSTART:20260923T140000Z
+SUMMARY:072 CM - - Pathologie Clinique - FeLV/FIV : conséquences hématologiques
+UID:eb3d8b70-6c80-4c0d-9f8c-90c3c89f1f37@eb3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Briand-Amirat Lamia\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260918T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Briand-Amirat Lamia
+DTSTART:20260918T140000Z
+SUMMARY:075 CM - - Obstétrique - Post partum
+UID:2f58362f-40c4-4d7c-a43a-b646bb96e0ef@2f58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260918T124500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Debruille Agathe
+DTSTART:20260918T115500Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - Nutrition des maladies rénales 1
+UID:44b1e511-bc04-4335-8c1d-cf29df116b36@44b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Debruille Agathe\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260918T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Debruille Agathe
+DTSTART:20260918T130000Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - Nutrition des maladies rénales 2
+UID:f7c6ed6f-f891-45df-94dc-8368463d74ab@f7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: VET4\nIntervenant: e-learning\nSalle: Assié Sébastien\nCode: 071\nGroupes: 
+DTEND:20260831T063000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Assié Sébastien - e-learning
+DTSTART:20260831T053000Z
+SUMMARY:071 VET4 - maladies des Ruminants 2 - Avoir vu la présentation de l'UE
+UID:65ee4bd2-fb9e-4f62-bc33-67f577d8c8fa@65ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Cuq_Chan\nType: VET4\nIntervenant: Accueil\nSalle: Grand Hall d Accueil Administration C\nCode: Amphi_AH_Pierre\nGroupes: 
+DTEND:20260828T100000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Grand Hall d Accueil Administration C - Accueil
+DTSTART:20260828T080000Z
+SUMMARY:Amphi_AH_Pierre VET4 - Cuq_Chan - Rentrée VET4
+UID:57ef7a07-f04e-4fda-86db-75c7976cb5ab@57ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
+DTEND:20260922T180000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260922T160000Z
+SUMMARY:  - 078- Anatomie Pathologie et Cancérologie Spéciales - Vidéos de pathologie digestive-à visionner avant le TD
+UID:004de81c-6092-4e6e-8076-6e0351f86102@004d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Maitre Pierre\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260902T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Maitre Pierre
+DTSTART:20260902T093500Z
+SUMMARY:076 CM - Pathologie chirurgicale - Elements de traumatologie générale 2
+UID:c678071e-354c-4de9-ad67-534de59f19a5@c678.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Abadie Jérôme\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: \nGroupes: VET4
+DTEND:20260929T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Abadie Jérôme
+DTSTART:20260929T120000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie Respiratoire 2
+UID:f3ec16e0-7900-4daf-a69c-ee947a8983d9@f3ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260909T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
+DTSTART:20260909T120000Z
+SUMMARY:072 CM - - Pathologie Clinique - CM- Pathologie Clinique- hépathique 1/3
+UID:7383138d-64a8-4f30-9c59-d8a2213488ae@7383.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260928T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Bencharif Djemil
+DTSTART:20260928T140000Z
+SUMMARY:075 CM Zoom - - Obstétrique - Maladies d elevage
+UID:f21c6209-607d-4fed-ba18-6e797ae76c30@f21c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260831T092500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Nguyen Frédérique
+DTSTART:20260831T083500Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Dermatologie non tumorale
+UID:ab60b350-2aa8-479f-9889-a088af57b73f@ab60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Calvez Ségolène\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
+DTEND:20260903T082000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Calvez Ségolène
+DTSTART:20260903T073000Z
+SUMMARY:074 CM - Production et médecine avicole et piscicole - Aquaculture Filière Truite arc en ciel
+UID:419fe223-76ef-40f3-9b2d-39d83f1d31e1@419f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: VET4\nIntervenant: e-learning\nSalle: Beaugrand Florence\nCode: \nGroupes: 
+DTEND:20260914T165000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Beaugrand Florence - e-learning
+DTSTART:20260914T160000Z
+SUMMARY: VET4 - 073- Practice management - Déontologie et entreprenariat - EL Responsabilité sociétale DDL 16/11/2026
+UID:b1f853dc-bc65-4870-a0b0-c0519231d12a@b1f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Chocteau Florian\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: \nGroupes: VET4
+DTEND:20261002T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Chocteau Florian
+DTSTART:20261002T120000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie mammaire
+UID:89716f20-3dfe-4a53-ba8a-c0362612162c@8971.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Fusellier Marion\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260904T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Fusellier Marion
+DTSTART:20260904T130000Z
+SUMMARY:076 CM - Pathologie chirurgicale - Sémiologie radiographie osseuse 2
+UID:570b2cfb-ea8e-46bc-81c4-1b94ea223a9d@570b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260922T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
+DTSTART:20260922T093500Z
+SUMMARY:072 CM - - Pathologie Clinique - Troubles de la coagulation
+UID:4931af50-191a-4741-b78f-862fd9d21f33@4931.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: TD\nIntervenant: Jaillardon Laëtitia\nSalle: 218_salle-Chan\nCode: 072\nGroupes: VET4-8
+DTEND:20260924T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:218_salle-Chan - Jaillardon Laëtitia
+DTSTART:20260924T083500Z
+SUMMARY:072 TD - - Pathologie Clinique - Pathologie clinique séance 1
+UID:31eb6dd6-c0e2-47a5-9aed-18ca6f01e609@31eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: VET4\nIntervenant: e-learning\nSalle: Beaugrand Florence\nCode: \nGroupes: 
+DTEND:20260905T110500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Beaugrand Florence - e-learning
+DTSTART:20260905T090500Z
+SUMMARY: VET4 - 073- Practice management - Déontologie et entreprenariat - EL Entrepreneuriat 1- DDL
+UID:dd3ab7f2-2821-4337-9e4f-5a435fe05c4f@dd3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: VET4\nIntervenant: CM\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: 
+DTEND:20260911T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - CM
+DTSTART:20260911T140000Z
+SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Aviculture alimentation 1- M.PINSON
+UID:10afc43c-f924-47e8-846f-980aa3b1d569@10af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: VET4\nIntervenant: e-learning\nSalle: Beaugrand Florence\nCode: \nGroupes: 
+DTEND:20261003T090000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Beaugrand Florence - e-learning
+DTSTART:20261003T080000Z
+SUMMARY: VET4 - 073- Practice management - Déontologie et entreprenariat - EL EL Vétérinaires et sociétés DDL 6/11/26
+UID:55353300-4f81-4753-b2ef-41e90dca0d00@5535.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: Françoise Schwobthaler\nIntervenant: CM\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: \nGroupes: VET4
+DTEND:20261002T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - CM
+DTSTART:20261002T140000Z
+SUMMARY: Françoise Schwobthaler - 073- Practice management - Déontologie et entreprenariat - CM Ethique médicale
+UID:7aef8ced-47fa-4f77-8f29-d29273e1341a@7aef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: CM\nIntervenant: Calvez Ségolène\nSalle: Amphi G2S_Chan\nCode: 074\nGroupes: VET4
+DTEND:20260903T072000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Calvez Ségolène
+DTSTART:20260903T063000Z
+SUMMARY:074 CM - Production et médecine avicole et piscicole - Aquaculture  Filieres-
+UID:f0e69406-7239-4cd6-a785-4a78fca5ea9a@f0e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: 071\nGroupes: 
+DTEND:20260908T170000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260908T160000Z
+SUMMARY:071  - maladies des Ruminants 2 - Pathologie de l'appareil respiratoire des bovins
+UID:a8fa3ae5-8edf-40d4-a582-3d940c6eeed0@a8fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Briand-Amirat Lamia\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260911T134500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Briand-Amirat Lamia
+DTSTART:20260911T125500Z
+SUMMARY:075 CM - - Obstétrique - Post partum
+UID:771e0656-6a1a-442e-b5d8-af4a3307d844@771e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: \nIntervenant: VET4\nSalle: e-learning\nCode: \nGroupes: 
+DTEND:20260924T170000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:e-learning - VET4
+DTSTART:20260924T150000Z
+SUMMARY:  - 078- Anatomie Pathologie et Cancérologie Spéciales - Vidéos de pathologie digestive- à visionner avant le TD
+UID:1c6b9c78-b84b-48b0-af04-f47202a453a9@1c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Goyenvalle Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260915T092000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Goyenvalle Eric
+DTSTART:20260915T083000Z
+SUMMARY:076 CM - Pathologie chirurgicale - Dysplasie du coude
+UID:220655c5-5809-4a18-b241-af48a7655921@2206.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: SI1 - stage infirmier 1  (rattaché à l'UE 081)\nType: VET4-7\nIntervenant: Cliniques\nSalle: CHUV\nCode: 0701\nGroupes: VET4-8
+DTEND:20260917T103000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:CHUV - Cliniques
+DTSTART:20260917T063000Z
+SUMMARY:0701 VET4-7 - SI1 - stage infirmier 1  (rattaché à l'UE 081) - SI1 (UE 081)
+UID:0b668dec-feba-4542-b412-39f2f2c6b804@0b66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
 DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Chauvin Alain\nSalle: Amphi G2S_Chan\nCode: 071\nGroupes: VET4
 DTEND:20260901T082000Z
-LAST-MODIFIED:20260917T122409Z
+LAST-MODIFIED:20260921T133516Z
 LOCATION:Amphi G2S_Chan - Chauvin Alain
 DTSTART:20260901T073000Z
 SUMMARY:071 CM - maladies des Ruminants 2 - Parasitoses tissulaire (cestodoses larvaires\, sarcosporidioses...)
-UID:545c2f94-a19b-40c6-9937-0812ef5cde36@545c.org
+UID:8fc1a362-051e-492a-bc21-b9aa49d1315f@8fc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Bruyas Jean-François\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260930T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Bruyas Jean-François
+DTSTART:20260930T120000Z
+SUMMARY:075 CM - - Obstétrique - Pathologie gestation
+UID:80de3b55-d63b-477a-93d4-75a9c30d0ca6@80de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Abadie Jérôme\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: \nGroupes: VET4
+DTEND:20260929T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Abadie Jérôme
+DTSTART:20260929T130000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie Respiratoire 2
+UID:13505716-60d7-48db-81af-ac7cfbd4d920@1350.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: TP\nIntervenant: Nguyen Frédérique\nSalle: 700_info_salle-Chan\nCode: 072\nGroupes: VET4-8
+DTEND:20260921T082500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:700_info_salle-Chan - Nguyen Frédérique
+DTSTART:20260921T063000Z
+SUMMARY:072 TP - - Pathologie Clinique - Hématologie séance 1
+UID:d186f45a-9374-4d63-8601-9942a2df4d7e@d186.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Maitre Pierre\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260902T092500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Maitre Pierre
+DTSTART:20260902T083500Z
+SUMMARY:076 CM - Pathologie chirurgicale - Elements de traumatologie générale 1
+UID:078fcd2f-9afe-45a9-9231-2715881fb0f5@078f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260903T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Nguyen Frédérique
+DTSTART:20260903T093500Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Tumeurs buccales et gastro -intestinale
+UID:197a92db-0e90-4f78-97ab-e9b51288a0a5@197a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 073- Practice management - Déontologie et entreprenariat\nType: VET4\nIntervenant: e-learning\nSalle: Beaugrand Florence\nCode: \nGroupes: 
+DTEND:20260915T170000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Beaugrand Florence - e-learning
+DTSTART:20260915T160000Z
+SUMMARY: VET4 - 073- Practice management - Déontologie et entreprenariat - EL Dilemmes et paradoxes DDL 16/11/26
+UID:b0c4f109-14c7-49df-825e-b51fc10b6cbd@b0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: maladies des Ruminants 2\nType: CM\nIntervenant: Ravinet Nadine\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 071\nGroupes: VET4
+DTEND:20260915T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Ravinet Nadine
+DTSTART:20260915T120000Z
+SUMMARY:071 CM - maladies des Ruminants 2 - Protozooses abortives (bovins et petits ruminants)
+UID:260b6ee2-51ae-45f9-ae31-fc41e2dd6c53@260b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Drut Amandine\nSalle: Amphi G2S_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260908T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Drut Amandine
+DTSTART:20260908T140000Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - URO néphro : ABAU - Lithiases bas appareil urinaire -
+UID:df9cf753-236a-4745-aebc-014d77fe171f@df9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Chocteau Florian\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: \nGroupes: VET4
+DTEND:20261002T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Chocteau Florian
+DTSTART:20261002T130000Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Pathologie mammaire
+UID:c3bb4c1c-6f99-498b-bf87-bd3667203293@c3bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260908T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
+DTSTART:20260908T093500Z
+SUMMARY:072 CM - - Pathologie Clinique - Vache Laitière 2/2
+UID:8761c20b-9fd8-433b-8055-2adde5ff755a@8761.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: VET4\nIntervenant: CM Zoom\nSalle: Bencharif Djemil\nCode: 075\nGroupes: 
+DTEND:20260902T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Bencharif Djemil - CM Zoom
+DTSTART:20260902T140000Z
+SUMMARY:075 VET4 - - Obstétrique - Maladies d'élevage
+UID:73cfe988-8db9-49cb-b7e9-ffbbc7bf11b9@73cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Drut Amandine\nSalle: Amphi G2S_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260908T135000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Drut Amandine
+DTSTART:20260908T130000Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - URO-néphrologie  Maladies rénales chroniques
+UID:5a86861a-a242-4f9d-8a2f-03968239d762@5a86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Pathologie chirurgicale\nType: CM\nIntervenant: Goyenvalle Eric\nSalle: Amphi G2S_Chan\nCode: 076\nGroupes: VET4
+DTEND:20260923T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Goyenvalle Eric
+DTSTART:20260923T120000Z
+SUMMARY:076 CM - Pathologie chirurgicale - Affections osseuses microbiennes
+UID:d1ee7fa9-7ea6-4eea-9f4d-c15bfef5a90b@d1ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie des carnivores 1\nType: CM\nIntervenant: Drut Amandine\nSalle: Amphi_AH_Pierre Cuq_Chan\nCode: 077\nGroupes: VET4
+DTEND:20260914T145000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi_AH_Pierre Cuq_Chan - Drut Amandine
+DTSTART:20260914T140000Z
+SUMMARY:077 CM - - Pathologie des carnivores 1 - URO néphro : Lithiases haut appareil urinaire -
+UID:02d7a062-a258-4c3e-8059-a6118d0e90de@02d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Pathologie Clinique\nType: CM\nIntervenant: Jaillardon Laëtitia\nSalle: Amphi G2S_Chan\nCode: 072\nGroupes: VET4
+DTEND:20260908T092500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Jaillardon Laëtitia
+DTSTART:20260908T083500Z
+SUMMARY:072 CM - - Pathologie Clinique - Vache Laitière 1/2
+UID:e0ca8d2d-5320-40f3-97e9-5d50598cdefd@e0ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM\nIntervenant: Briand-Amirat Lamia\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260911T125000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Briand-Amirat Lamia
+DTSTART:20260911T120000Z
+SUMMARY:075 CM - - Obstétrique - Post partum
+UID:d92e6311-df42-460f-bddc-9b0be7b9b738@d92e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: Production et médecine avicole et piscicole\nType: VET4\nIntervenant: e-learning\nSalle: Calvez Ségolène\nCode: 074\nGroupes: 
+DTEND:20260902T160000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Calvez Ségolène - e-learning
+DTSTART:20260902T150000Z
+SUMMARY:074 VET4 - Production et médecine avicole et piscicole - Démarche nécroscopique à regarder avant le 1er TP   de la semaine 38
+UID:379e695e-be6d-449f-b123-1047ec6ed71f@379e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260922T072500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Nguyen Frédérique
+DTSTART:20260922T063500Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Hémopathies malignes
+UID:470d2cf4-cd72-4e52-aa2d-217d0c6b064a@470d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: 078- Anatomie Pathologie et Cancérologie Spéciales\nType: CM\nIntervenant: Nguyen Frédérique\nSalle: Amphi G2S_Chan\nCode: \nGroupes: VET4
+DTEND:20260831T102500Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Nguyen Frédérique
+DTSTART:20260831T093500Z
+SUMMARY: CM - 078- Anatomie Pathologie et Cancérologie Spéciales - Dermatologie non tumorale
+UID:53d07b66-b62e-43d2-8e17-a5aeb0370c6a@53d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T133516Z
+DESCRIPTION:Matière: - Obstétrique\nType: CM Zoom\nIntervenant: Bencharif Djemil\nSalle: Amphi G2S_Chan\nCode: 075\nGroupes: VET4
+DTEND:20260908T072000Z
+LAST-MODIFIED:20260921T133516Z
+LOCATION:Amphi G2S_Chan - Bencharif Djemil
+DTSTART:20260908T063000Z
+SUMMARY:075 CM Zoom - - Obstétrique - Maladies d'élevage
+UID:b19972f2-04e3-4102-a4cb-1e4cf389c6cd@b199.org
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR

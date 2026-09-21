@@ -1520,5 +1520,270 @@
         "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
         "location": "e-learning",
         "teacher": "VET4"
+    },
+    {
+        "date": "2026-09-28",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 3101)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Cliniques",
+        "type": "VET4-7",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-28",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie articulaire : entorses",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Aguado Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-28",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie articulaire : luxations",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Aguado Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-28",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Maladies d elevage",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-29",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 081)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Cliniques",
+        "type": "VET4-7",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-09-29",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie Respiratoire 2",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Abadie Jérôme",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-29",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie Respiratoire 2",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Abadie Jérôme",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-29",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Post partum",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Briand-Amirat Lamia",
+        "teacher": "CM",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-09-30",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie gestation",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Bruyas Jean-François",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-30",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie gestation",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Bruyas Jean-François",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-09-30",
+        "start_time": "16:00",
+        "end_time": "17:50",
+        "title": "Aviculture alimentation 1- M.PINSON",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "CM Zoom",
+        "type": "Report du CM du 11/09",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-01",
+        "start_time": "08:30",
+        "end_time": "10:20",
+        "title": "Hématologie séance 2",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "700_info_salle-Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "TP",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-01",
+        "start_time": "10:35",
+        "end_time": "12:30",
+        "title": "Pathologie clinique séance 2",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "218_salle-Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "TD",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-02",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 081)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Cliniques",
+        "type": "VET4-7",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-02",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie mammaire",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Chocteau Florian",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-02",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie mammaire",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Chocteau Florian",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-02",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "CM Ethique médicale",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "CM",
+        "type": "Françoise Schwobthaler",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-03",
+        "start_time": "08:35",
+        "end_time": "09:35",
+        "title": "Protozooses abortives (bovins et petits ruminants)",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-10-03",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "title": "EL EL Vétérinaires et sociétés DDL 6/11/26",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Beaugrand Florence",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-10-03",
+        "start_time": "14:05",
+        "end_time": "16:05",
+        "title": "Vidéos de pathologie digestive",
+        "course_code": "",
+        "course_name": "e-learning",
+        "location": "VET4"
     }
 ]
