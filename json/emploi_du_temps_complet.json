@@ -1785,5 +1785,340 @@
         "course_code": "",
         "course_name": "e-learning",
         "location": "VET4"
+    },
+    {
+        "date": "2026-10-05",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 081)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Cliniques",
+        "type": "VET4-7",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-05",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie des petits ruminants 2-2",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Relun Anne",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-05",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Démarche diagnostique face à une anémie",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-05",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Aquaculture durable 1",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Calvez Ségolène",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-05",
+        "start_time": "17:00",
+        "end_time": "19:00",
+        "title": "Avoir visionner le film avant le 12/10 Les grands syndromes : maigreur",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-10-06",
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "title": "Reunion Mobilité académique par service IRO",
+        "course_code": "Amphi_AH_Pierre",
+        "course_name": "Cuq_Chan",
+        "location": "Réunion",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4",
+            "VET5"
+        ]
+    },
+    {
+        "date": "2026-10-06",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Exploration endocrinienne: principes généraux",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-06",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie articulaire : arthrites-",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Aguado Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-06",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "La rupture du ligament croisé cranial 1",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Aguado Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-07",
+        "start_time": "08:30",
+        "end_time": "10:25",
+        "title": "TD Pathologie digestive",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "220_TD/ info_salle-Chan",
+        "teacher": "Chocteau Florian",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-07",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie Respiratoire  3",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Abadie Jérôme",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-07",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Hypocorticisme",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2N_Chan",
+        "teacher": "MERIC Tristan",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-07",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Pathologie obstétricale",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Yousef.Samy",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-07",
+        "start_time": "17:00",
+        "end_time": "17:50",
+        "title": "Aquaculture durable 2",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Calvez Ségolène",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-07",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "e-learning tests auto-formation en endocrinologie",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Sénécat Odile",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-10-08",
+        "start_time": "08:30",
+        "end_time": "10:25",
+        "title": "TD 3 Pathologie de l'appareil respiratoire des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "206_modulaire_salle-Chan",
+        "teacher": "Ravinet Nadine",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-08",
+        "start_time": "10:35",
+        "end_time": "12:25",
+        "title": "Analyse des prélèvements",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "402_TP_salle-Chan",
+        "teacher": "Calvez Ségolène",
+        "type": "TP",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-08",
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "title": "Reunion stage par service IRO",
+        "course_code": "Amphi",
+        "course_name": "G2N_Chan",
+        "location": "Réunion",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4",
+            "VET5"
+        ]
+    },
+    {
+        "date": "2026-10-09",
+        "start_time": "10:35",
+        "end_time": "12:25",
+        "title": "Analyse économique -aviculture",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "221_TD/ info_salle-Chan",
+        "teacher": "Navarro-Gonzalez Nora",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-09",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Hormones de croissance",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Sénécat Odile",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-09",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie musculaire",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-09",
+        "start_time": "16:05",
+        "end_time": "16:55",
+        "title": "Pathologie musculaire",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Nguyen Frédérique",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-10",
+        "start_time": "08:05",
+        "end_time": "10:05",
+        "title": "Pathologie métabolique des bovins e-learning préparatioon de cours",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-10-10",
+        "start_time": "10:16",
+        "end_time": "12:16",
+        "title": "Pathologie métabolique des bovins e-learning préparatioon de cours",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-10-10",
+        "start_time": "15:55",
+        "end_time": "17:55",
+        "title": "Révision",
+        "course_code": "Travail",
+        "course_name": "personnel",
+        "location": "VET4"
     }
 ]
