@@ -2120,5 +2120,276 @@
         "course_code": "Travail",
         "course_name": "personnel",
         "location": "VET4"
+    },
+    {
+        "date": "2026-10-12",
+        "start_time": "08:30",
+        "end_time": "10:25",
+        "title": "TP Ethique médicale -EMARGEMENT",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "207_modulaire_salle-Chan",
+        "teacher": "TP",
+        "type": "Françoise Schwobthaler",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-12",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Les grands syndromes : protéinurie et PUPD( 1/2)",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-12",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Les grands syndromes : protéinurie et PUPD( 2/2)",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-12",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Pathologie métabolique des bovins 1",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Rouault Maud",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-12",
+        "start_time": "17:55",
+        "end_time": "18:55",
+        "title": "EL Risques psycho sociaux DDL 23/11/2025",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Insignares Franck",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-10-13",
+        "start_time": "12:00",
+        "end_time": "14:00",
+        "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
+        "course_code": "Grand",
+        "course_name": "Hall d Accueil Administration C",
+        "location": "Evénement Thématique",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-13",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pédagogie inversée = les grands syndromes maigreur",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-13",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Imagerie des glandes endocrines",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Bouhsina Nora",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-13",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Glomérulopathies",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Drut Amandine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-13",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "E-learning :Epanchements",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Hernandez-Rodriguez Juan",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-10-14",
+        "start_time": "12:00",
+        "end_time": "14:00",
+        "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
+        "course_code": "Grand",
+        "course_name": "Hall d Accueil Administration C",
+        "location": "Evénement Thématique",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-14",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "La rupture du ligament croisé cranial 2",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Aguado Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-14",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "la maladie de legg Calvé Perthes",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Aguado Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-14",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Pathologie pancréatique et salivaire",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Chocteau Florian",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-14",
+        "start_time": "18:05",
+        "end_time": "19:05",
+        "title": "EL Déontologie (CROV)",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-10-15",
+        "start_time": "12:00",
+        "end_time": "14:00",
+        "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
+        "course_code": "Grand",
+        "course_name": "Hall d Accueil Administration C",
+        "location": "Evénement Thématique",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-16",
+        "start_time": "10:40",
+        "end_time": "12:30",
+        "title": "TD  Protozooses abortives (bovins et petits ruminants)",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "221_TD/ info_salle-Chan",
+        "teacher": "Ravinet Nadine",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-16",
+        "start_time": "14:00",
+        "end_time": "14:51",
+        "title": "Pathologie urinaire 1",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Colle Marie-Anne",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-16",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie urinaire 1",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Colle Marie-Anne",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-16",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Affections neurologiques et oculaires des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Guatteo Raphaël",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
     }
 ]
