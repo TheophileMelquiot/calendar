@@ -2324,7 +2324,7 @@
     {
         "date": "2026-10-15",
         "start_time": "12:00",
-        "end_time": "14:00",
+        "end_time": "13:00",
         "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
         "course_code": "Grand",
         "course_name": "Hall d Accueil Administration C",
@@ -2348,6 +2348,20 @@
         "groups": [
             "VET4-7",
             "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-16",
+        "start_time": "12:00",
+        "end_time": "14:00",
+        "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
+        "course_code": "Grand",
+        "course_name": "Hall d Accueil Administration C",
+        "location": "Evénement Thématique",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4"
         ]
     },
     {
@@ -2391,5 +2405,240 @@
         "groups": [
             "VET4"
         ]
+    },
+    {
+        "date": "2026-10-19",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Ostéochondrose et arthrose 1",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Gauthier Olivier",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-19",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Ostéochondrose et arthrose 2",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Gauthier Olivier",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-19",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "URO Incontinence urinaire",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Drut Amandine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-20",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Maladies majeures en aviculture - C. BELLOC",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Belloc Catherine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-20",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Respiratoire : Collapsus trachéal, bronchique",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "cyril.duperrier-simond",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-20",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Respiratoire : Broncho-pneumopathies félines",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "cyril.duperrier-simond",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-21",
+        "start_time": "08:30",
+        "end_time": "10:20",
+        "title": "Pathologie clinique séance 3",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "218_salle-Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "TD",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-10-21",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Maladies d elevage",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-21",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie obstétricale",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Yousef.Samy",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-21",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Maladies vectorisées et anémies des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Rouault Maud",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-21",
+        "start_time": "17:00",
+        "end_time": "18:00",
+        "title": "Examen Blanc- Auto-Evaluation sur connect",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Nguyen Frédérique",
+        "teacher": "Auto-évaluation en ligne",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-10-23",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Parasitoses majeures en aviculture",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Agoulon Albert",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-23",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie des fractures 1",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Goyenvalle Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-23",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Pathologie des fractures 2",
+        "course_code": "076",
+        "course_name": "Pathologie chirurgicale",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Goyenvalle Eric",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-24",
+        "start_time": "08:29",
+        "end_time": "09:29",
+        "title": "Pathologie metabolique des bovins e-learning 2 révisions",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-10-24",
+        "start_time": "09:46",
+        "end_time": "10:46",
+        "title": "e-learning",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-10-24",
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "title": "Ophtalmologie 1- à faire avant FAQ du 1/12",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Deschamps Jack-Yves",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-10-24",
+        "start_time": "15:10",
+        "end_time": "16:10",
+        "title": "Ophtalmologie 2- à faire avant FAQ du 1/12",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Deschamps Jack-Yves",
+        "teacher": "e-learning",
+        "type": "VET4"
     }
 ]
