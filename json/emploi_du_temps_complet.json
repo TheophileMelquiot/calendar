@@ -2343,7 +2343,7 @@
         "course_code": "071",
         "course_name": "maladies des Ruminants 2",
         "location": "221_TD/ info_salle-Chan",
-        "teacher": "Ravinet Nadine",
+        "teacher": "aurore.boishardy",
         "type": "TD",
         "groups": [
             "VET4-7",
@@ -2408,6 +2408,20 @@
     },
     {
         "date": "2026-10-19",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
+        "course_code": "Grand",
+        "course_name": "Hall d Accueil Administration C",
+        "location": "Evénement Thématique",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-19",
         "start_time": "14:00",
         "end_time": "14:50",
         "title": "Ostéochondrose et arthrose 1",
@@ -2444,6 +2458,20 @@
         "location": "Amphi G2S_Chan",
         "teacher": "Drut Amandine",
         "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-20",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
+        "course_code": "Grand",
+        "course_name": "Hall d Accueil Administration C",
+        "location": "Evénement Thématique",
+        "teacher": "VET2",
+        "type": "VET3",
         "groups": [
             "VET4"
         ]
@@ -2506,6 +2534,20 @@
     },
     {
         "date": "2026-10-21",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
+        "course_code": "Grand",
+        "course_name": "Hall d Accueil Administration C",
+        "location": "Evénement Thématique",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-21",
         "start_time": "14:00",
         "end_time": "14:50",
         "title": "Maladies d elevage",
@@ -2556,6 +2598,34 @@
         "location": "Nguyen Frédérique",
         "teacher": "Auto-évaluation en ligne",
         "type": "VET4"
+    },
+    {
+        "date": "2026-10-22",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
+        "course_code": "Grand",
+        "course_name": "Hall d Accueil Administration C",
+        "location": "Evénement Thématique",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-10-23",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "title": "Erasmus Days présence service IRO Vet -Thomas Françon",
+        "course_code": "Grand",
+        "course_name": "Hall d Accueil Administration C",
+        "location": "Evénement Thématique",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4"
+        ]
     },
     {
         "date": "2026-10-23",
