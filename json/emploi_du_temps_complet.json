@@ -2710,5 +2710,291 @@
         "location": "Deschamps Jack-Yves",
         "teacher": "e-learning",
         "type": "VET4"
+    },
+    {
+        "date": "2026-11-02",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 081)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Cliniques",
+        "type": "VET4-7",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-02",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie urinaire 2",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Colle Marie-Anne",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-02",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie urinaire 2",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Colle Marie-Anne",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-02",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Respiratoire : affections laryngées",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2N_Chan",
+        "teacher": "cyril.duperrier-simond",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-02",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "E-learning -autres maladies réglementées des oiseaux",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Ruvoen Nathalie",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-11-03",
+        "start_time": "14:30",
+        "end_time": "15:20",
+        "title": "intermédiaire UE 074 durée 50 min pour les 1/3 temps en salle",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "220_TD/ info_salle-Chan",
+        "teacher": "Amphi_AH_Pierre Cuq_Chan",
+        "type": "Calvez Ségolène",
+        "groups": [
+            "Contrôle intermédiaire/partiel",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-03",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Respiratoire : Aspergillose rhino-sinusale",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Guillot Jacques",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-04",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Maladies majeures en aviculture",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Ruvoen Nathalie",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-04",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Respiratoire : affections nasales",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "cyril.duperrier-simond",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-04",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Respiratoire :  pyothorax et chylothorax",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "cyril.duperrier-simond",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-04",
+        "start_time": "17:00",
+        "end_time": "17:30",
+        "title": "Auto-evaluation OBLIGATOIRE",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Auto-évaluation en ligne",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-11-05",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 081)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Cliniques",
+        "type": "VET4-7",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-06",
+        "start_time": "08:30",
+        "end_time": "10:20",
+        "title": "Alimentation aviculture -M. Pinson/M. Sauvaget",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "220_TD/ info_salle-Chan",
+        "teacher": "TD",
+        "type": "VET4-7",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-06",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Post partum",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Briand-Amirat Lamia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-06",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Post Partum",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Briand-Amirat Lamia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-06",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "BPH- Bonnes Pratiques d'hygiene- assurer et accompagner en production primaire -respect des exi",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Strubbia Sofia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-06",
+        "start_time": "17:00",
+        "end_time": "18:00",
+        "title": "Révisions-064 Maladies règlementées à faire avant le TD Dangers sanitaires 18/11/26",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Ruvoen Nathalie",
+        "teacher": "Révisions",
+        "type": "Révisions-064 Maladies règlementées à faire avant le TD Dangers sanitaires\n1er TD à partir du  18/11/26",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-07",
+        "start_time": "08:20",
+        "end_time": "09:20",
+        "title": "Ophtalmologie 3 - à faire avant FAQ du 1/12",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Deschamps Jack-Yves",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-11-07",
+        "start_time": "09:25",
+        "end_time": "10:25",
+        "title": "Ophtalmologie 4- à faire avant FAQ du 1/12",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Deschamps Jack-Yves",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-11-07",
+        "start_time": "10:35",
+        "end_time": "11:35",
+        "title": "Pathologie des petits ruminants 2",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-11-07",
+        "start_time": "12:20",
+        "end_time": "13:10",
+        "title": "EL Assurances professionnelle- intervenant CROV",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "e-learning",
+        "teacher": "CROV",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-11-07",
+        "start_time": "13:55",
+        "end_time": "14:55",
+        "title": "Travail personnel",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Sénécat Odile",
+        "teacher": "e-learning",
+        "type": "VET4"
     }
 ]
