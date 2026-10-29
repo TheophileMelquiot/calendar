@@ -2809,6 +2809,20 @@
     },
     {
         "date": "2026-11-04",
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "title": "retour d'expériences mobilité internationale - Thomas",
+        "course_code": "Amphi_AH_Pierre",
+        "course_name": "Cuq_Chan",
+        "location": "Réunion",
+        "teacher": "VET2",
+        "type": "VET3",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-04",
         "start_time": "14:00",
         "end_time": "14:50",
         "title": "Maladies majeures en aviculture",
