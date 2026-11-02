@@ -2802,7 +2802,7 @@
         "course_code": "077",
         "course_name": "- Pathologie des carnivores 1",
         "location": "Amphi_AH_Pierre Cuq_Chan",
-        "teacher": "Guillot Jacques",
+        "teacher": "perdang isaline",
         "type": "CM",
         "groups": [
             "VET4"
@@ -3011,5 +3011,230 @@
         "location": "Sénécat Odile",
         "teacher": "e-learning",
         "type": "VET4"
+    },
+    {
+        "date": "2026-11-09",
+        "start_time": "08:30",
+        "end_time": "10:20",
+        "title": "TD Pathologie des petits ruminants 2",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "222_TD/ info_salle-Chan",
+        "teacher": "Rouault Maud",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-09",
+        "start_time": "14:00",
+        "end_time": "14:30",
+        "title": "Intermédiaire UE 072- Passage sera affiché sur Connect",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "700_info_salle-Chan",
+        "teacher": "702_info_salle-Chan",
+        "type": "704_info_salle-Chan",
+        "groups": [
+            "Jaillardon Laëtitia",
+            "Contrôle intermédiaire/partiel",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-09",
+        "start_time": "14:40",
+        "end_time": "15:10",
+        "title": "Intermédiaire UE 072- Passage sera affiché sur Connect",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "700_info_salle-Chan",
+        "teacher": "702_info_salle-Chan",
+        "type": "704_info_salle-Chan",
+        "groups": [
+            "Jaillardon Laëtitia",
+            "Contrôle intermédiaire/partiel",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-09",
+        "start_time": "15:15",
+        "end_time": "15:55",
+        "title": "Intermédiaire UE 072-Vétérances+1/3Temps-Passage sera affiché sur Connect",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "700_info_salle-Chan",
+        "teacher": "702_info_salle-Chan",
+        "type": "704_info_salle-Chan",
+        "groups": [
+            "Jaillardon Laëtitia",
+            "Contrôle intermédiaire/partiel",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-09",
+        "start_time": "16:30",
+        "end_time": "17:20",
+        "title": "CM Angiostrogylose",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Guillot Jacques",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-10",
+        "start_time": "08:30",
+        "end_time": "10:20",
+        "title": "TD  Assertivité",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "202_salle -Chan",
+        "teacher": "Beaugrand Florence",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-10",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie obstétricale",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Yousef.Samy",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-10",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Maladies d'élevage-",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-10",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Maladies d'élevage-",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bencharif Djemil",
+        "type": "CM Zoom",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-12",
+        "start_time": "10:35",
+        "end_time": "12:25",
+        "title": "TD Affections neurologiques et oculaires des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "222_TD/ info_salle-Chan",
+        "teacher": "Relun Anne",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-13",
+        "start_time": "10:30",
+        "end_time": "12:25",
+        "title": "Pathologie clinique séance 4",
+        "course_code": "072",
+        "course_name": "- Pathologie Clinique",
+        "location": "218_salle-Chan",
+        "teacher": "Jaillardon Laëtitia",
+        "type": "TD",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-13",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie néonatale",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Briand-Amirat Lamia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-13",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Repsiratoire : Imagerie app respiratoire",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bouhsina Nora",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-13",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Repsiratoire : Imagerie app respiratoire",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bouhsina Nora",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-13",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "e-learning",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-11-14",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "Affections neurologiques et oculaires des bovins e-lerning prévoir  4H",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
     }
 ]
