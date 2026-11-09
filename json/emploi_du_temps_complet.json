@@ -3236,5 +3236,298 @@
         "course_name": "maladies des Ruminants 2",
         "location": "e-learning",
         "teacher": "VET4"
+    },
+    {
+        "date": "2026-11-16",
+        "start_time": "08:25",
+        "end_time": "10:25",
+        "title": "Optionnel Entrepreneuriat MPL - imperativement dans ces salles",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Beaugrand Florence",
+        "type": "TD",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-16",
+        "start_time": "10:25",
+        "end_time": "12:25",
+        "title": "Optionnel Entrepreneuriat MPL - imperativement dans ces salles",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Amphi G2N_Chan",
+        "teacher": "Beaugrand Florence",
+        "type": "TD",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-16",
+        "start_time": "13:55",
+        "end_time": "15:55",
+        "title": "Optionnel Entrepreneuriat  MPL- imperativement dans ces salles",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "204_modulaire_salle-Chan",
+        "teacher": "207_modulaire_salle-Chan",
+        "type": "218_salle-Chan",
+        "groups": [
+            "220_TD/ info_salle-Chan",
+            "221_TD/ info_salle-Chan",
+            "222_TD/ info_salle-Chan",
+            "Amphi G2N_Chan",
+            "Beaugrand Florence",
+            "TD",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-16",
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "title": "Optionnel Entrepreneuriat MPL- imperativement dans ces salles",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "204_modulaire_salle-Chan",
+        "teacher": "207_modulaire_salle-Chan",
+        "type": "218_salle-Chan",
+        "groups": [
+            "220_TD/ info_salle-Chan",
+            "221_TD/ info_salle-Chan",
+            "222_TD/ info_salle-Chan",
+            "Amphi G2N_Chan",
+            "Beaugrand Florence",
+            "TD",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-17",
+        "start_time": "08:25",
+        "end_time": "10:25",
+        "title": "Optionnel Entrepreneuriat mpl - imperativement dans ces salles",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "204_modulaire_salle-Chan",
+        "teacher": "207_modulaire_salle-Chan",
+        "type": "218_salle-Chan",
+        "groups": [
+            "220_TD/ info_salle-Chan",
+            "221_TD/ info_salle-Chan",
+            "222_TD/ info_salle-Chan",
+            "Amphi G2N_Chan",
+            "Beaugrand Florence",
+            "TD",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-17",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "title": "Optionnel Entrepreneuriat MPL- imperativement dans ces salles",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "204_modulaire_salle-Chan",
+        "teacher": "207_modulaire_salle-Chan",
+        "type": "218_salle-Chan",
+        "groups": [
+            "220_TD/ info_salle-Chan",
+            "221_TD/ info_salle-Chan",
+            "222_TD/ info_salle-Chan",
+            "Amphi G2N_Chan",
+            "Beaugrand Florence",
+            "TD",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-17",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "title": "Optionnel Entrepreneuriat MPL- imperativement dans ces salles",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "204_modulaire_salle-Chan",
+        "teacher": "207_modulaire_salle-Chan",
+        "type": "218_salle-Chan",
+        "groups": [
+            "220_TD/ info_salle-Chan",
+            "221_TD/ info_salle-Chan",
+            "222_TD/ info_salle-Chan",
+            "Amphi G2N_Chan",
+            "TD",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-17",
+        "start_time": "16:05",
+        "end_time": "18:05",
+        "title": "Optionnel Entrepreneuriat MPL- imperativement dans ces salles",
+        "course_code": "",
+        "course_name": "073- Practice management - Déontologie et entreprenariat",
+        "location": "Amphi G2N_Chan",
+        "teacher": "TD",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-11-18",
+        "start_time": "10:35",
+        "end_time": "12:25",
+        "title": "Prévention, gestion maladies règlementées des oiseaux",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "221_TD/ info_salle-Chan",
+        "teacher": "Ruvoen Nathalie",
+        "type": "TD",
+        "groups": [
+            "VET4-7",
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-18",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Respiratoire : Broncho-pneumonies",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "cyril.duperrier-simond",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-18",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Respiratoire : Broncho-pneumonies",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Hernandez-Rodriguez Juan",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-18",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Pathologie obstétricale",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Yousef.Samy",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-18",
+        "start_time": "17:30",
+        "end_time": "18:00",
+        "title": "Test QCM  -30 min En Ligne sur Connect",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Sénécat Odile",
+        "teacher": "Contrôle intermédiaire/partiel",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-11-19",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "title": "SI1 (UE 081)",
+        "course_code": "0701",
+        "course_name": "SI1 - stage infirmier 1  (rattaché à l'UE 081)",
+        "location": "CHUV",
+        "teacher": "Cliniques",
+        "type": "VET4-7",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-20",
+        "start_time": "08:30",
+        "end_time": "10:25",
+        "title": "TD 1 Anglais-",
+        "course_code": "085",
+        "course_name": "- Anglais 4A",
+        "location": "703_salle-Chan",
+        "teacher": "Nicholson Ian",
+        "type": "TD",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-11-20",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Otologie",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bruet vincent",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-20",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Otologie",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Bruet vincent",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-20",
+        "start_time": "17:05",
+        "end_time": "19:05",
+        "title": "Pathologie génitale  video en ligne",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Abadie Jérôme",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-11-21",
+        "start_time": "08:30",
+        "end_time": "09:30",
+        "title": "Affections neurologiques et oculaires des bovins Révisions",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-11-21",
+        "start_time": "10:52",
+        "end_time": "12:52",
+        "title": "E-learning démarche en neurologie",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "e-learning",
+        "teacher": "VET4"
     }
 ]
