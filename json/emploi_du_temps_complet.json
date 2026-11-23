@@ -3755,9 +3755,8 @@
         "course_name": "Production et médecine avicole et piscicole",
         "location": "221_TD/ info_salle-Chan",
         "teacher": "Belloc Catherine",
-        "type": "Leblanc-Maridor Mily",
+        "type": "TD",
         "groups": [
-            "TD",
             "VET4-7",
             "VET4-8"
         ]
@@ -3821,5 +3820,270 @@
         "groups": [
             "VET4"
         ]
+    },
+    {
+        "date": "2026-11-30",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Pathologie obstétricale",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Yousef.Samy",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-30",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Maladies majeures en aviculture 4",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Belloc Catherine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-11-30",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Maladies majeures en aviculture",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Belloc Catherine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-01",
+        "start_time": "08:30",
+        "end_time": "13:00",
+        "title": "Controverse scientifique et construction du savoir",
+        "course_code": "",
+        "course_name": "204_modulaire_salle-Chan",
+        "location": "205_modulaire_salle-Chan",
+        "teacher": "501_salle-Chan",
+        "type": "502_salle-Chan",
+        "groups": [
+            "702_info_salle-Chan",
+            "Amphi G2N_Chan",
+            "Amphi_AH_Pierre Cuq_Chan",
+            "Amphi_Godfrain_Chan",
+            "Evénement Thématique",
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-01",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Tumeurs cutanées",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Chocteau Florian",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-01",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Tumeurs cutanées",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Chocteau Florian",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-01",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Oncologie 3- Principes de la chirurgicale en oncolgie",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi_AH_Pierre Cuq_Chan",
+        "teacher": "Maitre Pierre",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-01",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "Pathologie cardiaque des bovins e-learning",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
+    },
+    {
+        "date": "2026-12-02",
+        "start_time": "08:31",
+        "end_time": "10:25",
+        "title": "TP Maladie vectorisées des bovins",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "402_TP_salle-Chan",
+        "teacher": "Chauvin Alain",
+        "type": "TP",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-12-02",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Parasitoses vectorielles 2",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Agoulon Albert",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-02",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Pathologie osseuse",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Abadie Jérôme",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-02",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Pathologie osseuse",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Abadie Jérôme",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-02",
+        "start_time": "17:00",
+        "end_time": "17:50",
+        "title": "Pathologie obstétricale",
+        "course_code": "075",
+        "course_name": "- Obstétrique",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Briand-Amirat Lamia",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-02",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "title": "E learning Neurologie 2",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Dutil Guillaume",
+        "teacher": "e-learning",
+        "type": "VET4"
+    },
+    {
+        "date": "2026-12-03",
+        "start_time": "08:35",
+        "end_time": "10:30",
+        "title": "BPH- Bonnes pratiques d'hygiene- aviculture -info",
+        "course_code": "074",
+        "course_name": "Production et médecine avicole et piscicole",
+        "location": "220_TD/ info_salle-Chan",
+        "teacher": "Navarro-Gonzalez Nora",
+        "type": "TD",
+        "groups": [
+            "VET4-8"
+        ]
+    },
+    {
+        "date": "2026-12-04",
+        "start_time": "10:35",
+        "end_time": "12:25",
+        "title": "TD pathologie génitale et pathologie endocrine",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi_G5_Chan",
+        "teacher": "Abadie Jérôme",
+        "type": "Jaillardon Laëtitia",
+        "groups": [
+            "TD",
+            "VET4-1",
+            "VET4-10",
+            "VET4-7",
+            "VET4-8",
+            "VET4-9"
+        ]
+    },
+    {
+        "date": "2026-12-04",
+        "start_time": "14:00",
+        "end_time": "14:50",
+        "title": "Onconlogie 1 (démarche)",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Ibisch Catherine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-04",
+        "start_time": "15:00",
+        "end_time": "15:50",
+        "title": "Oncologie 2 (règlementation)",
+        "course_code": "077",
+        "course_name": "- Pathologie des carnivores 1",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Ibisch Catherine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-04",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "title": "Maladies vectorielles",
+        "course_code": "071",
+        "course_name": "maladies des Ruminants 2",
+        "location": "e-learning",
+        "teacher": "VET4"
     }
 ]
