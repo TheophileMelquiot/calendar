@@ -3978,20 +3978,6 @@
     },
     {
         "date": "2026-12-02",
-        "start_time": "16:00",
-        "end_time": "16:50",
-        "title": "Pathologie osseuse",
-        "course_code": "",
-        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
-        "location": "Amphi G2S_Chan",
-        "teacher": "Abadie Jérôme",
-        "type": "CM",
-        "groups": [
-            "VET4"
-        ]
-    },
-    {
-        "date": "2026-12-02",
         "start_time": "17:00",
         "end_time": "17:50",
         "title": "Pathologie obstétricale",
@@ -4071,6 +4057,20 @@
         "course_name": "- Pathologie des carnivores 1",
         "location": "Amphi G2S_Chan",
         "teacher": "Ibisch Catherine",
+        "type": "CM",
+        "groups": [
+            "VET4"
+        ]
+    },
+    {
+        "date": "2026-12-04",
+        "start_time": "16:00",
+        "end_time": "16:50",
+        "title": "Pathologie osseuse",
+        "course_code": "",
+        "course_name": "078- Anatomie Pathologie et Cancérologie Spéciales",
+        "location": "Amphi G2S_Chan",
+        "teacher": "Abadie Jérôme",
         "type": "CM",
         "groups": [
             "VET4"
