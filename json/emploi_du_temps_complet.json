@@ -3562,11 +3562,11 @@
         "date": "2026-11-23",
         "start_time": "14:55",
         "end_time": "15:45",
-        "title": "Pathologie néonatale",
+        "title": "Pathologie obstétricale",
         "course_code": "075",
         "course_name": "- Obstétrique",
         "location": "Amphi_AH_Pierre Cuq_Chan",
-        "teacher": "Briand-Amirat Lamia",
+        "teacher": "Yousef.Samy",
         "type": "CM",
         "groups": [
             "VET4"
@@ -3978,8 +3978,8 @@
     },
     {
         "date": "2026-12-02",
-        "start_time": "17:00",
-        "end_time": "17:50",
+        "start_time": "16:00",
+        "end_time": "16:50",
         "title": "Pathologie obstétricale",
         "course_code": "075",
         "course_name": "- Obstétrique",
